@@ -1,13 +1,19 @@
 ,App,Category,Size_M,Price,Rating
 1,Shake Shack,Food & Drink,138.5,0.0,4.7
+2,UnivisionNow En Vivo/On Demand,Entertainment,65.5,0.0,3.2
 3,7NOW: Food & Alcohol Delivery,Food & Drink,81.5,0.0,4.4
 4,Video & TV Cast | Chromecast,Photo & Video,30.0,0.0,3.7
 5,AliExpress Shopping App,Shopping,191.6,0.0,4.7
+6,Waze Carpool,Navigation,70.9,0.0,4.3
+7,Rush Limbaugh,News,94.3,0.0,3.8
 8,Talking Tom Cat 2,Entertainment,98.0,0.0,4.4
 11,Checkout 51: Cash Back Savings,Shopping,64.6,0.0,4.1
+14,Dictionary.com Pro Learn Words,Reference,135.9,3.99,4.7
+16,Pocket God,Entertainment,145.3,0.99,4.2
 17,Virtual Wallet,Finance,53.1,0.0,4.3
 18,DuckDuckGo Privacy Browser,Utilities,40.1,0.0,4.8
 19,Learn Languages with Memrise,Education,149.6,0.0,4.8
+21,SurveyMini,Lifestyle,59.2,0.0,4.0
 22,J.P. Morgan Mobile®,Finance,237.8,0.0,4.8
 23,Arlo,Photo & Video,482.7,0.0,3.9
 24,Insomnia Cookies,Food & Drink,33.0,0.0,4.8
@@ -15,31 +21,39 @@
 27,Living Earth - Clock & Weather,Weather,170.0,4.99,4.8
 28,FNAF Maps for Minecraft PE,Reference,194.0,0.0,4.5
 30,instdown,Utilities,9.4,0.0,4.8
+32,Daily Budget Original,Finance,37.5,0.0,4.7
 37,BIGO LIVE - Live Stream,Social Networking,150.7,0.0,4.3
 38,Starbucks,Food & Drink,211.8,0.0,4.8
 41,Finish Line – Winner's Circle,Shopping,84.0,0.0,4.8
 42,"Learn to Sing, Singing Lessons",Music,86.2,0.0,4.3
+44,BigOven Recipes & Meal Planner,Food & Drink,128.3,0.0,4.5
 45,Scan to PDF+OCR - Fine Scanner,Business,124.3,0.0,4.7
 47,Weather⁺,Weather,158.8,0.0,4.5
+49,Foxit Mobile PDF -Edit Convert,Productivity,132.8,0.0,4.4
 50,Moovit: Train & Bus Times,Navigation,180.6,0.0,4.6
 51,trivago: Compare Hotels & Save,Travel,80.7,0.0,4.7
 55,NYC Transit: Subway Tracker,Navigation,35.8,0.0,4.5
 57,Skyscanner - Travel Deals,Travel,194.6,0.0,4.8
 59,Slickdeals: Coupons & Shopping,Shopping,128.4,0.0,4.8
 61,CDL Practice Test 2019,Reference,43.3,0.0,4.9
+62,Homestyler Interior Design,Lifestyle,107.5,0.0,4.6
 63,Trending Music,Music,48.4,0.0,4.6
 64,Mr. Cooper,Finance,67.9,0.0,4.8
 67,InboxDollars Surveys,Lifestyle,76.9,0.0,4.4
 68,"Libby, by OverDrive",Books,20.7,0.0,4.8
 69,Insta Emoji Photo Editor,Photo & Video,116.9,0.0,4.8
 71,healow,Medical,98.2,0.0,3.8
+72,"REVER: Motorcycle, Maps, & GPS",Navigation,192.1,0.0,4.5
 73,Sleeper Fantasy Football,Sports,57.1,0.0,4.8
 74,Weather Live゜,Weather,138.9,0.0,4.5
 75,SurfEasy VPN,Productivity,43.1,0.0,4.4
 77,OptumRx,Medical,38.7,0.0,4.1
 79,JibJab,Entertainment,68.2,0.0,4.8
+80,Vagaro,Lifestyle,114.0,0.0,4.7
 82,Lumyer,Photo & Video,140.7,0.0,4.6
+85,Magic Screen Customize Your Lock & Home Wallpaper,Photo & Video,119.7,0.0,4.6
 90,MakeupPlus - Virtual Makeup,Photo & Video,228.5,0.0,4.6
+91,"BetterMe: Calm,Sleep,Meditate",Health & Fitness,33.7,0.0,4.4
 93,"Redbox – Rent, Watch, Play",Entertainment,59.3,0.0,4.2
 94,VPN 24: Hotspot VPN for iPhone,Productivity,34.8,0.0,4.5
 96,Wemo,Utilities,80.7,0.0,4.4
@@ -48,13 +62,21 @@
 104,Meitu,Photo & Video,203.0,0.0,4.8
 106,The Real Yellow Pages - YP,Travel,88.1,0.0,4.6
 107,Dr. Seuss Treasury,Books,121.7,0.0,4.7
+109,Medical Dictionary - Healthcare Terminology,Medical,121.8,0.0,4.8
 111,Manga Bird - Best manga reader,Books,34.3,0.0,4.6
+112,Icon Skins & Themes,Lifestyle,38.2,0.0,4.4
+118,RotoWire Fantasy News Center,Sports,35.5,0.0,4.7
+119,Shutterfly Share Sites,Photo & Video,193.8,0.0,3.3
 120,Namshi Fashion -  نمشي للأزياء,Shopping,115.7,0.0,4.5
 124,Express,Shopping,145.5,0.0,4.5
+125,Hello Weather,Weather,14.2,0.0,4.7
 127,المسافر لحجز الفنادق و الطيران,Travel,125.6,0.0,4.7
 129,Daily Water Tracker Reminder,Medical,160.1,0.0,4.8
 130,Dude Perfect 2,Games,104.0,0.0,4.7
+131,AT&T Secure Family™,Lifestyle,182.9,0.0,1.8
+132,Milwaukee Journal Sentinel,Magazines & Newspapers,234.6,0.0,4.5
 133,Smart Life - Smart Living,Lifestyle,127.6,0.0,4.7
+134,Ruler App + AR Tape Measure,Productivity,35.5,0.0,4.2
 136,Pocket Points: Student Rewards,Productivity,134.4,0.0,4.7
 137,Whova - Event & Conference App,Business,73.8,0.0,4.7
 138,SoundHound∞ - Music Discovery,Music,75.3,6.99,4.9
@@ -71,6 +93,7 @@
 154,PUBG MOBILE,Games,2457.6,0.0,4.4
 158,Urban Outfitters,Shopping,106.9,0.0,4.9
 160,Audible audiobooks & originals,Books,89.8,0.0,4.8
+162,Couple - Relationship App for Two,Lifestyle,27.6,0.0,3.1
 163,U.S. Bank,Finance,96.3,0.0,4.8
 165,Frank’s Weather Forecast,Weather,144.5,0.0,4.8
 166,Logo Maker- Create a design,Photo & Video,185.4,0.0,4.5
@@ -81,6 +104,7 @@
 176,Google Drive,Productivity,350.9,0.0,4.8
 180,Candy Crush Saga,Games,240.3,0.0,4.6
 181,BabySparks - Development App,Education,116.2,0.0,4.7
+182,Publix,Shopping,78.4,0.0,2.9
 184,Lotto Results - Lottery in US,News,32.8,0.0,4.7
 187,La Biblia Reina Valera Español,Books,13.8,0.0,4.8
 192,Hopper - Book Flights & Hotels,Travel,232.9,0.0,4.9
@@ -90,53 +114,79 @@
 197,9GAG: Best LOL Pics & GIFs,Entertainment,120.9,0.0,4.1
 198,"Zombies, Run!",Health & Fitness,348.0,0.0,4.8
 199,Fishbrain - Fishing App,Sports,185.5,0.0,4.7
+200,Farmers Insurance Inc.,Finance,91.4,0.0,4.8
+201,Amwell: Doctor Visits 24/7,Medical,205.0,0.0,4.7
 202,Wishbone - Compare Anything,Social Networking,158.1,0.0,3.8
+203,PBS KIDS Video,Education,53.2,0.0,3.9
 206,ASVAB Practice Test 2019,Reference,50.0,0.0,4.9
 208,GIF X - Best GIF Video Maker,Photo & Video,185.3,0.0,4.6
 209,Stocks Tracker:Real-time stock,Finance,43.0,0.0,4.5
+211,Musely,Shopping,146.5,0.0,4.7
 213,HOMER Reading: Learn to Read,Education,231.3,0.0,4.6
 217,Tetris® Blitz,Games,143.4,0.0,4.7
 218,Abide - Christian Meditation,Health & Fitness,55.1,0.0,4.8
+220,OpenVPN Connect,Utilities,19.2,0.0,3.9
 221,FamilySearch Tree,Reference,127.4,0.0,4.8
 224,Word Crossy - A crossword game,Games,196.6,0.0,4.5
 226,Daily Workouts Fitness Trainer,Health & Fitness,59.6,0.0,4.7
 228,Paychex Flex,Business,123.6,0.0,4.8
 229,Sonos Controller,Music,116.1,0.0,4.8
+232,StudyBlue,Education,99.1,0.0,4.5
 233,codeSpark Academy: Kids Coding,Education,174.2,0.0,4.6
 234,Scanner App: PDF Document Scan,Business,185.5,0.0,4.7
 235,Postmates - Food Delivery,Food & Drink,144.5,0.0,4.0
 237,RecMyCalls - Call Recorder,Business,122.9,0.0,3.9
+240,Apple TV Remote,Entertainment,14.1,0.0,2.1
 241,Golf GPS Rangefinder Scorecard,Sports,21.2,0.0,4.6
 242,FAX from iPhone - send fax,Business,82.5,0.0,4.8
 244,Songsterr Tabs & Chords,Music,51.5,0.0,4.7
+245,1st Grade Math Learning Games,Education,380.1,0.0,4.4
 246,Chatbooks Photo Albums & Cards,Photo & Video,235.0,0.0,4.8
+248,Fast Scanner : PDF Doc Scan,Business,51.8,0.0,4.8
+249,WMUR News 9 - New Hampshire,News,76.0,0.0,3.7
 250,Sprint Complete,Utilities,105.3,0.0,4.7
 252,Verizon Content-Transfer,Productivity,30.2,0.0,4.7
+254,Sonymote : Remote for Sony TV,Utilities,15.0,0.0,3.3
 255,Square Fit Photo Video Editor,Photo & Video,113.5,0.0,4.8
 256,Innovative 101 Learn Languages,Education,23.3,0.0,4.7
+257,"CamStar - Free Selfie Photo Effects for FB, PS Instagram & Snapchat",Entertainment,36.8,0.0,4.5
+258,Urban Dictionary,Reference,55.7,0.0,4.7
+259,Hushed Second Phone Number,Utilities,142.9,0.0,4.5
+260,Costco,Shopping,103.4,0.0,2.6
 261,Paperless Post,Lifestyle,164.1,0.0,4.6
 262,Unlimited TV:News & TV Shows,News,69.6,0.0,4.5
 264,Apartments.com Rentals,Lifestyle,83.5,0.0,4.6
 265,Period Tracker by GP Apps,Health & Fitness,74.8,0.0,4.8
 266,Wallpaper for Naruto Manga HD,Reference,14.0,0.0,4.6
+267,Groups,Productivity,108.9,0.0,4.3
 269,Flashlight ⊜,Utilities,9.0,0.0,4.6
 272,Pandora - Streaming Music,Music,153.6,0.0,4.8
 274,Amazon Seller,Business,53.7,0.0,4.6
 276,Fruit Ninja®,Games,140.7,0.0,4.0
+277,DMV Hub - Permit Practice Test,Education,97.4,0.0,4.7
 279,Hair Color Changer Salon Booth,Reference,15.5,0.0,4.4
 285,Rue La La - Shop Top Fashion,Shopping,39.6,0.0,4.8
+288,iLights Flashlight for iPhone,Utilities,12.7,0.0,4.6
 289,IMDb Movies & TV,Entertainment,111.1,0.0,4.8
+290,Slate.com,News,58.1,0.0,4.7
 292,Drive and Park,Games,131.9,0.0,4.6
 293,Routesy,Navigation,83.3,0.0,4.8
 294,MileIQ: Mileage Tracker & Log,Finance,142.8,0.0,4.6
+295,Epocrates,Medical,135.4,0.0,4.4
 300,QR Code Reader for iPhone!,Utilities,31.2,0.0,4.6
 301,The Metronome by Soundbrenner,Music,103.3,0.0,4.7
+306,SportsEngine Team Management,Sports,118.9,0.0,4.2
+308,Pacifica for Stress & Anxiety,Health & Fitness,168.6,0.0,4.7
 309,HelloFresh,Food & Drink,207.2,0.0,4.4
 310,New Furniture Mods - Pocket Wiki & Game Tools for Minecraft PC Edition,Reference,53.3,0.0,4.3
 311,JetBlue - Book & manage trips,Travel,158.5,0.0,4.9
 312,SlideShow Maker Photo to Video,Photo & Video,257.5,0.0,4.1
+313,El Pollo Loco - Loco Rewards,Food & Drink,86.1,0.0,4.3
 314,Domino's Pizza USA,Food & Drink,186.9,0.0,4.8
 315,My Block,Finance,129.3,0.0,4.4
+316,Bangla Dictionary ++,Books,123.2,0.0,4.6
+317,Home Design & Decor Shopping,Lifestyle,93.0,0.0,4.6
+318,OpenDoor,Utilities,26.3,0.0,4.2
 322,Credit Sesame,Finance,45.9,0.0,4.7
 324,"Between, The App Couples Love",Social Networking,262.7,0.0,4.8
 327,My Mixtapez Music,Music,199.6,0.0,4.7
@@ -145,6 +195,7 @@
 334,Handshake Jobs & Careers,Business,70.4,0.0,4.8
 336,Photo Collage Pro Editor,Photo & Video,57.2,0.0,4.6
 338,Lemonade Insurance,Finance,75.0,0.0,4.9
+339,Drums with Beats,Music,46.9,0.0,4.5
 341,Paper Toss,Games,204.0,0.0,4.5
 344,Mind Games - Brain Training,Education,28.3,0.0,4.6
 345,Sephora: Skincare and Beauty,Shopping,302.7,0.0,4.7
@@ -154,16 +205,20 @@
 350,PlayStation App,Entertainment,49.3,0.0,4.1
 352,Dancing Line,Games,241.4,0.0,4.7
 354,Fresh EBT - Food Stamp Balance,Shopping,40.9,0.0,4.7
+355,Visual Anatomy Lite,Medical,79.2,0.0,4.6
 356,Manly - Body Muscle Editor Pro,Photo & Video,107.7,0.0,4.5
 357,Love Balls,Games,528.2,0.0,4.6
 359,Mini Games for Minecraft PE (Minecraft Games),Reference,101.0,0.0,4.4
+360,WWE,Entertainment,94.0,0.0,3.8
 361,Under Armour,Shopping,294.6,0.0,4.8
 365,Trivia Crack,Games,396.4,0.0,4.5
 367,Chicago Bears Official App,Sports,130.5,0.0,4.8
 368,5K Runner: Couch Potato to 5K,Health & Fitness,136.8,0.0,4.9
 369,AT&T THANKS®,Lifestyle,67.7,0.0,4.7
 370,Wine-Searcher,Food & Drink,32.2,0.0,4.8
+371,Wait Times at Disneyland,Travel,33.6,0.0,4.7
 372,Hootsuite - Social Media Tools,Social Networking,108.0,0.0,4.7
+375,IndyStar,Magazines & Newspapers,234.6,0.0,4.5
 377,Photo Editor,Photo & Video,213.6,0.0,4.7
 379,RAD VHS - Glitch Camcorder VHS,Photo & Video,98.3,0.0,4.6
 380,Orbitz Hotels & Flights,Travel,85.9,0.0,4.8
@@ -172,52 +227,76 @@
 388,"MeetMe - Go Live, Chat & Meet",Social Networking,267.3,0.0,4.0
 389,Sniper 3D Assassin: Gun Games,Games,270.9,0.0,4.8
 390,Everpix - Cool HD Wallpapers,Entertainment,72.8,0.0,4.7
+395,Red Bull TV,Sports,221.4,0.0,4.8
+397,Foursquare Swarm: Check-in App,Travel,172.8,0.0,4.4
 399,Translate Free - Language Translator & Dictionary,Travel,29.6,0.0,4.7
 400,Adult Coloring Book | COLORS,Lifestyle,71.7,0.0,4.7
+401,Morningstar for Investors,Finance,46.7,0.0,4.6
 403,Monster Job Search,Business,84.4,0.0,4.6
 404,Hush - Beauty for Everyone,Shopping,81.3,0.0,4.7
 405,Boom Beach,Games,176.1,0.0,4.7
 408,Bed Bath & Beyond,Shopping,173.7,0.0,4.8
 410,Aaptiv: #1 Audio Fitness App,Health & Fitness,118.1,0.0,4.8
 411,C25K® 5K Trainer,Health & Fitness,108.4,0.0,4.8
+412,Funny Movie Maker - FMM,Photo & Video,51.6,0.0,4.2
 414,Podbean Podcast App & Player,News,137.5,0.0,4.8
+415,Gospel Library,Reference,72.9,0.0,4.4
+416,CoverMe Private Text & Call,Social Networking,143.8,0.0,4.7
 417,Earnin - Get Paid Today,Finance,134.2,0.0,4.6
 418,US Driving Knowledge Test 2018,Education,10.1,0.0,4.5
 419,AdVenture Capitalist,Games,584.8,0.0,4.7
+421,DoubleMap Bus Tracker,Navigation,30.4,0.0,4.1
 425,Zap Surveys,Lifestyle,95.0,0.0,4.3
+428,SchoolsFirst FCU Mobile,Finance,30.3,0.0,4.7
+429,Adobe Spark Video,Productivity,195.3,0.0,4.5
 431,Barcelona Live: Goals & News,Sports,102.2,0.0,4.8
 432,Care.com Caregiver: Find Jobs,Lifestyle,207.0,0.0,4.6
+433,EyeEm - Photography,Photo & Video,225.5,0.0,4.8
 434,1Q,Business,58.1,0.0,4.3
 435,AroundMe,Lifestyle,155.8,0.0,4.6
 438,Workplace by Facebook,Business,396.1,0.0,4.8
+439,Citizens Bank Mobile Banking,Finance,144.3,0.0,2.7
 441,Best Flash Light - Flashlight,Utilities,61.1,0.0,4.7
 442,MailOnline,News,70.6,0.0,3.8
 443,FOX NOW: Watch TV & Sports,Entertainment,83.1,0.0,4.6
 444,Stockpile - Stock Trading,Finance,87.1,0.0,4.7
+445,Tips & Tricks - for iPhone,Productivity,152.2,0.0,4.7
 447,BJ’s Mobile App,Food & Drink,90.3,0.0,4.1
 450,Birthday Cards for Friends,Lifestyle,34.1,0.0,4.6
 452,The Calculator,Utilities,145.1,0.0,4.6
+453,ABCya Games,Education,17.3,0.0,4.4
 455,Drop: Shop & Get Cash Rewards,Lifestyle,46.3,0.0,4.7
 456,Fallout Shelter,Games,408.3,0.0,4.8
 457,Psiphon,Utilities,50.3,0.0,4.0
+462,Twine: Easy Saving & Investing,Finance,50.0,0.0,4.6
 467,Adobe Illustrator Draw,Productivity,102.1,0.0,4.7
+470,Pure Gas,Navigation,36.8,0.0,4.7
 471,mail.com,Productivity,70.5,0.0,4.6
 472,Storm Radar: Weather Tracker,Weather,140.2,0.0,4.0
 475,ParkMobile - Find Parking,Navigation,100.5,0.0,4.7
 476,Fifth Third Mobile Banking,Finance,170.1,0.0,4.5
+478,Camera+ Legacy,Photo & Video,121.9,2.99,4.3
 479,Dunkin' Donuts,Food & Drink,131.7,0.0,4.7
+482,Translate Professional,Reference,62.1,0.0,4.6
+484,Monthly Prescribing Reference,Medical,103.6,0.0,4.8
+486,Newsify RSS Reader,News,52.4,0.0,4.6
 488,"Quidd: Stickers, GIFs & More!",Entertainment,175.1,0.0,4.0
+491,Weather Radar Map Live,Weather,92.4,0.0,4.5
 492,Music Apps - Unlimited Music,Music,36.0,0.0,4.3
 495,My Love - Relationship Counter,Lifestyle,24.6,0.0,4.8
 496,Essential Anatomy 5,Medical,850.8,14.99,4.8
 498,Google Allo,Social Networking,229.6,0.0,4.6
 499,Freeform TV,Entertainment,177.1,0.0,4.7
 501,The Action Network: Sports App,Sports,102.7,0.0,4.8
+502,YouCam Nails - Manicure Salon,Lifestyle,113.2,0.0,4.6
 504,Sam’s Club Scan & Go,Shopping,101.1,0.0,4.9
+505,Font Candy Photo & Text Editor,Photo & Video,184.9,0.0,4.1
 510,One Bite by Barstool Sports,Food & Drink,80.8,0.0,4.9
 511,Enlight Pixaloop,Photo & Video,139.6,0.0,4.8
 512,Dumb Ways to Die,Games,452.9,0.0,4.3
 513,Blue Letter Bible,Reference,84.6,0.0,4.9
+514,FanDuel Sportsbook,Sports,43.4,0.0,4.3
+516,News 9,News,76.8,0.0,4.4
 517,Adobe Spark Post,Photo & Video,173.6,0.0,4.9
 518,Zumper - Apartment Finder,Lifestyle,224.3,0.0,4.7
 519,OpenTable,Food & Drink,75.1,0.0,4.9
@@ -231,6 +310,8 @@
 528,Leafly: Marijuana Reviews,Medical,112.2,0.0,4.9
 529,Pocket: Save. Read. Grow.,News,216.5,0.0,4.8
 531,Tabata Stopwatch Pro,Health & Fitness,35.5,0.0,4.8
+533,Voxofon International Calling,Social Networking,83.4,0.0,4.4
+534,PressReader,News,103.0,0.0,4.6
 538,Funimate - Be Music Video Star,Photo & Video,164.4,0.0,4.6
 540,Jimmy John’s Sandwiches,Food & Drink,68.4,0.0,4.8
 542,Ride Austin Non-Profit TNC,Travel,115.5,0.0,4.9
@@ -245,6 +326,7 @@
 558,Coffee Meets Bagel Dating App,Lifestyle,152.1,0.0,4.4
 559,Baby Tracker - Newborn Log,Medical,72.4,0.0,4.7
 560,Sleepzy - Sleep Cycle Tracker,Health & Fitness,162.6,0.0,4.2
+562,AT&T Digital Life,Lifestyle,105.6,0.0,3.3
 563,Glasses by Warby Parker,Shopping,196.1,0.0,4.9
 564,Ripl: Make Videos From Photos,Photo & Video,142.8,0.0,4.8
 565,Food Network,Entertainment,59.9,0.0,4.4
@@ -255,16 +337,21 @@
 572,Seamless: Local Food Delivery,Food & Drink,195.5,0.0,4.8
 573,Personal Capital,Finance,134.5,0.0,4.8
 574,myVEGAS Slots – Casino Slots,Games,233.0,0.0,4.6
+575,eBook Search - Books Library,Books,43.2,0.0,4.5
 578,Ulta Beauty: Makeup & Skincare,Shopping,128.5,0.0,4.9
 581,"DICK’S Sporting Goods, Fitness",Shopping,111.8,0.0,4.7
 583,Ringtone Garage,Utilities,47.4,0.0,3.8
 584,Instacart,Food & Drink,142.8,0.0,4.7
 585,Glow Cycle & Fertility Tracker,Health & Fitness,196.4,0.0,4.7
+586,Slice - Package Tracker,Shopping,101.2,0.0,4.7
 587,Weebly,Productivity,134.1,0.0,4.6
 589,LaMusica,Music,79.7,0.0,4.8
 590,Touch of Modern,Shopping,86.1,0.0,4.5
+591,FUT Card Creator 19,Sports,40.7,0.0,4.7
 592,美团外卖-专业午餐晚餐叫餐平台,Food & Drink,110.3,0.0,4.8
 593,VPN - Super Unlimited Proxy,Productivity,63.2,0.0,4.7
+594,Photo Splash - photo editor,Photo & Video,84.9,0.0,3.9
+596,Tiny Wings,Games,29.2,1.99,4.7
 597,Steam Mobile,Entertainment,12.8,0.0,2.6
 599,Color Therapy Coloring Number,Books,184.2,0.0,4.5
 601,Monster Legends,Games,170.9,0.0,4.8
@@ -276,12 +363,18 @@
 608,Rally Health™,Health & Fitness,84.6,0.0,4.5
 610,My Boo Virtual Pet & Mini Game,Games,138.6,0.0,4.6
 612,US Open Tennis Championships,Sports,198.3,0.0,4.7
+613,WNEP,News,99.4,0.0,4.8
+614,Paribus: Money Back Shopping,Finance,43.3,0.0,4.0
 615,AirVisual Air Quality Forecast,Weather,141.8,0.0,4.7
+616,Comedy Central,Entertainment,144.3,0.0,3.5
+617,Ringtone Designer Pro 2.0,Music,1.2,0.99,4.6
 620,Prisma Photo Editor,Photo & Video,69.4,0.0,4.7
 621,Hello Stars,Games,292.4,0.0,4.6
 622,Bright - English for beginners,Education,118.4,0.0,4.7
+624,Social Bolt,Social Networking,49.9,0.0,4.1
 625,Yoga Studio: Meditation & Body,Health & Fitness,335.9,0.0,4.3
 627,Robinhood: Invest. Buy. Trade.,Finance,133.3,0.0,4.8
+628,VLC for Mobile,Photo & Video,143.3,0.0,3.7
 629,Period Tracker App - Eve,Health & Fitness,134.8,0.0,4.7
 632,Pages,Productivity,515.4,0.0,3.3
 633,Temple Run 2,Games,175.5,0.0,4.6
@@ -289,12 +382,19 @@
 636,Calculator‰,Utilities,31.5,0.0,4.8
 638,Tuner Radio Pro,News,51.2,0.0,4.7
 639,GolfLogix GPS + Putt Line,Sports,268.1,0.0,4.7
+640,RingCentral Phone,Business,180.2,0.0,3.5
+641,Splitwise,Finance,101.9,0.0,4.5
+644,Drugs.com Medication Guide,Medical,52.9,0.0,4.8
 649,Lifesum: Diet & Macro Tracker,Health & Fitness,208.8,0.0,4.7
+650,ChargePoint®,Navigation,62.1,0.0,4.6
 651,Ritual.co,Food & Drink,59.9,0.0,4.9
 653,Taco Bell,Food & Drink,202.4,0.0,4.6
+655,PDF Reader－Document Expert,Utilities,131.2,0.0,4.6
+658,MDacne - Custom Acne Treatment,Medical,250.8,0.0,4.3
 659,Filmmaker Pro Video Editor,Photo & Video,295.7,0.0,4.6
 661,"InMessage: Meet, Chat, Date",Social Networking,65.6,0.0,4.8
 662,Shipt,Food & Drink,70.9,0.0,4.9
+663,Paleo Plate,Food & Drink,201.1,0.0,4.7
 664,"Piczoo - Image Edits,Pic Frame",Photo & Video,169.0,0.0,4.7
 665,King James Bible with Audio,Books,16.1,0.0,4.9
 672,NOAA Radar,Weather,90.8,0.0,4.5
@@ -304,10 +404,15 @@
 677,FreePrints – Photos Delivered,Photo & Video,163.7,0.0,4.8
 679,Kitchen Stories Recipes,Food & Drink,84.6,0.0,4.8
 682,imo video calls and chat HD,Social Networking,39.4,0.0,3.3
+683,Wallpapers HD - Cool Backgrounds & Wallpaper Maker,Shopping,31.0,0.0,4.5
+685,Golf Channel,Sports,428.4,0.0,3.5
 686,Words With Friends 2 Word Game,Games,264.9,0.0,4.7
 687,Sam's Club: Wholesale Savings,Shopping,226.1,0.0,4.8
+688,Compass ⊘,Navigation,48.8,0.0,4.4
+689,Pic Music - Slide show maker,Photo & Video,12.1,0.0,3.9
 694,Agoda – Great Prices on Hotels,Travel,265.0,0.0,4.8
 695,QuakeFeed Earthquake Alerts,Weather,66.8,0.0,4.7
+696,ASKfm: Ask Anonymous Questions,Social Networking,247.7,0.0,4.2
 698,Wanelo - Shopping & Fashion,Shopping,100.9,0.0,4.6
 699,Flights by StudentUniverse,Travel,166.3,0.0,4.8
 701,Babbel – Learn Languages,Education,183.1,0.0,4.5
@@ -316,6 +421,7 @@
 705,The Voice Official App on NBC,Entertainment,122.9,0.0,4.5
 707,USA TODAY,News,265.2,0.0,4.5
 709,Frontier Airlines,Travel,51.4,0.0,4.6
+710,VidLab - Video Editor & Movies,Photo & Video,72.7,0.0,4.3
 711,Current: Play Music & Get Paid,Lifestyle,98.7,0.0,3.7
 712,Monkey,Social Networking,168.2,0.0,4.6
 716,Vivino: Buy the Right Wine,Food & Drink,272.2,0.0,4.8
@@ -323,8 +429,12 @@
 719,Norton Secure VPN,Productivity,91.5,0.0,3.9
 722,Neighbors by Ring,Social Networking,112.4,0.0,4.8
 723,MoneyLion,Finance,177.8,0.0,4.5
+724,iVibe: Vibrating Massager,Health & Fitness,67.5,0.0,4.1
+725,ScoreStream Sports Scores,Sports,107.0,0.0,4.7
 726,Maps & Mods FREE - Map Seed & Mod for MineCraft PC Edition,Reference,46.2,0.0,4.3
+728,VH1,Entertainment,144.1,0.0,2.8
 730,Unlimited Music MP3 Player:MB3,Music,96.8,0.0,4.6
+731,eWeather HD - Weather & Alerts,Weather,151.4,3.99,4.7
 734,VNC Viewer - Remote Desktop,Productivity,27.3,0.0,4.8
 735,slither.io,Games,33.8,0.0,4.0
 737,Zoës Kitchen,Food & Drink,41.1,0.0,4.8
@@ -343,14 +453,19 @@
 760,ABC Animal Toddler Adventures,Education,96.9,0.0,4.7
 761,Planes Live - Flight Tracker,Travel,161.9,0.0,4.6
 763,Lose It! – Calorie Counter,Health & Fitness,217.2,0.0,4.7
+764,USPS Mobile®,Business,47.6,0.0,2.2
 765,Human-to-Cat Translator,Entertainment,77.0,0.0,4.4
 766,Fing - Network Scanner,Productivity,58.6,0.0,4.7
 767,Showtime Anytime,Entertainment,55.6,0.0,4.7
+768,"MINDBODY: Fitness, Salon & Spa",Health & Fitness,229.6,0.0,3.4
 770,The Moon: Calendar Moon Phases,Weather,34.0,0.0,4.8
+772,Amazon Drive,Productivity,73.6,0.0,4.6
+776,goPuff,Food & Drink,124.8,0.0,4.4
 777,Universal Orlando Resort™,Travel,101.0,0.0,4.8
 778,StreetEasy NYC Rentals & Sales,Lifestyle,58.4,0.0,4.8
 780,NPR,News,37.7,0.0,2.8
 783,Vietnamese Dictionary Dict Box,Reference,108.7,0.0,4.7
+785,Mad Libs,Entertainment,111.0,0.0,4.2
 786,Drops: Learn 32 new languages,Education,148.5,0.0,4.8
 788,"Azar - Video Chat, Discover",Social Networking,172.0,0.0,4.5
 789,Fancy Wallpaper & Lock Screen,Entertainment,81.2,0.0,4.0
@@ -364,12 +479,16 @@
 803,Skins for Minecraft PE & PC - Free Skins,Utilities,12.0,0.0,4.6
 804,OkCupid: Online Dating App,Social Networking,74.3,0.0,4.3
 805,ICQ – Video Calls & Chat App,Social Networking,102.9,0.0,4.6
+806,Snapseed,Photo & Video,99.6,0.0,4.0
 807,Mirror ◎,Lifestyle,65.3,0.0,4.5
 808,Record by Under Armour,Health & Fitness,233.3,0.0,4.4
 809,DU Recorder - Screen Recorder,Utilities,49.7,0.0,4.5
 811,Sanity & Self: Guided Selfcare,Health & Fitness,66.4,0.0,4.8
 812,Metronome Ϟ,Music,21.2,0.0,4.7
+813,Webcams – EarthCam,Travel,78.6,0.0,4.5
 814,SportsManias: Emojis & Fantasy,Sports,62.0,0.0,4.5
+815,Paramount Network,Entertainment,145.7,0.0,3.7
+817,Highway Rider,Games,169.7,0.0,4.4
 819,Scan & Translate+ Text grabber,Productivity,161.4,0.0,4.4
 820,Watercolor Logo Maker,Business,117.4,0.0,4.4
 822,PulsePoint Respond,Medical,39.6,0.0,4.8
@@ -379,6 +498,7 @@
 830,BMI Calculator‰,Health & Fitness,25.4,0.0,4.7
 832,Kohl's,Shopping,135.0,0.0,4.8
 834,"GuitarTuna: Guitar, Bass tuner",Music,152.3,0.0,4.8
+835,Kmart – Shop & Save,Shopping,167.8,0.0,4.0
 836,TestFlight,Utilities,32.0,0.0,4.7
 838,Clash of Clans,Games,142.7,0.0,4.7
 840,Background Eraser: superimpose,Photo & Video,21.8,0.0,4.5
@@ -399,11 +519,15 @@
 864,Reddit,News,108.0,0.0,4.8
 865,Pearson eText,Education,310.9,0.0,4.7
 867,Bowmasters - Multiplayer Game,Games,393.6,0.0,4.6
+871,WTAE Pittsburgh's Action News4,News,80.6,0.0,4.0
 872,Magic Piano by Smule,Music,62.2,0.0,3.6
 873,Papa John's Pizza,Food & Drink,161.9,0.0,4.7
 876,Thrive Market - shop healthy,Shopping,132.6,0.0,4.8
 877,Oxford Dictionary of English,Reference,235.8,0.0,4.5
+878,Sideline 2nd Phone Number,Business,123.4,0.0,4.0
 881,Pampers Club - Rewards & Deals,Shopping,138.0,0.0,4.7
+882,DeviantArt,Social Networking,63.0,0.0,2.6
+883,Disney Magic Timer by Oral-B,Health & Fitness,242.0,0.0,4.1
 884,TREBEL Music - Download Songs,Music,101.6,0.0,4.6
 885,Photo Sketch - Doodle Effects,Productivity,36.3,0.0,4.4
 888,delivery.com - Food & Alcohol,Food & Drink,172.7,0.0,4.8
@@ -412,53 +536,70 @@
 892,Apollo for Reddit,News,67.9,0.0,4.8
 894,Vons,Shopping,61.4,0.0,4.8
 895,"Fonts Keyboard, Art Fonts, Cool Font for Chat",Shopping,15.4,0.0,4.5
+896,OnlinePianist: Piano Tutorial,Education,94.7,0.0,4.4
+897,Asbury Park Press,Magazines & Newspapers,234.4,0.0,4.6
 898,Tradesy,Shopping,66.5,0.0,4.8
 899,boohoo – Clothing & Fashion,Shopping,69.0,0.0,4.7
+900,The Emirates App,Travel,193.6,0.0,4.5
 901,Helix Jump,Games,228.4,0.0,4.6
+903,Coast to Coast AM Insider,News,78.4,0.0,3.9
 906,WJXT Hurricane Tracker,Weather,58.1,0.0,4.8
 907,Total Connect 2.0,Lifestyle,245.5,0.0,4.6
+908,Chuck E. Cheese's Skate Universe,Entertainment,212.5,0.0,4.5
 910,Farm Heroes Saga,Games,238.7,0.0,4.5
 913,Stock Master: realtime stocks,Finance,162.1,0.0,4.6
 914,Keller Williams Real Estate,Lifestyle,32.1,0.0,4.8
 915,Bose SoundTouch,Music,85.0,0.0,4.7
+919,PayFlex Mobile®,Finance,40.9,0.0,4.4
 920,Wayfair – Shop All Things Home,Shopping,315.2,0.0,4.8
 921,Affirm: A better way to pay,Finance,90.9,0.0,4.8
 922,News4Jax Weather Authority,Weather,147.3,0.0,4.7
 924,Basketball Stars™,Games,147.4,0.0,4.7
 926,SimplePrints Photo Books,Photo & Video,142.4,0.0,4.9
 927,Caller-ID,Reference,11.4,0.0,4.1
+928,Ringtone Maker – create ringtones with your music,Music,16.8,0.0,4.3
 929,Dice Tech Jobs,Business,29.0,0.0,4.7
 931,Viki: Asian TV Dramas & Movies,Entertainment,49.5,0.0,4.7
+932,Pureple Outfit Planner,Lifestyle,17.9,0.0,3.8
 933,Xbox,Entertainment,154.9,0.0,4.7
 936,CNBC: Breaking Business News,News,109.6,0.0,4.7
 941,Badoo - The Dating App,Social Networking,203.6,0.0,4.6
+943,MyQuest for Patients,Medical,19.4,0.0,4.4
 946,Music Cloud Offline,Music,59.6,0.0,4.3
 948,Edmodo,Education,157.9,0.0,4.6
+950,"Athan Pro: Azan, Quran & Qibla",Reference,161.1,0.0,4.5
 951,My Singing Monsters,Games,274.8,0.0,4.8
 954,Ring - Always Home,Utilities,422.1,0.0,3.3
 955,YNAB (You Need A Budget),Finance,81.4,0.0,4.8
 956,Twitch: Live Game Streaming,Photo & Video,200.2,0.0,4.8
 957,Dragon City Mobile,Games,193.2,0.0,4.8
+958,百度网盘,Productivity,233.8,0.0,4.4
 959,Print Photo - photo print app,Utilities,163.9,0.0,4.8
 960,Talking Tom Gold Run,Games,302.6,0.0,4.6
+962,Scientific American,Magazines & Newspapers,16.7,0.0,4.7
 965,La Biblia Reina Valera Audio,Books,15.7,0.0,4.8
 966,Ancestry,Reference,188.3,0.0,4.7
 968,Depop - Shop. Unique. Clothing,Shopping,241.6,0.0,4.8
 970,"Notebook - Take Notes, Sync",Productivity,206.4,0.0,4.7
 971,KIXIFY - Buy & Sell Sneakers,Shopping,51.1,0.0,4.7
 974,Coupons.com: Grocery coupons,Shopping,126.7,0.0,4.7
+977,Guitar! by Smule,Music,88.7,0.0,3.6
 978,iMovie,Photo & Video,690.5,0.0,3.9
 979,Spotify - Music and Podcasts,Music,168.5,0.0,4.8
 980,GUARDIAN® Providers & ID Cards,Medical,28.0,0.0,4.5
 981,Dark Sky Weather,Weather,49.8,3.99,4.4
 984,"Strava: Run, Ride, Swim",Health & Fitness,185.2,0.0,4.7
 988,Mobile Security & Wifi Scan,Productivity,84.9,0.0,4.7
+990,Call Recorder Lite for iPhone,Business,39.4,0.0,4.2
 992,Flickr,Photo & Video,115.9,0.0,4.5
 995,ADP Mobile Solutions,Business,108.4,0.0,4.7
+996,Commander Compass Go,Navigation,23.1,0.0,4.6
 997,"Whisper - Share, Express, Meet",Social Networking,97.9,0.0,3.0
 998,Microsoft Excel,Productivity,260.0,0.0,4.7
 999,DISH Anywhere,Entertainment,162.5,0.0,4.3
+1000,Dollar General,Shopping,61.5,0.0,2.5
 1002,Mimo: Learn to Code,Education,181.6,0.0,4.4
+1003,百度翻译-旅游学习必备多语种翻译词典,Reference,158.2,0.0,4.8
 1004,Gboard – the Google Keyboard,Utilities,105.4,0.0,4.2
 1005,Movies Anywhere,Entertainment,84.4,0.0,3.4
 1007,Ally Mobile,Finance,91.0,0.0,4.8
@@ -474,6 +615,7 @@
 1023,Square Appointments,Business,392.4,0.0,4.9
 1024,Sears – Shop smarter & save,Shopping,162.7,0.0,4.0
 1025,Blur Photo Effect Background,Photo & Video,51.9,0.0,4.6
+1026,Loops - Your Live Playground,Social Networking,154.5,0.0,3.8
 1027,SHEIN-Fashion Shopping Online,Shopping,143.3,0.0,4.5
 1028,Episode - Choose Your Story,Games,177.9,0.0,4.7
 1030,Countdown Star,Entertainment,73.5,0.0,4.7
@@ -482,13 +624,17 @@
 1035,喜马拉雅FM（听书社区）电台有声小说相声评书,Books,228.4,0.0,4.8
 1036,"My Scans, best PDF Scanner App",Productivity,114.3,0.0,4.8
 1037,KicksOnFire - Shop Sneakers,Sports,73.5,0.0,4.8
+1038,CocoPPa - cute icon&wallpaper,Lifestyle,83.4,0.0,3.4
 1040,Houzz,Lifestyle,110.5,0.0,4.7
 1042,Mus'haf | مصحف آي-فون إسلام,Books,89.2,0.0,4.8
+1043,Coach's Eye - Video Analysis,Sports,82.3,4.99,4.8
 1044,Bandsintown Concerts,Music,140.8,0.0,4.7
 1045,Translate Now - Translator,Reference,188.9,0.0,4.7
 1047,Marriott Bonvoy,Travel,117.5,0.0,4.6
 1049,Mondly: Learn 33 Languages,Education,352.6,0.0,4.7
 1050,EveryDollar Easy Budgeting App,Finance,64.8,0.0,4.7
+1051,Speedometer Simple,Navigation,26.8,0.0,4.6
+1052,Living Weather HD,Weather,291.5,0.0,4.6
 1053,Forge of Neon - 3D Sandbox Art,Entertainment,19.4,0.0,4.6
 1055,1010!,Games,178.8,0.0,3.8
 1056,SmartNews: Local Breaking News,News,27.0,0.0,4.5
@@ -501,6 +647,7 @@
 1073,PrettyLittleThing,Shopping,57.4,0.0,4.8
 1076,Documents (Office Docs),Business,55.2,0.0,4.6
 1077,MySynchrony,Finance,45.0,0.0,4.6
+1079,BandLab,Music,159.1,0.0,4.5
 1081,Runtastic Running & Jog App,Health & Fitness,230.2,0.0,4.7
 1082,ALDI USA,Shopping,39.3,0.0,4.9
 1083,Bible.is - Audio Bibles,Reference,45.5,0.0,4.9
@@ -509,11 +656,13 @@
 1093,Life Cycle - Track Your Time,Health & Fitness,29.8,0.0,4.7
 1095,Talking Angela,Entertainment,104.1,0.0,4.1
 1096,微信读书,Books,142.6,0.0,4.8
+1098,Dialog - Translate Speech,Reference,114.1,0.0,4.6
 1100,Emoji>,Entertainment,178.6,0.0,4.3
 1102,Muni Watch Transit App,Navigation,42.2,0.0,4.6
 1104,Followers Tracker - Ins Report,Social Networking,125.8,0.0,3.7
 1108,Greyhound (US),Travel,99.8,0.0,4.8
 1109,AE + Aerie,Shopping,143.4,0.0,4.8
+1112,Fancy,Shopping,86.0,0.0,4.8
 1114,"Clue Period Tracker, Ovulation",Health & Fitness,157.6,0.0,4.8
 1116,Archery King,Games,190.8,0.0,4.2
 1119,Second Phone Number,Utilities,127.2,0.0,3.9
@@ -523,17 +672,22 @@
 1125,Astrolis Horoscopes & Tarot,Lifestyle,29.1,0.0,4.8
 1126,GroupMe,Social Networking,85.4,0.0,4.7
 1127,Snake VS Block,Games,140.4,0.0,4.5
+1128,Calorie Counter by FatSecret,Health & Fitness,71.1,0.0,4.7
 1129,Twisty Road!,Games,177.7,0.0,4.6
 1131,Souq.com  سوق.كوم,Shopping,156.4,0.0,4.4
 1132,Plato: Find Fun,Social Networking,128.3,0.0,4.7
 1134,Calcbot 2,Utilities,16.0,0.0,4.7
 1135,Word Cookies!™,Games,176.0,0.0,4.6
 1136,Concepts,Productivity,178.1,0.0,4.7
+1137,Zmodo,Business,112.9,0.0,2.4
 1138,ofo — Get there on two wheels,Travel,109.6,0.0,4.6
 1139,Yahoo Mail - Stay Organized,Productivity,170.9,0.0,4.6
 1140,BMW Driver's Guide,Reference,56.3,0.0,4.6
+1141,Coco,Social Networking,70.9,0.0,3.6
 1145,Presence: Video security,Lifestyle,73.1,0.0,4.6
+1148,Zova: Workouts & Wellness,Health & Fitness,209.1,0.0,4.6
 1151,Layout from Instagram,Photo & Video,15.5,0.0,4.5
+1152,Mega Millions & Powerball,Lifestyle,17.0,0.0,4.5
 1155,FOX Sports GO: Watch Live,Sports,79.8,0.0,3.9
 1157,JW Library,Reference,110.8,0.0,4.8
 1158,Mi Banco Mobile,Finance,101.1,0.0,4.8
@@ -543,6 +697,7 @@
 1163,Photofy Content Creation,Photo & Video,149.9,0.0,4.7
 1164,HotNewHipHop,News,71.3,0.0,4.7
 1165,Navy Federal Credit Union,Finance,238.3,0.0,3.3
+1166,Hidden Pictures Puzzles,Education,267.7,0.0,4.3
 1167,Drink Water Reminder N Tracker,Health & Fitness,40.3,0.0,4.5
 1169,Tape Measure™,Utilities,38.7,0.0,4.2
 1170,Camera360 - Selfie Sticker Cam,Photo & Video,179.1,0.0,4.7
@@ -552,6 +707,7 @@
 1177,What The Forecast?!!,Weather,146.6,0.0,4.6
 1178,Storm Shield,Weather,78.2,0.0,4.7
 1180,Panda Pop - Bubble Shooter,Games,350.7,0.0,4.6
+1181,Cut Paste Photos Pro Edit Chop,Photo & Video,182.8,0.0,3.8
 1182,Mealime Meal Plans & Recipes,Food & Drink,11.8,0.0,4.8
 1183,Hiya: Caller ID & Spam Blocker,Utilities,106.9,0.0,4.6
 1185,My Talking Angela,Games,443.5,0.0,4.6
@@ -570,10 +726,15 @@
 1211,Windy.com,Weather,95.6,0.0,4.8
 1214,myTuner Radio - Live Stations,Music,148.7,0.0,4.7
 1217,Daily Horoscope Plus® 2019,Lifestyle,71.7,0.0,4.6
+1219,Adore Me Designer Lingerie,Shopping,108.1,0.0,4.6
 1220,Talking Ginger,Entertainment,104.8,0.0,4.4
+1221,Doodle Buddy Paint Draw App,Productivity,391.4,0.0,4.6
+1222,"Brilliant – solve, learn, grow",Education,121.2,0.0,4.8
 1224,"8,500+ Drink Recipes",Food & Drink,120.3,0.0,4.7
 1228,My Water Balance,Health & Fitness,117.9,0.0,4.6
+1230,Omvana - Meditation for All,Health & Fitness,115.2,0.0,4.5
 1234,Topo Maps+,Navigation,152.5,0.0,4.8
+1235,Nextplus: Private Phone Number,Social Networking,191.0,0.0,3.7
 1236,HISTORY: TV Shows on Demand,Entertainment,92.3,0.0,4.1
 1238,STARZ,Entertainment,162.8,0.0,4.8
 1239,Spider Solitaire: Card Game,Games,208.3,0.0,4.7
@@ -584,6 +745,8 @@
 1248,Password Manager',Productivity,26.1,0.0,4.5
 1249,Quartz Brief,News,47.5,0.0,4.7
 1250,Blockfolio - Bitcoin Tracker,Finance,47.6,0.0,4.8
+1252,Amazon Prime Now,Food & Drink,71.9,0.0,2.9
+1254,3rd Grade Math Games for Kids,Education,363.2,0.0,4.4
 1255,Hay Day,Games,145.3,0.0,4.6
 1257,4Sale,Business,264.5,0.0,4.5
 1258,Weather Kitty: Forecast & Cats,Weather,124.5,0.0,4.8
@@ -591,23 +754,34 @@
 1261,Visage beauty selfie cam plus,Photo & Video,154.2,0.0,4.1
 1263,ZARA,Shopping,58.8,0.0,4.4
 1264,Express Scripts,Health & Fitness,32.4,0.0,4.4
+1269,Remixlive - remix sample music,Music,139.7,0.0,4.8
+1271,Honey Smart Shopping Assistant,Shopping,56.5,0.0,3.1
 1272,Fit Radio: Train Inspired,Health & Fitness,51.5,0.0,4.8
 1273,Word Connect ¤,Games,173.5,0.0,4.8
 1274,Restaurant.com,Food & Drink,3.2,0.0,4.4
+1277,Boingo Wi-Finder,Utilities,84.7,0.0,4.4
 1279,ProximiT: MBTA Bus and Subway,Navigation,40.6,0.0,4.7
+1281,Reuters TV: Video News,News,94.9,0.0,4.7
+1282,Thumbtack for Professionals,Business,68.8,0.0,3.7
 1284,FlightAware Flight Tracker,Travel,210.9,0.0,4.6
 1285,War Robots,Games,1228.8,0.0,4.7
+1286,magicApp Calling & Messaging,Social Networking,29.8,0.0,2.2
 1289,GoPass,Travel,144.3,0.0,4.7
 1290,Toddler Learning Games,Education,449.8,0.0,4.5
 1291,Adobe Creative Cloud,Productivity,125.9,0.0,4.8
 1293,ExpressVPN - #1 Trusted VPN,Utilities,52.0,0.0,4.7
+1295,Live Soccer TV: Scores & Stats,Sports,38.5,0.0,4.8
+1297,Solar Walk Ads+: Explore Space,Reference,434.6,0.0,4.7
+1298,Apple Support,Utilities,50.4,0.0,3.7
 1301,Drum Pad Machine - Beat Maker,Music,182.8,0.0,4.6
 1304,Celebrity Voice Changer.,Social Networking,48.8,0.0,4.0
 1305,"FordPass - Fuel, Park, Dealers",Lifestyle,212.6,0.0,4.6
 1306,U by BB&T,Finance,117.3,0.0,4.8
 1307,TD Ameritrade Mobile Trader,Finance,100.2,0.0,4.6
+1309,My Bath & Body Works,Shopping,88.8,0.0,2.9
 1310,Health4Me,Health & Fitness,137.8,0.0,4.4
 1312,VRBO Vacation Rentals,Travel,190.0,0.0,4.8
+1313,Drivers Ed,Education,52.9,0.0,4.6
 1314,Hype-Type: Moving Text Photo-s,Photo & Video,50.7,0.0,4.6
 1315,Freeletics: Workout & Fitness,Health & Fitness,134.9,0.0,4.6
 1317,AOL: News Email Weather Video,News,117.2,0.0,4.5
@@ -618,51 +792,74 @@
 1324,Ringtone Designer 2.0,Music,1.2,0.0,4.4
 1325,Slotomania™ Vegas Casino Slots,Games,244.5,0.0,4.2
 1326,Timer+,Utilities,77.2,0.0,4.8
+1327,Footpath Route Planner,Navigation,73.7,0.0,4.7
+1328,Photo Cut Out + New Background,Reference,27.3,0.0,4.3
 1329,Fit Men Cook - Healthy Recipes,Food & Drink,175.2,3.99,4.9
 1331,Capital One CreditWise,Finance,94.7,0.0,4.8
 1333,Tube Map - London Underground,Navigation,124.9,0.0,4.7
 1334,Microsoft Edge,Utilities,148.2,0.0,4.5
 1338,Evernote Scannable,Productivity,61.0,0.0,4.9
 1345,Sports Illustrated Play,Sports,140.8,0.0,4.7
+1346,Sprinkle of Jesus,Lifestyle,10.9,0.0,3.3
+1347,Regions Mobile,Finance,58.4,0.0,2.2
 1349,CNN MoneyStream,News,57.4,0.0,4.6
 1351,samcard- business card scanner,Business,125.0,0.0,4.6
+1354,Gett - Car Service & Rideshare,Travel,173.4,0.0,4.7
+1355,MLS: Live Soccer Scores & News,Sports,184.9,0.0,3.8
 1356,Sweatcoin - Sweat for Coins,Health & Fitness,98.1,0.0,4.5
 1359,"Chat for Strangers, Video Chat",Social Networking,35.4,0.0,4.1
+1360,Faily Brakes,Games,201.0,0.0,4.2
 1361,onX Hunt: #1 GPS Hunting Map,Navigation,178.5,0.0,4.7
 1362,COLOR - Coloring Book,Lifestyle,45.5,0.0,4.5
 1363,Candy Crush Soda Saga,Games,181.9,0.0,4.6
 1366,Verizon My Fios,Utilities,137.5,0.0,4.5
 1367,Guitar Tuner - Ukulele & Bass,Music,204.0,0.0,4.4
 1371,Color by Number Coloring Game!,Games,38.8,0.0,4.8
+1373,LA Fitness Mobile,Health & Fitness,43.3,0.0,2.3
+1374,Fitbit Coach,Health & Fitness,172.1,0.0,3.9
+1377,Battery Saver - Manage battery life & Check system status -,Utilities,18.5,0.0,4.2
+1380,Spring Running Music,Health & Fitness,138.3,0.0,4.3
 1382,Full Moon Phase,Weather,24.8,0.0,4.7
+1383,"New Cool Text: Fonts FX,Emoji Font & Font Keyboard",Productivity,107.3,0.0,4.5
 1384,Kardia,Medical,121.8,0.0,4.7
 1385,Messenger Kids,Social Networking,276.7,0.0,4.3
+1386,Bible App for Kids,Education,76.1,0.0,4.7
 1387,Nordstrom,Shopping,191.5,0.0,4.9
 1388,Hexatech Unlimited VPN Proxy,Productivity,69.4,0.0,4.5
 1389,National Car Rental,Travel,99.0,0.0,4.7
 1390,Wix,Productivity,139.6,0.0,4.7
 1392,Email - Edison Mail,Productivity,156.7,0.0,4.6
+1393,Bite Squad - Food Delivery,Food & Drink,138.4,0.0,4.0
 1395,Bodybuilding.com Store,Health & Fitness,83.2,0.0,4.9
 1396,Seated: Cash Back For Foodies,Food & Drink,58.7,0.0,4.8
+1397,FindNow - Find location,Social Networking,94.5,0.0,3.4
+1399,Philips Hue,Lifestyle,190.8,0.0,2.5
 1403,AT&T Mobile Transfer,Utilities,23.8,0.0,4.6
 1404,Geometry Dash Lite,Games,72.5,0.0,4.4
 1406,Mint:Personal Finance & Money,Finance,268.0,0.0,4.7
 1407,Expensify: Receipts & Expenses,Business,108.3,0.0,4.7
+1408,inRoute Route Planner,Navigation,55.2,0.0,4.6
+1409,Fun FaceApp Photo Filters Swap,Lifestyle,67.0,0.0,3.7
 1413,BodySpace - Social Fitness App,Health & Fitness,115.5,0.0,4.6
 1415,"WFAA-North Texas News, Weather",News,94.1,0.0,4.6
 1420,Text Free: Texting App + SMS,Lifestyle,158.6,0.0,4.6
 1421,SuperShuttle,Travel,116.5,0.0,4.7
+1424,FarFaria Read Along Kids Books,Education,79.3,0.0,4.7
 1425,ShopStyle: Fashion & Lifestyle,Shopping,92.2,0.0,4.9
 1426,Two Dots,Games,369.8,0.0,4.6
 1427,Google Arts & Culture,Entertainment,121.6,0.0,4.7
+1428,brightwheel,Education,106.3,0.0,4.7
 1430,Weather Live°,Weather,78.8,2.99,4.7
 1431,HomeAdvisor: Find a Contractor,Lifestyle,225.1,0.0,4.6
+1432,NPR One,News,38.2,0.0,3.0
 1433,WOW Pixel - Live Wallpapers,Entertainment,52.7,0.0,4.2
 1434,MyHeritage - Family tree,Reference,206.2,0.0,4.8
 1435,Boomerang from Instagram,Photo & Video,21.4,0.0,4.1
 1436,Hum: GPS Family Locator,Travel,217.4,0.0,4.7
+1438,Ovulation Calculator Fertile Tracker & Calendar OC,Medical,30.9,0.0,4.6
 1441,NFL,Sports,106.8,0.0,4.7
 1443,TMZ,Entertainment,107.9,0.0,4.8
+1444,Google Trips – Plan Your Trip,Travel,100.6,0.0,4.4
 1445,ZigZag,Games,120.3,0.0,4.2
 1447,"Stop, Breathe & Think",Health & Fitness,204.3,0.0,4.8
 1450,iSpreadsheet™ : Office Sheets,Finance,46.4,0.0,4.5
@@ -673,17 +870,24 @@
 1458,ADT Pulse ®,Lifestyle,139.9,0.0,4.8
 1459,Wunderlist: To-Do List & Tasks,Productivity,89.5,0.0,4.7
 1460,Enterprise Rent-A-Car,Travel,124.2,0.0,4.8
+1462,Fonts - for Instagram,Social Networking,9.5,0.0,4.5
 1463,Triller: Social Video Platform,Photo & Video,137.3,0.0,4.7
+1464,Crack & Break it !,Entertainment,144.0,0.0,4.1
 1465,"Guitar - Chords, Tabs & Games",Music,225.6,0.0,4.4
+1466,Grand Piano Keyboard&Metronome,Music,67.6,0.0,4.2
 1467,Smart Home Manager,Productivity,80.6,0.0,4.7
 1468,"Snapfish: Prints,Cards,Canvas",Photo & Video,70.2,0.0,4.6
 1469,SEPTA,Travel,73.1,0.0,4.2
 1470,The Wall Street Journal.,News,144.5,0.0,4.5
+1471,Courier Journal,Magazines & Newspapers,234.4,0.0,4.4
 1474,LIKEtoKNOW.it,Shopping,128.9,0.0,4.9
 1477,LifeLock ID Theft Protection,Finance,118.1,0.0,4.6
+1478,Yidio,Entertainment,113.1,0.0,4.3
+1479,Sports Tracker for All Sports,Health & Fitness,261.6,0.0,4.8
 1480,Gmail - Email by Google,Productivity,201.8,0.0,4.4
 1481,Piano 3D - Real AR Piano App,Music,224.8,0.0,4.5
 1484,Pic Stitch - Collage Editor,Photo & Video,192.1,0.0,4.6
+1486,eDl Lite,Utilities,107.9,0.0,4.5
 1487,Boo - 3D Avatar & AR Chat,Social Networking,251.2,0.0,4.6
 1488,Asphalt 8: Airborne,Games,2355.2,0.0,4.7
 1489,Weedmaps: Marijuana & Cannabis,Medical,131.6,0.0,4.9
@@ -698,48 +902,61 @@
 1505,Cruise Ship Mate,Travel,171.7,0.0,4.8
 1508,Alarmed ~ Reminders + Timers,Productivity,33.4,0.0,4.7
 1509,Windfinder,Weather,102.2,0.0,4.8
+1510,Karta GPS - Offline Navigation,Navigation,197.0,0.0,4.5
 1511,Bible ·,Reference,111.0,0.0,4.8
 1512,Texas Holdem Poker: Pokerist,Games,294.9,0.0,4.6
 1513,Where's My Water? 2,Games,187.6,0.0,4.4
 1514,Bed Time Fan White Noise Sound,Health & Fitness,94.0,0.0,4.8
+1517,n-Track Tuner,Music,60.0,0.0,4.7
 1519,LiveScore: Live Sport Updates,Sports,59.1,0.0,4.8
 1521,GoFundMe,Social Networking,116.4,0.0,4.7
 1523,Amino: Communities and Groups,Social Networking,187.4,0.0,4.7
 1524,Secret Photo Vault - Keepsafe,Photo & Video,233.5,0.0,4.7
 1528,Turbo: Scores-Income & Credit,Finance,176.3,0.0,4.8
 1529,Fotor - Photo Editor & Collage,Photo & Video,148.8,0.0,4.8
+1530,Simply Yoga - Fitness Trainer,Health & Fitness,114.2,0.0,4.7
 1532,Nick,Entertainment,142.2,0.0,3.1
 1533,Suncoast SunMobile,Finance,94.3,0.0,4.8
 1536,Buffer: Social Media Manager,Social Networking,72.6,0.0,4.7
+1540,What My Baby Look Like?,Social Networking,22.5,0.0,1.9
 1542,FedEx,Business,152.1,0.0,4.7
 1546,White Noise,Health & Fitness,47.1,0.99,4.8
+1547,Daily News - Digital Edition,News,58.6,0.0,4.2
 1548,Premier Agent,Business,127.3,0.0,4.6
 1551,Skinseed for Minecraft Skins,Entertainment,64.5,0.0,4.1
 1553,JotNot Scanner App Pro,Business,39.6,4.99,4.9
 1556,Golf GPS by SwingU,Sports,165.9,0.0,4.7
+1557,30 Day Fitness Challenges ~ Daily Workout Free,Health & Fitness,107.6,0.0,4.6
 1558,Champs Sports,Shopping,92.0,0.0,4.8
+1559,Audubon Bird Guide,Reference,100.7,0.0,3.7
 1560,SavingStar - Grocery Savings,Shopping,32.7,0.0,4.1
 1561,Arvest Go Mobile Banking,Finance,69.9,0.0,4.8
+1564,Essential Skeleton 4,Medical,153.1,0.0,4.8
 1568,Rabbit – Watch Together,Social Networking,52.3,0.0,3.6
 1569,MangaToon-Comics updated Daily,Books,62.4,0.0,4.7
 1570,Google Calendar: Time Planner,Productivity,215.6,0.0,4.5
+1573,Auto Club App,Lifestyle,193.2,0.0,4.5
 1574,Smule - The #1 Singing App,Music,146.9,0.0,4.5
 1575,Dict Plus: قاموس و ترجمة عربي,Reference,204.3,0.0,4.7
 1576,One Night HookUp Dating,Social Networking,33.3,0.0,4.0
 1577,Univision Noticias,News,60.9,0.0,4.5
 1578,Caviar - Food Delivery,Food & Drink,77.5,0.0,4.4
 1579,Wealthfront,Finance,46.5,0.0,4.9
+1583,Quizizz: Play to learn,Education,23.6,0.0,4.8
 1585,Rate My Professors,Education,59.0,0.0,4.8
 1587,Drum Pads 24 - Beats Maker,Music,94.3,0.0,4.7
 1588,Translator with Speech,Travel,50.4,0.0,4.7
+1589,60 Minutes All Access,News,50.8,0.0,4.4
 1590,Darkroom – Photo Editor,Photo & Video,40.0,0.0,4.8
 1591,Vivint Smart Home,Lifestyle,168.5,0.0,4.6
 1592,Shazam,Music,99.4,0.0,4.9
 1594,BrainPOP Jr. Movie of the Week,Education,19.5,0.0,4.6
 1596,TopBuzz:Breaking News & Videos,News,120.5,0.0,4.7
+1597,Gaana Music - Songs & Radio,Music,115.1,0.0,4.1
 1599,LibriVox Audio Books,Books,21.6,0.0,4.8
 1601,Mortal Kombat,Games,1126.4,0.0,4.7
 1605,Ticketmaster,Entertainment,134.0,0.0,4.7
+1606,KCRA 3 News - Sacramento,News,74.6,0.0,3.7
 1608,Roblox,Games,151.3,0.0,4.6
 1609,HomeAway Vacation Rentals,Travel,189.8,0.0,4.8
 1610,Blockchain Wallet: Bitcoin,Finance,112.6,0.0,4.8
@@ -748,15 +965,22 @@
 1614,Brigit: $250 Between Paychecks,Finance,64.1,0.0,4.8
 1615,Deezer: Music & Podcast Player,Music,166.0,0.0,4.0
 1616,Crazy Helium Funny Face App,Photo & Video,88.9,0.0,4.5
+1618,Walking Dead: The Game,Games,384.5,0.0,4.1
+1620,RR: Eating Disorder Management,Medical,86.2,0.0,4.9
 1621,My Contacts Backup,Productivity,24.5,0.0,4.6
+1623,Jaybird MySound,Music,192.5,0.0,4.6
+1624,Sketch Master - My Cartoon Photo Filter Avatar Pad,Shopping,47.2,0.0,4.7
 1625,Evil Apples: A Dirty Card Game,Games,207.2,0.0,4.8
 1626,Blue Apron,Food & Drink,121.8,0.0,4.7
 1627,PicCollage - Top Collage Maker,Photo & Video,218.6,0.0,4.8
+1628,Vault to lock photo & video,Utilities,31.7,0.0,4.6
 1629,UPS Mobile,Business,81.3,0.0,4.4
 1631,Cheap flights－Jetradar,Travel,264.2,0.0,4.8
 1635,PAC-MAN 256 - Endless Arcade Maze,Games,145.4,0.0,4.6
 1636,Spotluck - Spin. Eat. Save.,Food & Drink,126.5,0.0,4.7
 1637,Arrive - Package Tracker,Shopping,128.0,0.0,4.7
+1638,Glasses,Medical,20.6,0.0,4.8
+1639,PocketVideo - Video Editor,Photo & Video,603.8,0.0,3.3
 1641,"PetSmart, Inc.",Lifestyle,207.8,0.0,4.7
 1643,Fiverr - Freelance Services,Business,121.9,0.0,4.9
 1645,Scanner for Me: Scan documents,Business,166.4,0.0,4.7
@@ -768,18 +992,25 @@
 1657,August Home,Utilities,140.0,0.0,4.8
 1658,Qardio heart health,Health & Fitness,148.8,0.0,4.7
 1659,Rite Aid Pharmacy,Shopping,104.5,0.0,4.7
+1662,Patch - Local News,News,625.4,0.0,4.5
 1663,iDisciple,Reference,152.6,0.0,4.8
 1665,IFTTT,Productivity,71.3,0.0,4.7
 1666,Zappos: Shop shoes & clothes,Shopping,94.3,0.0,4.9
+1669,Cortana,Productivity,191.2,0.0,4.2
 1672,HotSchedules,Business,96.7,2.99,4.7
 1673,ChibiStudio,Social Networking,113.8,0.0,4.7
 1679,QR Code Reader and Scanner,Utilities,22.4,0.0,4.5
 1680,YouCam Fun - Live Face Filters,Photo & Video,134.2,0.0,4.7
 1681,Yelp: Local Food & Services,Travel,223.4,0.0,4.4
 1682,Hitlist,Travel,49.5,0.0,4.8
+1683,TP-Link Tether,Utilities,97.8,0.0,4.5
 1684,WeatherBug Elite,Weather,261.3,9.99,4.7
+1685,اخبار التطبيقات,News,13.8,0.0,4.4
+1686,MOMO陌陌,Social Networking,284.2,0.0,4.5
 1688,Xfinity Stream,Entertainment,153.3,0.0,2.5
+1689,Cookpad - Recipe Sharing,Food & Drink,52.1,0.0,4.8
 1690,Remitly,Finance,69.7,0.0,4.8
+1691,YouTube Studio,Photo & Video,144.8,0.0,4.2
 1695,Pregnancy & Baby Tracker,Health & Fitness,123.4,0.0,4.8
 1696,Flow Free,Games,26.4,0.0,4.6
 1697,la Madeleine Rewards,Food & Drink,78.3,0.0,4.8
@@ -794,20 +1025,27 @@
 1712,Chick-fil-A,Food & Drink,73.8,0.0,4.9
 1716,Period Tracker Deluxe,Health & Fitness,60.2,9.99,4.9
 1719,Fitbit,Health & Fitness,196.6,0.0,4.2
+1720,New Text Tones,Utilities,31.1,0.0,4.1
 1722,Guitar Lessons | Fender Play,Music,66.4,0.0,4.7
 1723,Google Play Music,Music,103.6,0.0,4.4
+1725,SHAHID VOD,Entertainment,34.3,0.0,3.3
 1726,Teams by MaxPreps,Sports,65.7,0.0,4.7
 1728,Facetune2: Selfie Editor & Cam,Photo & Video,182.5,0.0,4.7
 1730,Trunk Club,Shopping,80.0,0.0,4.7
+1732,The Game by Hot or Not,Lifestyle,178.5,0.0,3.9
 1733,PenFed Mobile,Finance,52.2,0.0,4.2
 1735,Facebook Pages Manager,Business,401.9,0.0,2.3
 1736,Groovebook: Book of Prints,Photo & Video,88.7,0.0,3.0
 1737,Canvas Student,Education,103.1,0.0,4.7
+1738,Network Analyzer,Utilities,17.9,0.0,4.5
 1739,iHerb,Health & Fitness,113.8,0.0,4.7
 1740,Christian Mingle: Local Dating,Social Networking,81.8,0.0,3.6
 1741,Fortnite,Games,159.4,0.0,4.6
+1742,All You Can Books - Unlimited,Books,16.1,0.0,4.0
+1744,Aeries Mobile Portal,Education,52.9,0.0,1.6
 1745,Hotels.com: Book your hotel,Travel,188.6,0.0,4.8
 1749,Realtor.com Real Estate Search,Lifestyle,112.8,0.0,4.6
+1751,TEAS Mastery: Test Version 6,Medical,138.6,0.0,4.7
 1752,Google Duo - Video Calling,Social Networking,116.7,0.0,4.7
 1754,Weather - The Weather Channel,Weather,198.0,0.0,4.2
 1755,LastPass Password Manager,Productivity,137.8,0.0,4.4
@@ -833,14 +1071,24 @@
 1789,Your Perfect Hairstyle - Women,Lifestyle,74.1,0.0,4.1
 1790,SAUDIA,Travel,118.0,0.0,4.5
 1792,Bumble - Meet New People,Lifestyle,87.8,0.0,4.2
+1793,LiveHealth Online Mobile,Medical,164.2,0.0,4.8
+1794,Flash Seats,Entertainment,46.4,0.0,1.6
 1795,Alibaba.com B2B Trade App,Business,201.4,0.0,4.7
+1797,Pocket Schedule Planner,Productivity,45.3,0.0,4.6
 1800,Hurricane Tracker For iPad,Weather,25.6,2.99,4.8
 1802,Musicnotes,Music,149.7,0.0,4.8
 1804,Total Connect Comfort,Lifestyle,26.3,0.0,4.3
+1805,WPS Office,Productivity,264.4,0.0,4.7
+1806,Hallmark Channel Everywhere,Entertainment,101.4,0.0,4.1
 1808,Rokumotee - Roku remote,Utilities,22.8,0.0,4.3
 1810,"VRV: Anime, game videos & more",Entertainment,222.0,0.0,3.3
 1816,Alarm Clock Sleep Sounds Plus,Health & Fitness,134.0,0.0,4.5
+1817,Tuner Lite by Piascore,Music,68.0,0.0,4.4
 1819,PayByPhone Parking,Travel,181.4,0.0,4.9
+1820,Updaty - Update & News,Productivity,97.8,0.0,4.2
+1821,Boomerang - Cartoons & Movies,Entertainment,176.9,0.0,3.6
+1824,"Earthquake + Alert, Map & Info",Weather,177.9,0.0,4.6
+1827,Infinite Campus Mobile Portal,Education,33.6,0.0,2.8
 1828,Justfly.com Book Cheap Flights,Travel,88.8,0.0,4.8
 1829,LiveMe – Live Video Chat,Social Networking,172.9,0.0,4.0
 1831,Plants vs. Zombies™ 2,Games,120.2,0.0,4.8
@@ -854,21 +1102,31 @@
 1845,iRobot HOME,Lifestyle,278.3,0.0,4.7
 1847,Split Camera - Mirror Pic Crop,Business,31.5,0.0,4.5
 1848,Duolingo,Education,193.0,0.0,4.7
+1849,QQ阅读-热门小说黄金瞳抢先看,Books,237.2,0.0,4.7
 1850,Flo Period & Ovulation Tracker,Health & Fitness,246.1,0.0,4.8
 1851,Denver Broncos 365,Sports,443.0,0.0,4.7
 1852,Sprouts Farmers Market,Shopping,15.1,0.0,4.5
+1853,Video & TV Cast | Samsung TV,Photo & Video,46.1,0.0,3.4
+1856,The Word Among Us Mass Edition,Magazines & Newspapers,32.1,0.0,4.9
 1858,Minion Rush,Games,318.1,0.0,4.5
 1859,Live Wallpapers - Kappboom,Photo & Video,122.3,0.0,4.8
+1862,Sago Mini World,Education,775.3,0.0,4.5
+1863,Call Voice Changer - IntCall,Entertainment,32.3,0.0,4.3
 1864,BOTIM - video calls and chat,Social Networking,68.8,0.0,4.4
 1866,Frames - Picture Collage Maker,Photo & Video,51.6,0.0,4.1
+1867,Emoji for Message - Text Maker,Social Networking,42.9,0.0,4.4
 1868,QR Reader for iPhone,Utilities,71.3,0.0,4.4
 1871,Weather Underground: Forecast,Weather,294.4,0.0,4.2
 1875,Glow Nurture - Pregnancy App,Health & Fitness,149.7,0.0,4.7
 1876,Shopping List Ease - Grocery,Productivity,39.2,0.0,4.8
 1877,Twitter,News,186.4,0.0,4.3
+1880,insTuner Free - Chromatic Tuner,Music,45.2,0.0,4.6
 1881,TV Guide Mobile,Entertainment,109.5,0.0,3.6
 1882,Spanish Translator OFFLINE,Reference,200.9,0.0,4.6
+1883,State Farm®,Finance,108.2,0.0,3.1
+1888,Monogram Wallpapers Lite,Entertainment,70.8,0.0,4.6
 1890,Animoto: Slideshow Maker,Photo & Video,101.2,0.0,4.8
+1893,SleepIQ,Health & Fitness,141.2,0.0,3.6
 1894,iFunny – hot memes and videos,Entertainment,119.5,0.0,3.9
 1896,GetUpside: Earn Easy Cash Back,Travel,89.9,0.0,4.8
 1897,Microsoft Outlook,Productivity,247.7,0.0,4.7
@@ -879,21 +1137,28 @@
 1906,Calculator,Utilities,40.0,0.0,4.7
 1908,Panda Express,Food & Drink,94.9,0.0,4.6
 1910,Hotwire,Travel,302.7,0.0,4.8
+1912,PS4 Remote Play,Entertainment,19.1,0.0,4.4
 1913,Fitness Buddy: Gym Workout Log,Health & Fitness,176.8,0.0,4.8
 1914,Amex,Finance,205.1,0.0,4.9
 1915,Photable - Photo Editor Pro,Photo & Video,103.9,0.0,3.8
 1916,WiFi Map - Open WiFi Hotspots,Travel,200.0,0.0,4.3
+1917,TurningPoint®,Education,22.6,0.0,4.3
 1919,Timehop - Memories Then & Now,Social Networking,68.4,0.0,4.8
 1920,Emoji Me Animated Faces,Entertainment,109.5,0.0,4.7
 1922,Zillow Rentals,Lifestyle,149.6,0.0,4.8
 1923,Karaoke - Sing Unlimited Songs,Music,120.4,0.0,4.5
+1924,MTB Project,Sports,94.6,0.0,4.8
 1926,Map My Fitness by Under Armour,Health & Fitness,336.2,0.0,4.7
 1927,Spending Tracker,Finance,47.2,0.0,4.7
 1929,Jigsaw Puzzle,Games,267.5,0.0,4.7
 1930,adidas - Sports & Style,Shopping,244.1,0.0,4.8
+1932,Disney World Lines (TP),Travel,1.7,0.0,4.7
+1933,Smartify - LG TV Remote,Utilities,33.3,0.0,4.3
+1935,The Funny Weather,Weather,14.9,0.0,4.7
 1936,Total files,Utilities,121.7,0.0,4.7
 1938,The Sims™ FreePlay,Games,1024.0,0.0,4.5
 1940,Grocery List with Sync,Productivity,99.0,0.0,4.7
+1941,Forza Football,Sports,115.4,0.0,4.6
 1942,SiriusXM Radio,Music,204.6,0.0,4.8
 1943,Quizlet,Education,138.9,0.0,4.8
 1944,Symbol Keyboard - 2000+ Signs,Productivity,36.5,0.0,4.6
@@ -905,13 +1170,16 @@
 1955,18Birdies: Golf GPS App,Sports,264.7,0.0,4.9
 1957,Typorama: Text on Photo Editor,Photo & Video,174.9,0.0,4.8
 1958,Bloons TD Battles,Games,149.7,0.0,4.8
+1961,Starfall FREE,Education,94.3,0.0,4.0
 1962,GasBuddy,Travel,231.9,0.0,4.7
 1963,Handy.com,Lifestyle,107.4,0.0,4.2
+1964,Soompi – K-Pop & K-Drama News,News,29.5,0.0,4.8
 1965,Add Music To Video Editor,Photo & Video,117.2,0.0,4.6
 1966,Yahoo Sports: Scores & News,Sports,152.9,0.0,4.7
 1967,My Earthquake Alerts & Feed,Weather,50.5,0.0,4.7
 1970,Sprout Pregnancy,Health & Fitness,191.2,0.0,4.7
 1971,Fastsave - Repost photo videos,Social Networking,32.8,0.0,4.6
+1973,iHoroscope - Daily Horoscope,Health & Fitness,204.2,0.0,4.3
 1974,Text to Speech!,Productivity,70.6,0.0,4.6
 1976,Colorfy: Coloring Art Game,Entertainment,162.1,0.0,4.8
 1977,Shortcuts,Productivity,141.3,0.0,4.3
@@ -920,35 +1188,48 @@
 1980,FreePrints Photobooks,Photo & Video,128.8,0.0,4.8
 1981,Map My Run by Under Armour,Health & Fitness,335.0,0.0,4.8
 1982,PAC-MAN,Games,101.6,0.0,4.2
+1985,新浪新闻-热门新闻娱乐头条抢先看,News,180.3,0.0,4.4
 1986,HP Smart,Productivity,78.0,0.0,4.8
 1988,Scholly,Education,39.0,0.0,4.4
+1991,InkPad Notepad - Notes - To do,Productivity,46.1,0.0,4.3
 1992,Bazaart Photo Editor & Design,Photo & Video,107.8,0.0,4.8
 1993,BuzzFeed News,News,52.6,0.0,4.6
+1994,Korean Dictionary - Dict Box,Reference,144.6,0.0,4.7
 1995,Magic Doodle: Movie Color&Draw,Games,27.9,0.0,4.1
 1996,GoodNotes 4,Productivity,222.7,7.99,4.5
+1998,TouchBanking,Finance,114.0,0.0,4.4
 2000,Slack,Business,171.0,0.0,4.2
 2001,Microsoft Teams,Business,149.1,0.0,4.7
 2002,HuffPost - News & Politics,News,198.5,0.0,4.6
 2003,Plex,Entertainment,222.7,0.0,4.7
 2004,MDLIVE: Talk to a Doctor 24/7,Medical,86.0,0.0,4.7
+2005,Thunderly,Weather,118.6,0.0,4.3
 2006,Remote Mouse,Utilities,44.4,0.0,4.6
 2007,ShopList (Grocery List),Productivity,45.1,0.0,4.6
 2013,Grubhub: Local Food Delivery,Food & Drink,190.3,0.0,4.8
 2015,Google News,News,130.2,0.0,4.5
+2016,Countdown+ Calendar (Lite),Lifestyle,105.2,0.0,4.7
 2017,Persian Dictionary - Dict Box,Reference,183.0,0.0,4.8
+2018,Google Play Books,Books,82.2,0.0,4.0
+2019,Piano with Songs,Music,120.1,0.0,4.5
 2022,Choice Hotels,Travel,74.1,0.0,4.7
 2024,Discover Mobile,Finance,127.3,0.0,4.8
 2026,PayRange,Utilities,24.1,0.0,4.7
+2027,Fraction Calculator Plus #1,Productivity,61.8,0.0,4.8
 2028,ASOS,Shopping,218.4,0.0,4.9
+2033,SloPro,Photo & Video,31.9,0.0,3.3
+2034,ASVAB Mastery: AFQT Practice,Reference,161.0,0.0,4.8
 2036,Nespresso,Food & Drink,131.2,0.0,4.5
 2037,ZEPETO,Social Networking,130.6,0.0,2.7
 2038,Via: Low-Cost Ride-Sharing,Travel,148.3,0.0,4.3
 2040,Star Walk 2 Ads+: Sky Map AR,Education,287.3,0.0,4.6
+2041,Doc Scan - Fax PDF Scanner,Business,114.1,0.0,4.6
 2045,ZipRealty - Homes for Sale,Lifestyle,142.2,0.0,4.8
 2048,Texture – Unlimited Magazines,News,68.2,0.0,4.8
 2050,Disney Cruise Line Navigator,Travel,145.4,0.0,4.7
 2051,Jelly Jump,Games,249.6,0.0,4.4
 2052,The Sims™ Mobile,Games,126.8,0.0,4.7
+2054,SkyView®,Education,84.2,1.99,4.6
 2055,Beat Maker Go - Make Music,Music,240.4,0.0,4.4
 2056,Quora,Social Networking,45.2,0.0,4.7
 2057,IHG® Hotel Deals & Rewards,Travel,245.4,0.0,4.8
@@ -956,16 +1237,21 @@
 2062,Live Video Chat — Flirtymania,Social Networking,72.6,0.0,4.3
 2063,DragonVale,Games,219.2,0.0,4.7
 2064,Weather : Weather forecast,Weather,38.0,0.0,4.7
+2065,Vent - Express your feelings,Social Networking,63.9,0.0,4.6
 2068,Tide Charts,Weather,101.1,0.0,4.8
 2070,YouCam Makeup-Magic Selfie Cam,Photo & Video,213.5,0.0,4.8
+2079,Wear OS by Google - Smartwatch,Utilities,164.3,0.0,1.9
+2083,Webnovel - Fictions & Comics,Books,145.5,0.0,4.3
 2084,HotPads - Apartment Rentals,Lifestyle,43.0,0.0,4.8
 2085,Map My Hike by Under Armour,Navigation,342.8,0.0,4.7
 2088,Logo Maker Shop,Business,148.4,0.0,4.7
 2089,Cartoon Network App,Entertainment,116.8,0.0,3.9
 2092,SnapCalc - Math Problem Solver,Education,149.8,0.0,4.4
 2093,INKHUNTER Try Tattoo Designs,Entertainment,198.5,0.0,4.8
+2094,Toddler games for 2 year olds.,Education,98.9,0.0,4.5
 2095,BrainPOP Featured Movie,Education,17.5,0.0,4.7
 2097,Solitaire,Games,234.8,0.0,4.7
+2098,Disney Junior Appisodes,Entertainment,502.8,0.0,3.3
 2099,Pokémon GO,Games,287.7,0.0,4.0
 2100,Walmart - Save Time and Money,Shopping,204.6,0.0,4.7
 2101,GEICO Mobile - Car Insurance,Finance,152.9,0.0,4.8
@@ -976,8 +1262,11 @@
 2113,Need for Speed No Limits,Games,1638.4,0.0,4.8
 2114,Event Countdown Lite,Productivity,69.5,0.0,4.7
 2115,TVG - Horse Racing Betting App,Sports,41.7,0.0,4.7
+2116,Gastro Ex,Medical,166.6,0.0,4.8
 2117,NBC Sports,Sports,188.4,0.0,2.1
+2121,Dumb Ways to Die 2: The Games,Games,1024.0,0.0,4.0
 2123,Minecraft,Games,284.1,6.99,4.4
+2124,WebMD Allergy,Health & Fitness,104.2,0.0,4.5
 2126,Medly,Music,217.3,0.0,4.6
 2127,My Aurora Forecast & Alerts,Weather,156.2,0.0,4.7
 2130,MouseWait Disneyland Lounge,Travel,85.9,0.0,4.7
@@ -989,11 +1278,14 @@
 2143,Agar.io,Games,75.7,0.0,4.6
 2145,MarketWatch - News & Data,Finance,60.5,0.0,4.5
 2146,"Tapatalk - 200,000+ Forums",Social Networking,166.0,0.0,4.5
+2147,Lark - 24/7 Health Coach,Health & Fitness,71.1,0.0,4.4
 2149,Faceover Lite: Photo Face Swap,Photo & Video,39.6,0.0,4.8
 2150,Google Photos,Photo & Video,302.8,0.0,4.7
 2151,Plant Nanny,Health & Fitness,85.9,0.0,4.6
+2152,"Gun Builder ELITE - Modern Weapons, Sniper & Assault Rifles",Entertainment,1433.6,0.0,4.0
 2153,Logos Bible Study Tools,Reference,164.6,0.0,4.8
 2154,SayHi Translate,Business,27.4,0.0,4.7
+2155,Wikipedia,Reference,56.7,0.0,4.6
 2156,Flashlight ®,Utilities,8.1,0.99,4.8
 2157,El Nuevo Día,News,71.0,0.0,4.6
 2158,CVS Pharmacy,Shopping,264.7,0.0,4.7
@@ -1002,6 +1294,7 @@
 2166,App in the Air,Travel,203.2,0.0,4.6
 2167,TD Ameritrade Mobile,Finance,76.2,0.0,4.3
 2168,SofaScore Live Sports Results,Sports,132.4,0.0,4.9
+2169,Photo Collage HD Pro – Pic Frame Maker Grid Editor,Reference,20.7,0.0,4.7
 2170,INRIX Traffic,Navigation,320.0,0.0,4.5
 2173,NLT Bible. Holy Audio Version,Books,18.1,0.0,4.8
 2174,Cute - Beauty Shopping,Shopping,93.2,0.0,4.5
@@ -1011,14 +1304,21 @@
 2178,BBC News,News,77.9,0.0,4.5
 2179,La Crosse View,Weather,45.2,0.0,3.8
 2181,My Spectrum,Utilities,120.2,0.0,4.6
+2184,MLB BUNT Baseball Card Trader,Sports,364.9,0.0,3.6
 2185,LIVE Palmistry & Horoscope,Lifestyle,138.6,0.0,4.5
+2186,VIZ Manga – Direct from Japan,Books,34.8,0.0,4.7
+2187,RetailMeNot Rx Saver,Medical,44.4,0.0,4.8
 2193,Flip Master,Games,226.9,0.0,4.6
 2195,Fitlist - Gym Workout Log,Health & Fitness,100.4,0.0,4.7
 2198,Sync.ME - Caller ID & Contacts,Social Networking,152.8,0.0,4.4
+2200,Toca Hair Salon 3,Education,129.8,3.99,4.3
 2201,The Flight Tracker,Travel,161.1,0.0,4.7
+2202,FOX 2,News,110.2,0.0,4.8
 2206,TurboScan™ Pro: PDF scanner,Business,25.3,5.99,4.9
 2207,SeatGeek - Buy Event Tickets,Entertainment,109.1,0.0,4.8
 2208,Remind: School Communication,Education,122.6,0.0,4.8
+2213,Sky Whale - a Game Shakers App,Entertainment,381.2,0.0,4.3
+2214,WhosHere,Social Networking,56.0,0.0,3.4
 2215,TouchTunes,Music,115.9,0.0,4.9
 2217,Meditation Studio,Health & Fitness,95.9,0.0,4.8
 2218,QuickBooks Self-Employed,Finance,130.3,0.0,4.6
@@ -1028,6 +1328,8 @@
 2224,TD Bank (US),Finance,220.8,0.0,4.8
 2225,Bolt Browser and Documents,Productivity,48.0,0.0,4.9
 2230,Genius Scan - PDF Scanner,Business,64.5,0.0,4.9
+2232,Out of Milk - Shopping List,Productivity,64.6,0.0,4.2
+2233,BeFunky,Photo & Video,74.1,0.0,4.7
 2235,GetFit: Home Fitness & Workout,Health & Fitness,251.7,0.0,4.6
 2239,Wine.com,Food & Drink,54.2,0.0,4.8
 2241,meterUP Parking,Navigation,90.2,0.0,4.8
@@ -1035,6 +1337,7 @@
 2243,SHAREit - Connect & Transfer,Productivity,67.2,0.0,4.2
 2246,Medisafe - Pill & Med Reminder,Medical,134.8,0.0,4.7
 2247,AutoGravity - Car Loan & Lease,Finance,96.4,0.0,4.6
+2249,Route4Me Route Planner,Navigation,147.5,0.0,4.4
 2252,Weather ·,Weather,65.8,0.0,4.6
 2253,Daily Burn Trainer Workouts,Health & Fitness,149.2,0.0,4.8
 2256,Tiny Tower,Games,184.1,0.0,4.7
@@ -1045,7 +1348,9 @@
 2263,Seattle Times Mobile,News,78.5,0.0,4.5
 2265,"Gaia GPS Hiking, Hunting Maps",Navigation,151.3,0.0,4.8
 2266,Surge - Gay Dating App,Lifestyle,93.6,0.0,4.5
+2267,Vonage Extensions – Your Home Calls on your iPhone,Utilities,67.2,0.0,4.3
 2268,TETRIS®,Games,107.0,0.0,4.5
+2270,Secret Apps Photo Lock,Business,32.6,0.0,4.2
 2272,Travelocity Hotels & Flights,Travel,185.8,0.0,4.8
 2273,PassportParking Mobile Pay,Travel,82.6,0.0,4.6
 2274,SongFlip Music Streaming,Music,37.0,0.0,4.8
@@ -1075,13 +1380,19 @@
 2327,Dubsmash - Dance & Lip Sync,Entertainment,36.7,0.0,4.7
 2329,Matchington Mansion,Games,339.4,0.0,4.4
 2330,ZipRecruiter Job Search,Business,61.6,0.0,4.9
+2331,Fiesta by Tango,Social Networking,177.8,0.0,4.6
 2333,Doctor On Demand,Medical,176.8,0.0,4.9
 2334,Asana Rebel,Health & Fitness,128.3,0.0,4.6
 2335,"Adobe Photoshop Mix - Cut out, combine, create",Photo & Video,220.6,0.0,4.6
 2337,Paper by WeTransfer,Productivity,164.8,0.0,4.5
+2338,The RealReal - Buy+Sell Luxury,Shopping,124.7,0.0,4.6
 2339,LINE WEBTOON - Daily Comics,Entertainment,135.5,0.0,4.6
 2340,My Hurricane Tracker & Alerts,Weather,61.8,0.0,4.7
+2341,DiDi - Greater China,Travel,308.9,0.0,3.1
+2342,Big Bus Tours,Travel,109.2,0.0,4.6
+2343,Feeld: For Couples & Singles,Lifestyle,33.4,0.0,4.2
 2344,Ola Cabs,Travel,259.7,0.0,4.7
+2345,Telemundo–Capítulos Completos,Entertainment,206.7,0.0,4.3
 2346,iPersia Calendar Arz تقویم ارز,Utilities,41.3,0.0,4.6
 2348,Click2Houston - KPRC 2,News,142.7,0.0,4.7
 2350,Streamer for Chromecast,Utilities,63.0,0.0,4.4
@@ -1117,21 +1428,26 @@
 2409,Simple Habit - Meditation,Health & Fitness,137.9,0.0,4.8
 2411,Resy,Food & Drink,48.9,0.0,4.8
 2412,Punchbowl: Invitations & Cards,Lifestyle,82.9,0.0,4.8
+2415,MyChart,Medical,89.4,0.0,3.2
 2418,Social Bicycles,Travel,63.0,0.0,4.5
 2419,H&M App,Shopping,133.6,0.0,4.6
 2420,Donatos,Food & Drink,88.4,0.0,4.8
+2421,iPeriod Lite Period Tracker,Health & Fitness,120.3,0.0,4.1
 2422,Learning Games 4 Kids Toddlers,Education,259.4,0.0,4.5
 2423,Piano app by Yokee,Music,114.8,0.0,4.7
 2424,"Homes for Sale, Rent",Lifestyle,16.8,0.0,4.6
+2425,Informed Delivery®,Business,26.7,0.0,2.1
 2427,narwhal for reddit,News,81.3,0.0,4.7
 2428,Discord,Social Networking,73.9,0.0,4.8
 2430,BoatUS - Boat Weather & Tides,Weather,98.6,0.0,4.7
 2433,Alaska Airlines,Travel,100.1,0.0,4.9
+2434,"Light Bible: Verses, Audio",Reference,101.7,0.0,4.8
 2438,NIV Bible*,Reference,134.7,0.0,4.8
 2439,Juno - A Better Way to Ride,Travel,129.8,0.0,4.9
 2440,iMassage U Vibrating Massager,Health & Fitness,14.0,0.0,3.9
 2441,PicsArt Photo Editor + Collage,Photo & Video,108.2,0.0,4.7
 2442,"7-Eleven, Inc.",Food & Drink,169.5,0.0,4.8
+2443,Waitr—Food Delivery & Carryout,Food & Drink,113.1,0.0,3.6
 2444,The Dan Patrick Show,Sports,187.7,0.0,4.9
 2445,Sing Karaoke - Unlimited Songs,Music,102.3,0.0,3.9
 2447,"Tagged -Chill, Chat & Go Live!",Social Networking,287.5,0.0,4.2
@@ -1141,14 +1457,22 @@
 2451,McAlisters Deli,Food & Drink,35.0,0.0,4.6
 2453,Bandcamp,Music,67.5,0.0,4.8
 2456,GIPHY: The GIF Search Engine,Photo & Video,78.7,0.0,4.7
+2460,Fingerprint Login:PassKey Lock,Productivity,97.8,0.0,2.4
+2461,NBC 5 Dallas-Fort Worth,News,129.5,0.0,4.6
 2463,Krispy Kreme ®,Food & Drink,72.0,0.0,4.7
+2464,Traffic Racer,Games,146.2,0.0,4.3
+2466,Drum Machine - Music Maker,Music,93.0,0.0,4.4
 2467,NetBenefits,Finance,43.9,0.0,4.7
+2468,OLX Classifieds,Shopping,128.2,0.0,4.1
+2469,Vidstitch Frames for Instagram,Photo & Video,135.2,0.0,4.2
 2470,Bank of America Mobile Banking,Finance,381.6,0.0,4.8
 2473,"Easy, a Cabify app",Travel,100.6,0.0,4.7
 2474,Houseparty,Social Networking,155.7,0.0,4.3
+2477,WM1,Business,4.9,0.0,1.3
 2478,Alarmy - Alarm Clock,Lifestyle,185.7,0.0,4.8
 2479,Apps Gone Free & Daily Tips,News,46.3,0.0,4.7
 2480,1Password - Password Manager,Productivity,112.4,0.0,4.5
+2481,Toddler educational games,Education,92.2,0.0,4.9
 2483,Radio Javan,Music,65.6,0.0,4.8
 2485,Acorns: Invest Spare Change,Finance,193.3,0.0,4.7
 2487,"B&H Photo, Video & Pro Audio",Shopping,160.0,0.0,4.9
@@ -1160,24 +1484,37 @@
 2493,U-verse,Entertainment,93.3,0.0,4.7
 2495,Fandango Movie Tickets & Times,Entertainment,57.4,0.0,4.8
 2502,Trulia Real Estate: Find Homes,Lifestyle,70.7,0.0,4.8
+2503,Reserve for Diners,Food & Drink,56.3,0.0,4.8
+2504,Red Karaoke Sing & Record,Music,48.0,0.0,4.5
+2505,GoToMeeting,Business,141.6,0.0,4.6
 2506,NOAA Now,Weather,38.5,0.0,4.5
 2508,SCRABBLE,Games,195.2,0.0,4.5
 2509,MSNBC,News,99.7,0.0,3.2
 2510,ABC News,News,184.0,0.0,4.4
 2511,MeteoEarth,Weather,97.5,0.0,4.7
+2512,iPoll,Lifestyle,92.6,0.0,3.8
+2514,My TWC®,Productivity,86.2,0.0,3.2
 2515,ParkChicago,Travel,93.8,0.0,4.7
+2516,Audio Books Pro,Books,43.5,0.0,4.3
 2518,Facetune,Photo & Video,62.9,3.99,4.9
 2524,Heads Up!,Games,147.1,0.99,4.9
 2525,Loan Calculator‰,Finance,25.4,0.0,4.7
 2526,Creepypasta,Books,118.8,0.0,4.6
+2531,Readly,News,15.9,0.0,4.8
 2532,Mortgage by Zillow,Finance,61.4,0.0,4.7
 2534,Rules of Survival,Games,2252.8,0.0,4.5
 2535,TwinSpires Horse Race Betting,Sports,58.5,0.0,4.8
 2536,Township: Farm & City Building,Games,224.1,0.0,4.7
+2537,Canon Camera Connect,Photo & Video,84.7,0.0,2.5
+2538,Bible Gateway,Reference,69.4,0.0,4.2
 2539,USAA Mobile,Finance,158.7,0.0,4.0
 2540,"Expedia: Hotels, Flights & Car",Travel,86.4,0.0,4.8
+2545,Wait Times at Disney World,Travel,34.9,0.0,4.7
 2547,Nike Run Club,Health & Fitness,290.1,0.0,4.8
+2548,Downcast,News,41.4,2.99,4.2
 2549,Prodigy Math Game,Education,10.8,0.0,4.7
+2551,Calculate by QxMD,Medical,52.1,0.0,4.8
+2553,BringFido,Travel,181.5,0.0,4.9
 2554,Pinterest,Social Networking,124.0,0.0,4.8
 2555,Slices,Games,173.0,0.0,4.6
 2556,Beachbody® On Demand,Health & Fitness,116.4,0.0,4.9
@@ -1185,9 +1522,14 @@
 2560,Atom - Movie Tickets & Times,Entertainment,148.1,0.0,4.9
 2561,Toca Life: World,Education,640.1,0.0,4.3
 2563,theScore: Sports News & Scores,Sports,154.4,0.0,4.8
+2567,KeepTruckin Electronic Logbook,Business,82.2,0.0,4.5
 2569,Royal Caribbean International,Travel,253.0,0.0,4.6
+2570,Pro Editor - Video Maker for FaceBook & Youtube,Photo & Video,53.4,0.0,3.2
+2572,Schoology,Education,164.2,0.0,2.6
 2575,Avenza Maps,Navigation,66.5,0.0,4.7
+2576,ویترین سیبچه,Shopping,32.3,0.0,4.3
 2578,After School­,Social Networking,154.9,0.0,3.5
+2579,Livestream,Entertainment,131.3,0.0,4.4
 2580,Basecamp 3,Business,38.9,0.0,4.7
 2581,Commerce Bank for iPhone,Finance,70.8,0.0,4.7
 2582,Zamen | زامن,News,106.2,0.0,4.7
@@ -1197,6 +1539,8 @@
 2588,Univision Deportes,Sports,60.9,0.0,4.5
 2589,Truth and Lie Detector Scanner,Entertainment,38.1,0.0,4.2
 2590,Vinted USA,Lifestyle,118.1,0.0,4.8
+2591,Daily Butt Workout - Fitness,Health & Fitness,20.3,0.0,4.6
+2594,Bookly - Read More,Books,119.2,0.0,4.6
 2595,Fidelity Investments,Finance,200.6,0.0,4.7
 2598,Apartments by Apartment Guide,Lifestyle,78.0,0.0,4.7
 2599,Rain Sounds HQ: sleep aid,Medical,91.3,0.0,4.8
@@ -1205,21 +1549,31 @@
 2604,Anova Culinary,Food & Drink,112.9,0.0,3.8
 2606,Jurassic World™: The Game,Games,1331.2,0.0,4.8
 2607,KeyBank Mobile,Finance,117.9,0.0,4.3
+2608,Walmart MoneyCard,Finance,119.4,0.0,4.2
+2609,All Football - Scores & News,Sports,85.4,0.0,4.6
 2610,Withings Health Mate,Health & Fitness,254.8,0.0,4.5
+2611,Plantronics Hub™,Utilities,24.9,0.0,4.4
+2612,My Challenge Tracker,Health & Fitness,123.1,0.0,4.6
 2613,Happy Wheels,Games,85.8,0.0,4.4
 2614,Emoji Keyboard Emojis Me Maker,Utilities,84.3,0.0,4.6
+2616,Poll Everywhere,Education,9.7,0.0,4.8
 2622,Contacts Sync for Google Gmail,Utilities,79.6,0.0,4.6
 2626,Saucey: Alcohol Delivery,Food & Drink,79.9,0.0,4.9
 2627,Sandbox Coloring,Entertainment,16.7,0.0,4.8
 2631,StockX - Buy & Sell Authentic,Shopping,183.1,0.0,4.7
 2632,Ruler®,Utilities,38.7,0.0,4.5
+2633,BRD - bitcoin wallet,Finance,48.5,0.0,3.8
+2637,File Manager & Browser,Utilities,73.2,0.0,4.2
 2638,DoubleDown Casino Slots Game,Games,47.6,0.0,4.6
 2640,Pedometer++,Health & Fitness,27.0,0.0,4.6
+2641,Crowdfire,Social Networking,112.9,0.0,4.0
 2642,Sniper Shooter: Gun Shooting,Games,129.4,0.0,4.9
 2643,8 Ball Pool™,Games,141.3,0.0,4.7
 2644,Toon Blast,Games,286.7,0.0,4.7
 2645,Deer Hunter 2018,Games,454.9,0.0,4.7
+2650,USA Network,Entertainment,100.7,0.0,3.7
 2651,Calm,Health & Fitness,120.8,0.0,4.8
+2652,Action Movie FX,Entertainment,122.1,0.0,4.5
 2653,Chase Mobile®,Finance,234.3,0.0,4.8
 2654,Angry Birds Rio,Games,133.7,0.0,4.6
 2655,Currency,Travel,28.7,0.0,4.8
@@ -1234,6 +1588,7 @@
 2671,AirAsia,Travel,190.8,0.0,4.5
 2672,Guitar - real games & lessons,Music,234.8,0.0,4.4
 2673,Connected2.me – Meet & Chat,Social Networking,109.3,0.0,4.4
+2674,iTunes U,Education,60.9,0.0,3.3
 2675,Sleeptracker® 24/7,Medical,105.3,0.99,4.5
 2678,Photo Lab: Picture Editor face,Photo & Video,146.6,0.0,4.6
 2679,Homescapes,Games,212.2,0.0,4.5
@@ -1242,9 +1597,12 @@
 2683,Inbox by Gmail,Productivity,261.4,0.0,3.9
 2684,Lyft Driver,Business,174.2,0.0,4.7
 2687,Socratic Math & Homework Help,Education,88.5,0.0,4.9
+2689,Prognosis: Your Diagnosis,Medical,61.3,0.0,4.8
+2695,UC Browser,Utilities,111.0,0.0,4.4
 2696,TUUNES™: Ringtones & Music,Music,77.7,0.0,4.5
 2697,Hinge: Dating & Relationships,Lifestyle,66.2,0.0,4.5
 2698,Eat24 Food Delivery,Food & Drink,191.4,0.0,4.8
+2699,MyFrontier,Utilities,63.9,0.0,4.2
 2703,myChevrolet,Lifestyle,145.0,0.0,4.8
 2707,HuntStand,Sports,67.6,0.0,4.7
 2709,XE Currency,Travel,68.4,0.0,4.6
@@ -1256,43 +1614,60 @@
 2716,sweetgreen,Food & Drink,177.5,0.0,4.9
 2717,"Decibel X: dB, dBA Noise Meter",Utilities,25.6,0.0,4.6
 2720,Ballz,Games,108.7,0.0,4.3
+2721,Authy,Utilities,79.3,0.0,4.6
 2723,Celebrity Voice Changer - Face,Entertainment,58.9,0.0,4.1
+2725,Google Express: one stop shop,Shopping,207.2,0.0,4.4
 2726,Pigment - Adult Coloring Book,Entertainment,160.2,0.0,4.6
 2727,Invoice 2go Invoice & Estimate,Business,143.0,0.0,4.6
+2729,Men’s Health Magazine,Magazines & Newspapers,91.9,0.0,4.5
 2730,Weight Loss Fitness by Verv,Health & Fitness,147.0,0.0,4.6
 2731,Easy Scanner PDF Document Scan,Business,60.6,0.0,4.8
+2732,RealCaller -Caller id - Lookup,Social Networking,22.1,0.0,4.2
 2734,Happy Scale,Health & Fitness,42.0,0.0,4.9
 2735,TikTok - Real Short Videos,Photo & Video,275.8,0.0,4.7
+2738,Pocket Expense 6,Finance,176.2,0.0,4.4
 2739,Akinator,Entertainment,199.8,0.0,3.9
 2740,Chilis,Food & Drink,67.0,0.0,4.8
 2741,Retouch Me: Body & Face Editor,Photo & Video,57.1,0.0,4.4
 2743,Untappd - Discover Beer,Food & Drink,172.4,0.0,4.8
+2746,Tip Calculator % Gold,Food & Drink,13.9,0.0,4.7
+2750,SOMA Messenger,Social Networking,139.8,0.0,4.3
 2751,SongPop 2 - Guess The Song,Games,129.2,0.0,4.7
+2752,myHomework Student Planner,Education,47.8,0.0,4.6
 2754,Paper.io,Games,267.4,0.0,4.5
+2756,Bloomberg Businessweek+,News,69.7,0.0,4.6
 2762,Friendly for Facebook,Social Networking,94.3,0.0,4.6
 2763,Avis - Car Rental,Travel,195.7,0.0,4.7
 2764,Lords Mobile: War Kingdom,Games,424.5,0.0,4.2
 2765,Travel Altimeter & Elevation,Navigation,31.8,0.0,4.7
+2769,Spot On Period Tracker,Health & Fitness,72.9,0.0,4.7
 2770,WINDY - wind & snow forecast,Weather,104.7,0.0,4.6
 2771,Overcast,News,14.0,0.0,4.7
 2775,DRAFT: Daily Fantasy Football,Sports,77.0,0.0,4.9
+2778,AutoZone,Shopping,65.6,0.0,4.2
 2779,Kik,Social Networking,153.1,0.0,4.3
 2783,Hollister So Cal Style,Shopping,84.3,0.0,4.9
 2784,Cisco Webex Meetings,Business,146.2,0.0,4.3
+2785,AT&T ProTech,Business,33.2,0.0,4.8
 2787,9NEWS,News,94.4,0.0,4.4
 2789,TurboScan™: document scanner,Business,32.4,0.0,4.9
+2790,Secret Calculator Photo Album,Utilities,13.0,0.0,3.8
 2791,"LegalShield, Law Firms On Call",Business,94.1,0.0,4.8
 2793,Favor - Anything Delivered,Food & Drink,128.0,0.0,4.8
 2797,Total Trivia,Shopping,89.5,0.0,4.3
 2799,GOAT – Shop Sneakers,Shopping,176.7,0.0,4.8
+2801,Hipstamatic,Photo & Video,147.4,2.99,4.8
 2802,Idle Miner Tycoon,Games,480.1,0.0,4.7
 2804,OfferUp - Buy. Sell. Simple.,Shopping,173.8,0.0,4.8
 2807,Best Secret Folder,Utilities,74.7,0.0,4.8
 2808,Productive - Habit Tracker,Productivity,237.0,0.0,4.6
+2810,Postagram: Photo Postcards,Travel,52.8,0.0,4.9
+2811,LevelUp: Order food ahead,Food & Drink,145.9,0.0,4.7
 2812,Calculator‘,Utilities,94.4,0.0,4.7
 2815,Real Caller : دليل هوية المتصل,Social Networking,21.4,0.0,4.4
 2816,Pixel Gun 3D: Battle Royale,Games,1228.8,0.0,4.8
 2818,SanDisk iXpand™ Drive,Productivity,185.6,0.0,4.7
+2820,Sound Sleeper: White Noise,Health & Fitness,109.3,0.0,4.9
 2821,"Google Docs: Sync, Edit, Share",Productivity,232.5,0.0,4.8
 2822,Washington Post Select,News,105.3,0.0,4.8
 2824,SoundCloud - Music & Audio,Music,128.6,0.0,4.5
@@ -1311,9 +1686,11 @@
 2842,Achievement - Reward Health,Health & Fitness,68.3,0.0,4.7
 2843,Whataburger,Food & Drink,171.7,0.0,4.8
 2847,News360: Personalized News,News,108.3,0.0,4.6
+2848,Campus Student,Education,25.2,0.0,2.4
 2849,LinkedIn Job Search,Business,104.9,0.0,4.8
 2850,Slopes,Sports,87.8,0.0,4.8
 2851,Slim & Skinny -Thin Face Photo,Shopping,40.3,0.0,4.6
+2852,Pencil Sketch Photo Camera Pad,Reference,56.4,0.0,4.6
 2857,Speedway Fuel & Speedy Rewards,Navigation,60.4,0.0,4.7
 2858,Tophatter: Win Fun Discounts,Shopping,62.2,0.0,4.6
 2860,Local4Casters Weather,Weather,146.8,0.0,4.7
@@ -1321,6 +1698,7 @@
 2864,Amazon Photos,Photo & Video,168.0,0.0,4.7
 2865,Best VPN Proxy Betternet,Productivity,27.8,0.0,4.5
 2869,Best Buy,Shopping,180.6,0.0,4.8
+2870,Lie Test - Truth Detector,Lifestyle,14.4,0.0,2.6
 2875,Paint Pop 3D,Games,182.7,0.0,4.7
 2879,Little Stories. Bedtime books,Books,142.2,0.0,4.6
 2880,6pm,Shopping,71.3,0.0,4.9
@@ -1329,6 +1707,8 @@
 2883,car2go,Travel,117.3,0.0,4.8
 2884,Your Avatar Creator | Zmoji,Utilities,381.8,0.0,4.8
 2885,Smiley Private Texting SMS,Utilities,27.9,0.0,4.4
+2889,FotoRus -Camera & Photo Editor,Photo & Video,167.0,0.0,4.3
+2890,Tinycards - Fun Flashcards,Education,45.3,0.0,4.4
 2891,Quran Pro Muslim القرآن الكريم,Reference,91.2,0.0,4.8
 2893,Scanner Radio: Police & Fire,News,23.9,0.0,4.7
 2896,Fabulous - Daily Motivation,Health & Fitness,226.5,0.0,4.6
@@ -1339,6 +1719,7 @@
 2903,Real Thermometer,Weather,61.7,0.0,4.3
 2904,#VPN - Wi-Fi Hotspot Security,Productivity,97.3,0.0,4.4
 2905,Famous Footwear Mobile,Shopping,37.4,0.0,4.9
+2909,Baby Connect (Activity Log),Medical,30.9,4.99,4.8
 2911,Virgin Atlantic,Travel,131.1,0.0,4.7
 2912,"Moco - Chat, Meet People",Lifestyle,61.7,0.0,4.0
 2913,Keto diet & Ketogenic recipes,Food & Drink,19.0,0.0,4.7
@@ -1351,9 +1732,12 @@
 2924,PhotoScan by Google Photos,Photo & Video,107.9,0.0,4.8
 2925,Keto.app - Keto Diet Tracker,Health & Fitness,50.2,0.0,4.5
 2927,Geocaching®,Navigation,112.6,0.0,4.7
+2931,Little Caesars,Food & Drink,81.0,0.0,4.4
 2933,WeatherBug – Weather Forecast,Weather,268.8,0.0,4.7
 2934,Microsoft Authenticator,Productivity,62.6,0.0,4.7
 2937,Footaction,Shopping,87.9,0.0,4.8
+2940,Shopify - Ecommerce Business,Business,187.2,0.0,4.6
+2942,Microsoft Office Lens|PDF Scan,Productivity,40.0,0.0,4.6
 2944,Magisto *Smart* Video Editor,Photo & Video,129.0,0.0,4.7
 2945,Crew Messaging and Scheduling,Business,118.6,0.0,4.6
 2947,Clover,Shopping,26.4,0.0,4.9
@@ -1364,75 +1748,98 @@
 2953,BBM,Social Networking,324.2,0.0,4.4
 2954,Quik - GoPro Video Editor,Photo & Video,244.1,0.0,4.9
 2955,Pantaya,Entertainment,74.8,0.0,4.8
+2957,PlayStation Messages,Social Networking,57.4,0.0,3.6
 2959,CBS News: Live Breaking News,News,45.9,0.0,4.0
 2961,Google Translate,Reference,87.8,0.0,4.5
 2962,Zello Walkie Talkie,Business,75.2,0.0,4.6
 2963,VSCO,Photo & Video,140.8,0.0,4.5
+2966,RT News­,News,101.8,0.0,4.8
+2969,فاذكروني,Reference,92.7,0.0,4.5
+2970,TaxAct Express,Finance,90.7,0.0,4.5
 2971,RADIO.COM,Music,126.4,0.0,3.4
 2972,Microsoft SharePoint,Productivity,127.1,0.0,4.5
 2974,Rise Up,Games,158.5,0.0,4.4
 2976,Text Me - Phone Call + Texting,Social Networking,150.6,0.0,4.7
 2977,DisneyNOW – Episodes & Live TV,Entertainment,514.1,0.0,3.3
 2981,MyPlate Calorie Counter,Health & Fitness,126.9,0.0,4.6
+2982,QDOBA Rewards & Ordering,Food & Drink,80.2,0.0,3.7
 2983,Recolor - Coloring Book,Entertainment,336.2,0.0,4.1
+2985,Soothe: In Home Massage,Lifestyle,161.7,0.0,4.4
 2989,ABC13 Houston,News,83.8,0.0,4.5
+2990,Supercuts Hair Salon Check-in,Lifestyle,49.1,0.0,3.6
 2991,Meetup,Social Networking,339.7,0.0,4.7
 2992,Misfit,Health & Fitness,302.7,0.0,4.6
+2993,Barcelona Metro - TMB Map,Navigation,79.1,0.0,4.7
 2994,Trello,Business,179.2,0.0,4.7
 2996,GoodRx – Save On Prescriptions,Medical,97.1,0.0,4.8
 2997,Nat Geo TV: Live & On Demand,Entertainment,75.1,0.0,4.7
+2998,5000+ Emoji,Social Networking,116.8,0.0,4.3
 3000,VPN for iPhone – Proxy Server,Utilities,39.5,0.0,4.4
 3001,Checkers ・,Games,89.5,0.0,4.4
 3002,TunnelBear VPN & Wifi Proxy,Productivity,52.9,0.0,4.6
 3003,Speed Test SpeedSmart Internet,Utilities,57.2,0.0,4.7
 3005,Santa Biblia Reina Valera 1960 Gratis en Español,Books,27.2,0.0,4.8
 3010,CareCredit Mobile App,Finance,62.0,0.0,4.8
+3011,Flashlight ¤,Productivity,28.7,0.0,4.5
 3012,Poshmark,Shopping,79.1,0.0,4.7
 3013,Brainscape - Smart Flashcards,Education,67.5,0.0,4.7
 3019,Yummly Recipes + Shopping List,Food & Drink,205.8,0.0,4.8
+3020,Piano for iPhone,Music,59.3,0.0,4.3
 3024,Exxon Mobil Speedpass+,Navigation,161.5,0.0,4.8
 3025,Elevate - Brain Training,Education,327.8,0.0,4.8
 3028,Imgur - Meme & GIF Maker,Photo & Video,128.7,0.0,4.6
 3029,Quran Al Kareem القرآن الكريم,Reference,106.8,0.0,4.8
 3031,Precious - Baby Photo Art,Lifestyle,139.8,0.0,4.7
+3032,Ventra,Travel,22.3,0.0,1.4
 3033,PredictWind — Marine Forecasts,Weather,27.6,0.0,4.7
 3038,Polarr Photo Editor,Photo & Video,70.1,0.0,4.8
 3039,Beat maker pro - Drum Pad,Music,156.6,0.0,4.6
 3044,Speedometer 55 GPS Speed & HUD,Navigation,58.7,0.0,4.8
 3045,Cleaner for IG,Utilities,7.7,0.0,4.0
 3047,السوق المفتوح - OpenSooq,Shopping,152.9,0.0,4.6
+3048,نبض Nabd - اخبار العالم ، عاجل,News,94.1,0.0,4.3
 3050,Polar Beat: Run & Fitness,Health & Fitness,143.5,0.0,4.6
 3051,ShopSavvy Barcode Scanner,Shopping,67.8,0.0,4.3
 3052,YouMail: Voicemail Upgrade,Utilities,158.5,0.0,4.6
+3056,textPlus: Unlimited Text+Calls,Utilities,190.3,0.0,3.6
 3058,Tubi - Watch Movies & TV Shows,Entertainment,173.3,0.0,4.6
 3061,Yandex.Taxi,Travel,124.8,0.0,4.8
 3063,QuizUp™,Games,167.9,0.0,3.8
+3064,Runtastic Results Ab Workout,Health & Fitness,255.1,0.0,4.5
 3066,CPlus for Craigslist,Shopping,137.2,0.0,4.6
 3067,Kasa Smart,Lifestyle,458.8,0.0,4.8
 3068,Scanner++ PDF Document Scan,Business,40.4,0.0,4.6
 3069,Math Learner: Easy Mathematics,Education,79.3,0.0,3.5
+3070,Minibar Delivery,Food & Drink,34.6,0.0,4.8
 3072,MKE Park,Navigation,94.8,0.0,4.6
 3075,Shonen Jump Manga & Comics,Books,37.3,0.0,4.8
 3076,TurboTax Tax Return App,Finance,196.2,0.0,4.7
+3081,HireVue for Candidates,Business,43.7,0.0,4.6
 3082,Rolling Sky,Games,194.5,0.0,4.3
 3084,饿了么外卖-同城配送咖啡下午茶夜宵,Food & Drink,268.9,0.0,4.9
 3085,The Guardian: Breaking News,News,97.7,0.0,4.9
+3086,BookShout: eBook & Reading App,Books,150.3,0.0,4.3
 3087,Regal Cinemas,Entertainment,402.0,0.0,4.7
+3089,Wanderu,Travel,105.0,0.0,4.8
 3090,MyQ Garage & Access Control,Lifestyle,205.8,0.0,4.8
 3091,Google Sheets,Productivity,334.9,0.0,4.8
 3092,Angry Birds Go!,Games,479.8,0.0,3.7
 3096,Barron’s,News,109.4,0.0,4.7
 3097,Merlin Bird ID by Cornell Lab,Reference,72.4,0.0,4.8
 3099,Epic!,Education,181.7,0.0,4.7
+3100,Nursing Central,Medical,17.1,0.0,4.8
 3101,Credit One Bank Mobile,Finance,70.1,0.0,4.7
 3102,SnoreLab : Record Your Snoring,Medical,116.5,0.0,4.7
 3103,Instant Heart Rate: HR Monitor,Health & Fitness,192.6,0.0,4.8
 3104,JEFIT Workout Planner Gym Log,Health & Fitness,100.9,0.0,4.8
+3105,Spanish Dictionary - Dict Box,Reference,288.0,0.0,4.7
+3106,Video Cache - Editor & Maker,Photo & Video,60.0,0.0,3.9
 3107,Monogram It! Lite,Entertainment,46.5,0.0,4.8
 3108,Yoga | Down Dog,Health & Fitness,86.8,0.0,4.9
 3109,Aura: Calm Anxiety & Sleep,Health & Fitness,114.1,0.0,4.7
 3115,Audiobooks.com: Audio Books,Books,49.8,0.0,4.8
 3116,Polysphere,Games,266.6,0.0,4.5
+3117,Noizz-Music Cam & Video Editor,Photo & Video,129.0,0.0,4.0
 3118,Blackboard,Education,148.1,0.0,4.6
 3123,Arabic Dictionary - Dict Box,Reference,137.9,0.0,4.7
 3126,Instagram,Photo & Video,158.8,0.0,4.8
@@ -1443,15 +1850,19 @@
 3132,Slice: Pizza Delivery & Pickup,Food & Drink,123.9,0.0,4.8
 3133,CHOPT,Food & Drink,60.2,0.0,4.8
 3134,Magic Eye Color-Face Makeup,Photo & Video,62.6,0.0,4.5
+3135,Google Play Movies & TV,Entertainment,76.3,0.0,3.0
 3136,DraftKings Sportsbook,Sports,251.1,0.0,4.8
 3137,Tides Near Me,Weather,32.0,0.0,4.8
 3138,Google,Utilities,329.8,0.0,4.7
 3139,Abercrombie & Fitch,Shopping,72.1,0.0,4.9
+3142,Sounds App Music for Instagram,Music,224.9,0.0,4.4
 3147,Goodreads: Book Reviews,Books,96.9,0.0,4.8
 3148,TrapCall: Reveal No Caller ID,Business,65.7,0.0,4.3
 3149,Food Network In the Kitchen,Food & Drink,225.9,0.0,4.8
+3150,10 Day NOAA Weather,Weather,271.7,0.0,4.6
 3151,Jodel - Hyperlocal Community,Social Networking,68.1,0.0,4.4
 3152,Camera Translator: Translate+,Reference,125.7,0.0,4.5
+3154,iQuran,Reference,206.3,0.0,4.6
 3155,Linksys,Utilities,88.0,0.0,4.6
 3156,"BeautyPlus -Snap, Edit, Filter",Photo & Video,218.5,0.0,4.9
 3157,Anghami - انغامي,Music,173.3,0.0,4.7
@@ -1465,11 +1876,14 @@
 3167,CareZone,Medical,77.8,0.0,4.6
 3168,Mixer - Interactive Streaming,Entertainment,75.7,0.0,4.7
 3170,BabyFirst: Educational Videos,Education,152.8,0.0,4.3
+3172,Joel Osteen for iPhone,Lifestyle,28.3,0.0,4.7
+3173,Voice Changer App – Funny SoundBoard Effects,Entertainment,34.7,0.0,3.8
 3174,SUPER PADS - Become a DJ,Music,182.7,0.0,4.7
 3177,Car Navigation: GPS & Maps,Navigation,116.6,0.0,4.8
 3179,TonalEnergy Tuner & Metronome,Music,73.3,3.99,4.9
 3181,Oral-B,Health & Fitness,133.0,0.0,4.8
 3183,Split Pic Collage Maker Layout,Photo & Video,138.7,0.0,4.5
+3185,TruckMap - Truck GPS Routes,Navigation,25.8,0.0,4.6
 3186,IRL - Let’s Hang,Social Networking,70.7,0.0,4.0
 3187,UnFollowers for Instagram +,Social Networking,64.0,0.0,4.0
 3189,Smartsheet,Productivity,76.6,0.0,4.8
@@ -1477,6 +1891,7 @@
 3196,MGM Resorts International,Travel,99.9,0.0,4.8
 3198,Jack’d - Gay Chat & Dating,Social Networking,353.6,0.0,1.5
 3199,CARFAX Find Used Cars for Sale,Shopping,57.9,0.0,4.8
+3200,JPay,Finance,53.8,0.0,2.4
 3201,Rosetta Stone: Learn Languages,Education,260.9,0.0,4.8
 3203,Athan: Prayer Times & Al Quran,Education,141.3,0.0,4.8
 3205,NOAA Hi-Def Radar Pro,Weather,42.4,1.99,4.6
@@ -1487,11 +1902,14 @@
 3210,Secret Vault Lock Photos Photo,Photo & Video,17.5,0.0,4.5
 3211,إدارة الملفات,Utilities,118.5,0.0,4.8
 3212,LinkedIn Learning,Education,83.8,0.0,4.8
+3214,KTVU News,News,52.3,0.0,4.5
 3215,7 Minute Workout: Fitness App,Health & Fitness,51.9,0.0,4.8
 3216,Asana: organize tasks & work,Business,53.1,0.0,4.7
 3217,"Pure, the hookup app",Lifestyle,88.2,0.0,4.0
 3221,WW (Weight Watchers),Health & Fitness,193.5,0.0,4.8
+3222,Kode Browser - Fast & Private,Utilities,72.0,0.0,3.6
 3228,Wedding Planner by WeddingWire,Lifestyle,95.9,0.0,4.8
+3230,Toyota Entune,Lifestyle,65.7,0.0,1.4
 3232,Autolist - Used Cars for Sale,Shopping,124.8,0.0,4.8
 3234,LettuceEats,Food & Drink,101.1,0.0,4.8
 3235,Evite: Online & Text Invites,Lifestyle,57.5,0.0,4.8
@@ -1507,14 +1925,18 @@
 3253,Newegg Mobile,Shopping,72.9,0.0,4.8
 3255,Google Voice,Productivity,147.7,0.0,4.0
 3256,thinkorswim Mobile,Finance,100.0,0.0,4.7
+3259,Skins for Minecraft - PE Skins,Productivity,29.7,0.0,3.6
+3260,Wig Studio - Hair Design Booth,Reference,82.8,0.0,4.7
 3264,Talkspace Online Therapy,Health & Fitness,130.7,0.0,4.1
 3267,PhotoGrid - Video & Pic Editor,Photo & Video,175.4,0.0,4.7
 3268,Tic Tac Toe ∙,Games,56.3,0.0,4.3
 3269,CamCard -Business Card Scanner,Business,228.2,0.0,4.7
 3270,AMC,Entertainment,98.5,0.0,3.4
+3272,InstaBeauty - Makeup Camera!,Photo & Video,178.7,0.0,3.8
 3273,FOX Sports: Watch Live,Sports,123.5,0.0,4.2
 3274,Fox News: Live Breaking News,News,112.4,0.0,4.7
 3275,Toy Blast,Games,338.2,0.0,4.7
+3277,InsTrack for Instagram,Social Networking,20.6,0.0,3.4
 3278,Amazon Music,Music,101.6,0.0,4.7
 3279,Cinemark Theatres,Entertainment,128.5,0.0,4.8
 3281,"TIZE - Beat Maker, Music Maker",Music,180.7,0.0,4.5
@@ -1522,11 +1944,14 @@
 3283,Friended,Social Networking,97.4,0.0,4.3
 3284,Madden NFL Overdrive Football,Games,131.4,0.0,4.6
 3286,Adobe Fill & Sign,Business,16.8,0.0,4.8
+3287,YouNow: Live Stream Video Chat,Social Networking,91.9,0.0,3.1
 3288,Talking Tom Cat,Entertainment,117.9,0.0,4.3
 3289,AnyList,Productivity,47.0,0.0,4.9
 3290,Xoom Money Transfer,Finance,154.6,0.0,4.8
 3291,MetaTrader 4. Currency Market,Finance,19.7,0.0,4.7
 3292,Rockbot - Request Music,Music,57.8,0.0,4.7
+3293,FileMaster-Privacy Protection,Productivity,49.8,0.0,4.4
+3294,Splashtop Personal for iPhone,Business,45.5,0.0,4.7
 3296,Rentalcars.com Car rental App,Travel,179.8,0.0,4.7
 3297,QVC Mobile Shopping (US),Shopping,141.4,0.0,4.9
 3299,Gardenscapes,Games,292.9,0.0,4.6
@@ -1537,11 +1962,17 @@
 3306,Choices: Stories You Play,Games,133.1,0.0,4.4
 3307,Go Record: Screen Recorder,Utilities,21.5,0.0,4.5
 3310,TransLoc Rider: Transit Tracking & Alerts,Navigation,44.2,0.0,4.6
+3313,TaskRabbit - Handyman & More,Lifestyle,34.6,0.0,3.9
 3314,Roll the Ball® - slide puzzle,Games,228.6,0.0,4.6
+3316,Repost for Instagram+,Social Networking,58.7,0.0,4.6
 3317,Best Girl Skins for Minecraft,Utilities,89.1,0.0,4.5
+3318,Dario Diabetes Management,Medical,118.0,0.0,4.7
+3319,Willow - Watch Live Cricket,Sports,64.8,0.0,2.9
 3321,Business Insider,News,45.8,0.0,4.7
 3327,YouTube Kids,Entertainment,181.3,0.0,4.7
+3328,NCLEX RN Review by Lippincott,Medical,141.6,0.0,4.7
 3329,Fender Tune - Guitar Tuner,Music,110.4,0.0,4.8
+3331,EasyMeasure,Utilities,52.7,0.0,4.1
 3333,DraftKings Fantasy Sports,Sports,372.8,0.0,4.8
 3334,StepsApp Pedometer,Health & Fitness,150.7,0.0,4.8
 3336,"MOLDIV - Photo Editor, Collage",Photo & Video,173.0,0.0,4.7
@@ -1553,17 +1984,25 @@
 3354,"YouTube: Watch, Listen, Stream",Photo & Video,249.6,0.0,4.7
 3355,Wallpapers & Themes for Me,Entertainment,173.6,0.0,4.7
 3362,Scanbot Scanner App - Scan PDF,Utilities,240.4,0.0,4.8
+3364,Doodle: Easy Scheduling,Productivity,92.7,0.0,4.8
+3365,AAA Mobile,Lifestyle,194.8,0.0,2.2
 3366,All Cheats for GTA V (5),Reference,8.8,0.0,4.8
 3367,MINDBODY Business,Business,107.8,0.0,4.6
 3368,Migraine Buddy,Medical,120.1,0.0,4.8
 3369,NYT Cooking,Food & Drink,53.3,0.0,4.9
 3371,"Zoosk: Match, Talk, Date, Love",Social Networking,135.5,0.0,4.4
+3372,Bible Verses: Daily Devotional Wallpapers & Quotes,Reference,18.2,0.0,4.8
+3373,MSW Surf Forecast,Weather,50.0,0.0,4.9
 3376,Fuel Rewards® program,Shopping,51.1,0.0,4.7
+3377,HolyBible K.J.V,Books,65.8,0.0,4.8
 3383,WhatsApp Messenger,Social Networking,139.5,0.0,4.7
 3384,Go Mobile PGH,Navigation,95.7,0.0,4.7
+3385,"File Storage : View Organize & Store Photos, PDF and Files",Utilities,33.2,0.0,4.2
+3386,Panna: Video Recipes & Classes,Food & Drink,190.4,0.0,4.7
 3387,HuntWise: A Better Hunting App,Navigation,151.6,0.0,4.7
 3388,Krazy Coupon Lady: Save Money,Shopping,92.0,0.0,4.9
 3391,Bleacher Report Live,Sports,162.0,0.0,3.8
+3393,"FITE - Boxing, Wrestling, MMA",Sports,158.2,0.0,4.6
 3394,Running Distance Tracker Pro,Health & Fitness,124.2,0.0,4.9
 3395,Fax from iPhone - Tiny Fax,Business,55.5,0.0,4.6
 3396,SkyView® Lite,Education,82.1,0.0,4.6
@@ -1576,15 +2015,24 @@
 3412,QuickThoughts - Earn Rewards,Lifestyle,141.2,0.0,4.0
 3413,Golf Handicap Tracker & Scores,Sports,3.1,0.0,4.7
 3414,Google Pay,Finance,136.4,0.0,4.8
+3416,Fishing Spots - Official App,Sports,180.9,0.0,4.7
+3421,Evermusic: offline music app,Music,118.2,0.0,4.5
 3423,letgo: Buy & Sell Used Stuff,Shopping,167.4,0.0,4.4
 3424,Hungry Shark World,Games,326.1,0.0,4.8
 3425,MyRadar NOAA Weather Radar,Weather,182.0,0.0,4.8
+3426,Maven – Car Sharing,Travel,122.8,0.0,4.3
 3427,Lil BUB Cat Weather Report,Weather,81.8,0.0,4.9
+3428,Hairstyle Try On,Lifestyle,106.4,0.0,4.0
 3429,intoLive - Live Wallpapers,Photo & Video,99.2,0.0,4.5
 3430,Etsy – Shop Creative,Shopping,76.0,0.0,4.6
+3432,Tips & Tricks Pro - for iPhone,Productivity,152.6,2.99,4.8
+3433,Photo Editor - Image Beauty,Shopping,56.4,0.0,4.2
+3435,NIV Bible,Books,92.2,5.99,4.9
 3437,Map My Ride by Under Armour,Health & Fitness,342.1,0.0,4.8
+3438,HSBC Mobile Banking,Finance,128.4,0.0,1.4
 3440,Care.com: Hire Babysitters,Lifestyle,206.9,0.0,4.6
 3441,23andMe - DNA Testing,Health & Fitness,112.6,0.0,4.8
+3444,百度阅读-电子书看书阅读神器,Books,135.2,0.0,4.8
 3445,Gogo Entertainment,Travel,34.4,0.0,2.7
 3446,Carb Manager: Keto Diet App,Health & Fitness,30.5,0.0,4.8
 3447,"Wild: Hook Up, Meet & Dating",Lifestyle,32.3,0.0,4.2
@@ -1592,15 +2040,19 @@
 3450,5miles: Buy and Sell Locally,Shopping,106.8,0.0,4.7
 3453,K.J.V. Holy Bible,Education,64.5,0.0,4.8
 3455,Boxed: Bulk Quality Essentials,Shopping,171.9,0.0,4.8
+3459,Weibo,Social Networking,283.6,0.0,2.6
 3461,In 24 Hours Learn Spanish,Education,29.6,0.0,4.5
 3462,The Boston Globe,Magazines & Newspapers,80.3,0.0,4.7
 3463,Fishdom,Games,213.5,0.0,4.7
 3465,Baby piano for kids & toddlers,Education,109.5,0.0,4.4
+3466,WBAL-TV 11 News - Baltimore,News,82.3,0.0,4.2
 3467,Yarn - Chat & Text Stories,Books,78.2,0.0,4.2
+3468,Key Ring Reward Cards,Shopping,67.2,0.0,4.4
 3470,Marco Polo - Video Chat,Social Networking,155.3,0.0,4.7
 3472,Tecarta Bible,Books,89.9,0.0,4.9
 3473,Google+,Social Networking,161.3,0.0,4.6
 3475,Think Dirty – Shop Clean,Health & Fitness,60.6,0.0,4.7
+3478,VPN SecureLine: Proxy by Avast,Utilities,93.1,0.0,4.3
 3479,mytaxi: Tap & Move Freely,Travel,135.1,0.0,4.7
 3480,Disney Emoji Blitz,Games,441.9,0.0,4.7
 3481,Ovia Fertility Period Tracker,Medical,132.0,0.0,4.8
@@ -1608,6 +2060,7 @@
 3484,LinkedIn: Network & Job Search,Social Networking,160.8,0.0,4.4
 3487,Zero - Fasting Tracker,Health & Fitness,61.0,0.0,4.8
 3488,Nike Training Club,Health & Fitness,164.8,0.0,4.8
+3492,Project Color™ The Home Depot,Lifestyle,168.7,0.0,4.2
 3494,Voice Record Pro,Utilities,171.2,0.0,4.7
 3498,Stronglifts 5x5 Weight Lifting,Health & Fitness,82.7,0.0,4.8
 3499,My Talking Tom,Games,358.7,0.0,4.5
@@ -1616,6 +2069,8 @@
 3504,Rover—Dog Sitters & Walkers,Travel,151.0,0.0,4.9
 3505,Find Me Gluten Free,Health & Fitness,23.1,0.0,4.9
 3506,Bible,Reference,152.4,0.0,4.9
+3507,Cocktail Flow - Drink Recipes,Food & Drink,123.7,0.0,4.7
+3509,YeeCall: HD Voice & Video Call,Social Networking,82.1,0.0,4.4
 3510,VideoShow Video Editor & Maker,Photo & Video,147.6,0.0,4.5
 3511,Fly Delta,Travel,145.9,0.0,4.8
 3512,Hostelworld: Hostels & Hotels,Travel,190.7,0.0,4.9
@@ -1624,12 +2079,16 @@
 3517,Geek - Smarter Shopping,Shopping,90.0,0.0,4.6
 3518,Workout: Gym tracker & planner,Health & Fitness,144.0,0.0,4.9
 3519,Simply Piano by JoyTunes,Education,300.9,0.0,4.7
+3520,Instaread - Audio & Text,Books,59.9,0.0,4.6
+3521,・MEGA・,Productivity,142.8,0.0,4.2
 3522,4 Pics 1 Word,Games,154.5,0.0,4.7
 3523,Make It Rain: Love of Money,Games,183.7,0.0,4.6
+3524,Fishing Knots Mp-Fish,Reference,57.1,0.0,4.7
 3527,Artisto – Video and Photo Editor with Art Filters,Photo & Video,55.7,0.0,4.7
 3531,Walgreens,Shopping,282.6,0.0,4.8
 3533,"高德地图-精准地图,导航出行必备",Navigation,283.9,0.0,4.8
 3534,A Color Story,Photo & Video,91.5,0.0,4.8
+3535,Snupps,Social Networking,68.7,0.0,4.8
 3536,T. Rowe Price Personal®,Finance,53.5,0.0,4.7
 3538,Photo Editor-,Photo & Video,118.8,0.0,4.7
 3539,"Relaxing Sounds, Sleep Easy",Health & Fitness,33.8,0.0,4.6
@@ -1638,6 +2097,7 @@
 3542,Daily Random Facts,Reference,234.2,0.0,4.8
 3543,MTailor - Custom Clothing,Shopping,33.7,0.0,4.7
 3545,Lookout,Utilities,111.3,0.0,4.7
+3546,TouchPal Emoji Keyboard,Utilities,113.1,0.0,4.6
 3547,Overstock — Furniture & Decor,Shopping,139.6,0.0,4.9
 3549,Dirty Game - Hot Truth or Dare,Lifestyle,52.2,0.0,4.4
 3552,The Infatuation,Food & Drink,63.1,0.0,4.9
@@ -1645,10 +2105,14 @@
 3559,Raise - Discounted Gift Cards,Shopping,82.3,0.0,4.8
 3560,The Washington Post,News,127.1,0.0,4.8
 3561,Cabify,Travel,196.3,0.0,4.8
+3562,J23 - Release Dates & Restocks,Sports,8.0,1.99,4.8
 3563,Baltimore Ravens Mobile,Sports,157.3,0.0,4.8
 3564,Priority Pass™,Travel,169.8,0.0,4.8
 3566,AirBrush - Best Photo Editor,Photo & Video,117.3,0.0,4.9
+3567,Kronos Mobile™,Business,34.5,0.0,1.5
 3568,Zipcar,Travel,30.6,0.0,4.6
+3571,Universal remote tv smart,Utilities,45.9,0.0,3.9
+3572,CVS Specialty,Medical,14.9,0.0,4.7
 3573,Musixmatch Lyrics Finder,Music,93.3,0.0,4.4
 3575,Pacer Pedometer & Step Tracker,Health & Fitness,214.7,0.0,4.9
 3576,Equinox,Health & Fitness,73.4,0.0,4.7
@@ -1657,25 +2121,39 @@
 3580,Golfshot: Golf GPS + AR,Sports,215.8,0.0,4.7
 3582,Homes.com Rentals & Apartments,Lifestyle,13.9,0.0,4.6
 3583,Moodpath — Self-Care Companion,Medical,53.2,0.0,4.7
+3586,PowerSchool Mobile,Education,140.6,0.0,3.1
 3588,Clips,Photo & Video,154.4,0.0,3.6
 3589,Stupid Zombies,Games,134.9,0.0,4.8
+3590,Fitonomy: Weight Loss Training,Health & Fitness,201.8,0.0,3.9
 3591,Wedding Planner by The Knot,Lifestyle,131.6,0.0,4.8
+3592,AgingBooth,Entertainment,31.9,0.0,4.5
+3593,Living Wine Labels,Food & Drink,217.1,0.0,4.3
+3594,Citymapper Transit Navigation,Navigation,215.9,0.0,4.4
 3595,Alarm Clock for Me - Wake Up!,Utilities,123.5,0.0,4.6
 3596,Notability,Productivity,294.3,9.99,4.0
 3597,Subway Surfers,Games,211.4,0.0,4.6
 3598,Sleep Time: Cycle Alarm Timer,Health & Fitness,227.0,0.0,4.7
+3599,WSMV Channel 4,News,102.4,0.0,4.6
+3601,Fastdic - Fast Dictionary,Reference,204.5,0.0,4.5
 3603,Resident Portal Mobile,Lifestyle,38.9,0.0,4.7
 3605,Ab & Core Workouts,Health & Fitness,60.1,0.0,4.8
 3607,aa,Games,17.9,0.0,3.8
+3609,My Fitness by Jillian Michaels,Health & Fitness,216.3,0.0,4.6
 3611,WTNH News 8,News,92.0,0.0,4.6
 3612,HAR.com Texas Real Estate,Lifestyle,90.8,0.0,4.8
+3613,Notes Writer - Legacy Version,Productivity,177.9,0.0,4.5
 3617,MealPal- Best Meals Around You,Food & Drink,67.1,0.0,4.6
 3620,Forever 21,Shopping,131.4,0.0,4.8
+3621,AMI Music,Music,56.9,0.0,4.5
+3623,Hijri Calendar التقويم الهجري,Productivity,38.5,0.0,4.5
 3624,NBA: Official App,Sports,175.9,0.0,3.5
 3626,TextNow: Call + Text Unlimited,Social Networking,210.0,0.0,4.4
 3627,HESI A2 Pocket Prep,Medical,64.5,0.0,4.7
 3628,Homesnap Real Estate & Rentals,Lifestyle,233.7,0.0,4.8
+3632,Google Analytics,Business,65.4,0.0,4.7
 3633,Pizza Hut,Food & Drink,110.5,0.0,4.6
+3634,HISTORY Here,Travel,24.2,0.0,4.3
+3636,Movie Database: Blu-ray 4K DVD,Reference,45.0,0.0,4.6
 3640,FamilySearch Memories,Reference,57.7,0.0,4.8
 3641,Day One Journal,Health & Fitness,112.4,0.0,4.7
 3642,TGI Fridays,Food & Drink,19.9,0.0,4.8
@@ -1685,16 +2163,20 @@
 3653,Chewy - Where Pet Lovers Shop,Shopping,107.6,0.0,4.9
 3656,Run Sausage Run!,Games,375.1,0.0,4.5
 3657,Tapas - Comics & Stories,Books,88.3,0.0,4.6
+3659,Cleanup Duplicate Contacts!,Productivity,27.7,0.0,3.9
 3660,Butt Workout and Fitness App,Health & Fitness,62.3,0.0,4.8
 3663,Max Tracker Hurricane WPLG,Weather,67.5,0.0,4.8
+3667,AntiStress Adult Coloring Book,Books,106.6,0.0,4.6
 3669,MyAmFam,Finance,74.1,0.0,4.8
 3670,Upwork,Business,154.9,0.0,4.6
 3673,Albertsons,Shopping,61.2,0.0,4.7
 3674,TIDAL Music - Streaming,Music,79.7,0.0,4.6
+3676,Lufthansa,Travel,174.0,0.0,4.4
 3677,Tellonym,Lifestyle,69.0,0.0,4.6
 3678,Daily Yoga - Workout & Fitness,Health & Fitness,90.9,0.0,4.8
 3680,Perfect365,Lifestyle,257.1,0.0,4.8
 3681,Paris Metro Map and Routes,Navigation,95.4,0.0,4.7
+3682,Discovery GO,Entertainment,61.5,0.0,3.8
 3683,Getaround - Instant Car Rental,Travel,129.0,0.0,4.9
 3684,Verizon Smart Family™,Lifestyle,216.4,0.0,4.2
 3685,Bloomberg: Business News,News,70.8,0.0,4.6
@@ -1704,13 +2186,17 @@
 3690,Alarm.com,Lifestyle,176.4,0.0,4.5
 3694,DOWN Dating: Flirt and Hookup,Lifestyle,131.3,0.0,4.6
 3695,Brainly - Expert Homework Help,Education,80.4,0.0,4.8
+3696,POTO,Photo & Video,76.3,0.0,4.8
 3697,Shutterfly: Prints & Gifts,Photo & Video,219.0,0.0,4.7
 3698,Airtime: Watch Together,Social Networking,105.1,0.0,4.4
+3700,The Bible Memory App,Reference,78.7,0.0,4.7
 3701,Baritastic - Bariatric Tracker,Medical,60.8,0.0,4.7
+3703,App for Lyft Drivers,Books,47.1,0.0,4.6
 3705,快看漫画,Books,150.5,0.0,4.8
 3707,TripIt: Travel Planner,Travel,123.8,0.0,4.8
 3709,Drawing Pad & Doodle Paint Art,Productivity,193.8,0.0,4.1
 3710,Unit Converter FREE - Best Units & Currency app,Productivity,9.8,0.0,4.6
+3711,Photo & Video Collage Maker,Utilities,48.9,0.0,4.3
 3712,British Airways,Travel,155.4,0.0,4.6
 3713,Aloha Browser - private & fast,Utilities,239.7,0.0,4.7
 3716,Wordscapes,Games,134.9,0.0,4.9
@@ -1725,6 +2211,7 @@
 3737,"Muslim Pro: Azan, Quran, Qibla",Reference,141.9,0.0,4.8
 3739,Goodbudget Budget Planner,Finance,13.4,0.0,4.7
 3741,KHOU 11 News Houston,News,94.6,0.0,4.6
+3742,My Data Manager & Security,Utilities,49.7,0.0,4.2
 3743,PlayerXtreme Media Player,Utilities,94.2,0.0,4.6
 3744,Jollychic- جولي شيك,Shopping,61.2,0.0,3.8
 3745,منو معاي,Social Networking,83.6,0.0,4.6
@@ -1734,43 +2221,63 @@
 3754,Traffic Rider,Games,231.0,0.0,4.5
 3755,The CW,Entertainment,55.1,0.0,3.5
 3756,Calendars by Readdle,Productivity,107.8,0.0,4.7
+3757,Yammer,Business,182.3,0.0,4.6
 3758,Covet Fashion,Games,160.0,0.0,4.4
 3759,MyTeams by NBC Sports,Sports,85.3,0.0,4.3
+3761,Astrology Daily Horoscope,Lifestyle,65.9,0.0,4.5
 3764,MapQuest GPS Navigation & Maps,Navigation,54.2,0.0,4.5
 3766,ParkWhiz - #1 Parking App,Navigation,68.3,0.0,4.9
 3768,EMT Pocket Prep,Medical,51.2,0.0,4.8
 3770,Followers Pro + for Instagram,Social Networking,53.0,0.0,4.6
+3774,Fisheye - Fisheye Camera with Film and LOMO Lens,Entertainment,21.4,0.0,4.3
 3775,Unfold — Create Stories,Photo & Video,96.8,0.0,4.9
 3776,Roller Splat!,Games,292.0,0.0,4.3
 3777,Weight Loss Running by Verv,Health & Fitness,219.5,0.0,4.6
 3779,BOSS Revolution: Cheap Calls,Social Networking,129.3,0.0,4.3
+3780,Nick Jr.,Education,113.8,0.0,3.6
 3781,Truecaller,Utilities,233.9,0.0,4.6
 3782,O'Reilly,Reference,102.1,0.0,4.6
 3783,iSalam: Qibla Compass,Navigation,26.1,0.0,4.7
 3785,Hertz Car Rental,Travel,41.0,0.0,4.0
 3786,Kroger,Shopping,244.0,0.0,4.7
 3787,PNC Mobile Banking,Finance,245.6,0.0,4.8
+3789,New York City Subway Map,Navigation,139.3,0.0,4.4
 3790,Rokie - Roku Remote,Utilities,34.5,0.0,4.4
 3792,myGMC,Lifestyle,128.0,0.0,4.9
 3795,Earthquake,Weather,72.9,0.0,4.7
 3796,Enlight Videoleap Video Editor,Photo & Video,125.3,0.0,4.6
+3797,Spyglass,Navigation,22.7,5.99,4.7
+3798,Tunity: Hear any muted TV,Utilities,95.1,0.0,4.5
+3799,Bluefire Reader,Books,41.7,0.0,4.6
 3803,CamScanner-Scanner to scan PDF,Productivity,144.5,0.0,4.8
+3804,Launchpad,Music,108.2,0.0,4.5
+3805,Barclays US,Finance,119.4,0.0,2.3
 3806,Pill Reminder - All in One,Medical,17.4,0.0,4.7
 3807,Pregnancy Tracker - BabyCenter,Health & Fitness,148.4,0.0,4.8
+3808,LOL Movie,Photo & Video,73.5,0.0,4.4
+3809,mydlink Lite,Productivity,74.5,0.0,4.1
+3810,EWC,Lifestyle,132.0,0.0,4.3
 3812,MRSOOL | مرسول,Business,116.3,0.0,4.8
 3815,Trulia Rentals,Lifestyle,80.4,0.0,4.8
+3816,"Zazzle - Create, Design & Shop",Shopping,51.9,0.0,4.7
 3819,Record it! :: Screen Recorder,Utilities,27.2,0.0,4.2
+3820,Checkbook - Ledger,Finance,27.6,0.0,4.3
 3821,fuboTV: Watch Live Sports & TV,Entertainment,140.9,0.0,4.5
 3822,Freshly,Food & Drink,113.9,0.0,4.8
 3823,Clumsy Ninja,Games,240.8,0.0,4.8
 3824,Zynga Poker - Texas Holdem,Games,256.8,0.0,4.6
 3825,Strong Workout Tracker Gym Log,Health & Fitness,174.8,0.0,4.8
+3827,Forecast Now,Weather,38.3,0.0,4.4
+3828,KakaoTalk,Social Networking,379.1,0.0,3.5
 3829,Speedometer,Navigation,0.08427734375,0.0,2.3
 3830,EatStreet Food Delivery App,Food & Drink,44.4,0.0,4.8
 3831,Investing.com Stocks,Finance,114.9,0.0,4.6
 3833,CNET: Best Tech News & Reviews,News,134.3,0.0,4.6
 3834,Stash: Invest. Learn. Save.,Finance,214.2,0.0,4.7
 3835,SunTrust Mobile App,Finance,102.2,0.0,4.0
+3838,Piano - simply game keyboard,Music,242.4,0.0,4.6
+3839,AlAhliMobile,Finance,82.4,0.0,4.0
+3840,mySugr: Diabetes Tracker Log,Medical,178.2,0.0,4.7
 3841,Password Secure Manager App,Productivity,197.9,0.0,4.3
 3842,Netflix,Entertainment,81.9,0.0,4.0
 3843,HER: Lesbian Dating & Chat App,Lifestyle,95.2,0.0,3.9
@@ -1781,6 +2288,7 @@
 3850,HQ - Trivia & Words,Games,170.9,0.0,3.8
 3853,Grindr - Gay chat,Social Networking,243.1,0.0,2.1
 3854,To-do list & Tasks by Any.do,Productivity,220.2,0.0,4.6
+3855,Stitcher for Podcasts,News,107.2,0.0,4.0
 3856,Cloud Video Player - Play Videos from Cloud,Photo & Video,58.4,0.0,4.4
 3858,VPN + TOR Browser Private Web,Utilities,101.1,0.0,4.3
 3859,SmartLine Second Phone Number,Business,80.0,0.0,4.7
@@ -1788,8 +2296,11 @@
 3863,MyRadar NOAA Weather Radar Pro,Weather,179.0,2.99,4.8
 3865,Phonto - Text on Photos,Photo & Video,74.2,0.0,4.8
 3869,Wells Fargo CEO Mobile,Finance,131.4,0.0,4.3
+3871,21 Day Fix® Tracker – Official,Health & Fitness,8.9,0.0,4.6
 3872,Resume Star: Pro CV Maker and Resume Designer with PDF Output to Help You Score that Job Interview a...,Productivity,3.1,0.0,4.9
 3875,Roadtrippers - Trip Planner,Travel,97.3,0.0,4.7
+3876,St. Louis Post-Dispatch,News,43.3,0.0,3.9
+3878,DietBet: Lose Weight & Win!,Health & Fitness,33.2,0.0,4.2
 3880,Coin Dozer,Games,266.2,0.0,4.7
 3881,Hoopla Digital,Books,54.3,0.0,4.7
 3882,Evernote,Productivity,123.9,0.0,4.2
@@ -1799,6 +2310,8 @@
 3887,CSR Racing 2,Games,2867.2,0.0,4.7
 3888,NOAA Radar Pro: Weather Alerts,Weather,96.2,4.99,4.6
 3889,Bejeweled Blitz,Games,135.3,0.0,3.1
+3890,TrueCar: The Car Buying App,Shopping,25.7,0.0,3.9
+3891,ElfYourself® By Office Depot,Entertainment,184.3,0.0,3.9
 3893,Kinsa,Medical,115.2,0.0,4.8
 3894,Fitness Buddy+ Gym Workout Log,Health & Fitness,176.8,3.99,4.8
 3896,Daily Quote - Positive Quotes,Lifestyle,194.1,0.0,4.8
@@ -1807,39 +2320,56 @@
 3902,Period Tracker Period Calendar,Health & Fitness,108.3,0.0,5.0
 3903,Blinkist: Books in 15 minutes,Education,356.6,0.0,4.7
 3904,TinyTap -  Educational Games,Education,110.3,0.0,4.3
+3907,KK Username Search for Friends,Social Networking,29.8,0.0,3.8
 3908,The Simpsons™: Tapped Out,Games,90.2,0.0,4.7
 3909,hibooks - amazing audiobooks,Books,69.8,0.0,4.6
 3910,Redfin Real Estate,Lifestyle,91.4,0.0,4.8
 3912,GlobeConvert Currency & Units,Utilities,21.8,0.0,4.8
 3914,The Study Bible,Reference,120.8,0.0,4.9
+3919,ClearFM for FM Transmitters,Utilities,6.9,0.0,4.2
 3920,StockTwits,Finance,137.2,0.0,4.8
+3922,Zaxby’s,Food & Drink,143.4,0.0,4.8
 3923,Drive Ahead!,Games,436.6,0.0,4.2
 3924,SignEasy - Sign and Fill Docs,Business,268.0,0.0,4.9
 3925,Match - #1 Dating,Social Networking,71.2,0.0,3.4
 3930,magicplan,Utilities,166.6,0.0,4.7
 3933,Chess ∙,Games,65.3,0.0,4.5
+3934,iTorch Flashlight,Utilities,35.8,0.0,4.7
+3936,Farmer Boys,Food & Drink,49.9,0.0,4.6
 3938,RainbowKey - keyboard themes,Utilities,193.5,0.0,4.4
 3941,Mematic - The Meme Maker,Photo & Video,105.7,0.0,4.7
+3944,TheGrint | Your Golferhood,Sports,114.1,0.0,4.8
 3945,Zombie Frontier 3: Sniper FPS,Games,174.8,0.0,4.6
 3946,Adult Emoji for Lovers,Social Networking,86.3,0.0,4.7
 3947,Talking Ben the Dog,Entertainment,107.7,0.0,4.5
 3948,FanDuel - Fantasy Sports,Sports,201.1,0.0,4.8
+3949,Keyboard Skins for iPhone,Lifestyle,107.7,0.0,4.2
 3950,VPN by Private Internet Access,Productivity,27.5,0.0,4.6
 3951,Hearthstone,Games,1638.4,0.0,4.1
+3952,WGN News - Chicago,News,89.0,0.0,4.8
 3953,RetailMeNot: Coupons & Savings,Shopping,149.6,0.0,4.8
+3954,知乎 - 有问题，上知乎,Social Networking,222.8,0.0,3.6
 3958,Garmin Connect™,Health & Fitness,757.4,0.0,4.5
+3959,Word Search Puzzles,Games,24.4,0.0,4.4
 3960,Gilt - Shop Designer Sales,Shopping,41.0,0.0,4.8
 3961,Rebtel: International Calling,Social Networking,186.0,0.0,4.8
 3962,Mathway,Education,103.6,0.0,4.8
 3963,Collect: Save and share ideas,Productivity,40.1,0.0,4.4
 3965,Vanguard,Finance,145.6,0.0,4.8
+3967,Stocard - Rewards Cards Wallet,Shopping,146.0,0.0,4.7
 3968,Play Disney Parks,Travel,461.7,0.0,4.7
+3970,TADAA – HD Pro Camera,Photo & Video,81.0,0.0,4.5
 3972,Tomb of the Mask,Games,149.2,0.0,4.6
+3973,Wingstop,Food & Drink,62.0,0.0,4.0
 3974,▻Sudoku,Games,74.8,0.0,4.8
 3976,Countdown‼,Lifestyle,148.2,0.0,3.8
+3977,Period Tracker: Monthly Cycles,Health & Fitness,53.6,0.0,4.6
 3978,Mr. Number Call Block & Lookup,Utilities,101.6,0.0,4.6
+3980,Flightview - Flight Tracker,Travel,37.5,0.0,4.4
+3981,Ringtones - Unlimited Ringtones Maker,Music,65.6,0.0,2.8
 3983,Fight List - Categories Game,Games,59.9,0.0,4.3
 3984,Viber Messenger: Chats & Calls,Social Networking,252.5,0.0,4.4
+3986,Foursquare City Guide,Food & Drink,160.5,0.0,4.4
 3987,Thumbtack: Find Local Pros,Lifestyle,105.0,0.0,4.8
 3988,Square Point of Sale (POS),Business,305.1,0.0,4.8
 3990,KMOV Weather - St. Louis,Weather,90.7,0.0,4.7
@@ -1852,8 +2382,10 @@
 4005,BBC Sport,Sports,98.2,0.0,4.7
 4006,⋆Solitaire,Games,321.8,0.0,4.6
 4007,FancyKey - Keyboard Themes,Utilities,170.4,0.0,4.6
+4009,Emojis for iPhone,Social Networking,70.3,0.0,4.1
 4010,HelloTalk Learn Language Fast,Education,181.1,0.0,4.7
 4013,Zulily,Shopping,73.0,0.0,4.8
+4014,Kiwi.com: Cheap Travel Deals,Travel,169.5,0.0,4.5
 4015,Panera Bread,Food & Drink,123.9,0.0,4.9
 4017,Plated,Food & Drink,183.9,0.0,4.7
 4018,Human Anatomy Atlas 2019,Medical,1433.6,24.99,4.9
@@ -1867,13 +2399,17 @@
 4032,VarageSale,Shopping,137.1,0.0,4.6
 4033,Hipmunk Travel Search,Travel,86.2,0.0,4.8
 4034,Offline Files & Web Browser,Business,51.5,0.0,4.7
+4035,Nicki Minaj: The Empire,Music,601.8,0.0,4.1
+4037,Bible Reina Valera,Books,106.6,0.0,4.8
 4038,Axis 360,Books,78.7,0.0,4.2
 4039,Tip Check - Calculator & Guide,Finance,38.8,0.0,4.7
+4040,E!,Entertainment,102.5,0.0,3.6
 4043,MySTC App,Utilities,141.8,0.0,4.4
 4044,Steak 'n Shake,Food & Drink,64.8,0.0,4.6
 4045,Macy's,Shopping,379.1,0.0,4.8
 4046,Decor Matters: Design & Shop,Lifestyle,269.2,0.0,4.5
 4047,ABC7 Los Angeles,News,83.0,0.0,4.6
+4050,NOAA Weather Radio,Weather,14.2,3.99,4.0
 4052,"VPN Unlimited for iPhone, iPad",Productivity,67.0,0.0,4.4
 4053,Victoria’s Secret,Shopping,68.8,0.0,4.8
 4054,Flipp - Weekly Shopping,Shopping,100.9,0.0,4.7
@@ -1881,10 +2417,13 @@
 4058,Last Minute – Cheap Flights,Travel,39.9,0.0,4.8
 4059,SNOW - Beauty & makeup camera,Photo & Video,146.4,0.0,4.5
 4060,beIN SPORTS,Sports,55.9,0.0,4.6
+4062,iAzkar - آي أذكار,Reference,112.7,0.0,4.8
 4064,PrankDial - #1 Prank Call App,Entertainment,126.0,0.0,4.8
 4065,Wawa,Food & Drink,67.1,0.0,4.7
 4069,Disney Crossy Road,Games,257.1,0.0,4.6
 4070,Prezi Viewer,Productivity,67.3,0.0,4.4
+4071,Google Street View,Travel,107.8,0.0,4.2
+4074,Currency+ Lite,Travel,106.7,0.0,4.7
 4077,NBC News,News,27.8,0.0,4.7
 4080,Star Chart,Education,28.6,0.0,4.6
 4081,busuu - Language Learning,Education,155.4,0.0,4.7
@@ -1894,6 +2433,7 @@
 4087,Adobe Photoshop Fix,Photo & Video,173.5,0.0,4.6
 4089,"KAYAK Flights, Hotels & Cars",Travel,129.5,0.0,4.8
 4090,WebMD,Medical,122.7,0.0,4.7
+4091,ChordBank  -  Guitar Chord App,Music,113.0,0.0,4.8
 4092,Offender Locator Lite,Utilities,77.4,0.0,4.6
 4093,KARE 11 News,News,94.4,0.0,4.5
 4094,Teladoc,Medical,63.1,0.0,4.8
@@ -1901,11 +2441,13 @@
 4096,Current - A better bank,Finance,187.5,0.0,4.5
 4099,Engage Wellbeing,Medical,68.0,0.0,4.6
 4102,Co–Star Personalized Astrology,Lifestyle,92.0,0.0,4.9
+4106,Magnifying Glass With Light,Business,16.0,0.0,4.5
 4109,اسعار العملات الدولية,Finance,32.2,0.0,4.2
 4110,Rent.com Apartments & Homes,Lifestyle,77.9,0.0,4.7
 4111,Dune!,Games,240.7,0.0,4.5
 4113,Sleep Cycle: smart alarm clock,Health & Fitness,137.3,0.0,4.7
 4116,The New Yorker Today,News,74.2,0.0,4.7
+4118,Dash VPN,Travel,81.8,0.0,4.8
 4119,Stride Tax - Mileage Tracker,Finance,74.5,0.0,4.8
 4120,"Find My Family, Friends, Phone",Social Networking,252.8,0.0,4.8
 4121,Glucose Buddy Diabetes Tracker,Medical,195.6,0.0,4.8
@@ -1913,11 +2455,14 @@
 4126,1967: Retro Filters & Effects,Photo & Video,210.7,0.0,4.4
 4127,"Radio FM: Music, News & Sports",Music,58.5,0.0,4.6
 4128,Golfshot Plus: Golf GPS + AR,Sports,217.3,29.99,4.8
+4130,myPill® Birth Control Reminder,Medical,74.8,0.0,4.8
 4132,Assembly - Art and Design,Productivity,166.1,0.0,4.6
 4133,Slacker Radio,Music,124.4,0.0,4.7
 4134,AXS Tickets,Entertainment,75.5,0.0,4.6
 4135,Lock Secret Photo Album Vault,Utilities,11.3,0.0,4.6
 4138,PlugShare,Navigation,100.8,0.0,4.8
+4139,Calculator +,Utilities,32.9,0.0,4.6
+4141,DJ Lobo,Music,70.9,0.0,4.7
 4144,Egencia,Business,66.1,0.0,4.6
 4147,Music Maker JAM,Music,133.1,0.0,4.6
 4148,Influenster: Reviews & Deals,Shopping,139.0,0.0,4.8
@@ -1926,9 +2471,12 @@
 4152,Xfinity My Account,Utilities,116.1,0.0,3.2
 4158,Go Metro LACMTA Official App,Travel,111.6,0.0,4.6
 4160,Uber Driver,Business,249.1,0.0,4.7
+4161,Friendly Plus for Facebook,Social Networking,94.3,1.99,4.5
 4162,HungerStation,Food & Drink,153.1,0.0,4.0
 4164,NCAA March Madness Live,Sports,184.9,0.0,4.8
+4165,Cafe Rio,Food & Drink,116.0,0.0,3.9
 4166,Allstate® Mobile,Finance,149.7,0.0,4.8
+4167,Complete Anatomy 19 for iPhone,Medical,1536.0,0.0,4.7
 4168,Real Drum - Drums Pads,Music,40.1,0.0,4.6
 4169,Paycor Mobile,Business,138.2,0.0,4.7
 4172,JCPenney,Shopping,193.1,0.0,4.7
@@ -1937,10 +2485,15 @@
 4176,WFSB,News,93.2,0.0,4.6
 4177,ZOOM Cloud Meetings,Business,96.7,0.0,4.6
 4178,Target Registry,Shopping,116.0,0.0,4.9
+4180,CardValet®,Finance,43.1,0.0,4.3
 4181,Mixgram - Collage Maker,Photo & Video,81.3,0.0,4.6
+4182,Re-Call Recorder,Business,43.7,0.0,4.0
+4186,AA Big Book (Unofficial),Books,79.2,0.0,4.8
 4190,Message+,Social Networking,159.5,0.0,2.8
 4192,Candy Crush Jelly Saga,Games,233.1,0.0,4.5
+4193,"Big Emoji Keyboard - Stickers for Messages, Texting & Facebook",Utilities,76.0,0.0,4.6
 4195,Roku,Entertainment,141.9,0.0,4.6
+4196,Cincinnati.com,Magazines & Newspapers,234.6,0.0,4.5
 4197,Highrise - Virtual World,Social Networking,164.5,0.0,4.3
 4198,Snapchat,Photo & Video,290.3,0.0,4.0
 4199,YouCam Perfect - Photo Editor,Photo & Video,156.5,0.0,4.8
@@ -1950,17 +2503,24 @@
 4204,2048,Games,26.9,0.0,4.1
 4207,PayPal: Mobile Cash,Finance,370.1,0.0,4.9
 4211,WorldRemit Money Transfer,Finance,99.8,0.0,4.8
+4212,Newton Mail - Email App,Business,169.0,0.0,4.5
 4215,HomeAway VRBO Owner App,Travel,85.2,0.0,4.6
 4216,Microsoft PowerPoint,Productivity,265.3,0.0,4.7
 4217,azcentral,Magazines & Newspapers,234.5,0.0,4.5
 4220,Yahoo Finance,Finance,113.6,0.0,4.7
 4221,Workout for Women: Fitness App,Health & Fitness,77.0,0.0,4.8
+4222,Google Assistant,Utilities,204.9,0.0,4.0
 4223,Talking Ginger 2,Entertainment,108.0,0.0,4.4
+4224,TODAY Show,News,28.8,0.0,4.8
+4226,Good&Co: Culture Fit Jobs,Business,191.0,0.0,4.5
 4227,Unroll.Me,Productivity,76.6,0.0,4.7
 4229,JotNot Scanner App,Productivity,48.8,0.0,4.9
 4232,Cloud Music Player - Listener,Music,40.2,0.0,4.2
+4233,Long Game Savings,Finance,141.4,0.0,4.0
 4236,StyleSeat - Salon Appointments,Lifestyle,47.8,0.0,5.0
 4237,"Period Diary (Period, Fertile & Ovulation Tracker)",Health & Fitness,100.5,0.0,4.6
+4238,百度地图-科技让出行更简单,Navigation,337.6,0.0,4.7
+4239,SpotAngels Parking Map & Deals,Navigation,47.4,0.0,4.8
 4240,Huntington Mobile,Finance,75.3,0.0,4.8
 4241,Yahoo Fantasy Football & more,Sports,229.1,0.0,4.3
 4242,Clear Day - Weather HD,Weather,396.1,3.99,4.6
@@ -1975,42 +2535,58 @@
 4253,Shop Disney,Shopping,75.6,0.0,4.8
 4254,InShot - Video Editor,Photo & Video,93.3,0.0,4.8
 4255,Fatify - Make Yourself Fat,Entertainment,83.4,0.0,4.6
+4256,Contraction Timer & Counter 9m,Medical,27.8,0.0,4.6
 4257,Speedcheck Internet Speed Test,Utilities,66.4,0.0,4.9
+4258,Waterlogged - Drink More Water,Health & Fitness,58.8,0.0,4.3
 4260,Cartoon Camera Free - univision Sketch Effects In Cam Photo,Photo & Video,25.9,0.0,4.9
 4264,Weather Puppy: Forecast + Dogs,Weather,116.7,0.0,4.8
+4265,Viper SmartStart,Lifestyle,222.8,0.0,4.5
+4266,Easy BART,Navigation,9.8,0.0,4.6
 4269,Solitaire·,Games,56.4,0.0,4.6
 4271,Quran Explorer,Reference,104.7,0.0,4.8
 4272,Shoebox - Cloud Photo Storage,Utilities,24.0,0.0,4.8
 4279,PlanGrid Construction Software,Business,178.1,0.0,4.7
 4281,Blockers Spy for Instagram,Social Networking,36.0,0.0,4.2
 4282,Speedometer Speed Box App,Navigation,28.0,0.0,4.3
+4283,MSQRD — Live Filters & Face Swap for Video Selfies,Photo & Video,198.9,0.0,4.3
 4284,Lumosity: Daily Brain Games,Education,389.5,0.0,4.6
 4285,Wish - Shopping Made Fun,Shopping,96.9,0.0,4.7
 4286,CVS Caremark,Medical,58.3,0.0,4.5
 4288,Microsoft OneDrive,Productivity,198.6,0.0,4.7
 4290,Schwab Mobile,Finance,227.8,0.0,4.8
+4293,Citrix Workspace,Business,53.6,0.0,4.4
 4294,Ebates: Cash Back & Coupons,Shopping,138.7,0.0,4.5
 4295,BOSS Revolution Money,Finance,114.3,0.0,4.7
 4298,Private Photo Vault - Pic Safe,Photo & Video,64.1,0.0,4.8
 4300,Infinite Word Search Puzzles,Games,80.7,0.0,4.6
 4304,HoursTracker: Hours and Pay,Business,24.2,0.0,4.8
 4307,Scary chat stories - Addicted,Books,26.7,0.0,4.7
+4308,Magzter Newsstand,News,57.6,0.0,4.5
+4310,Round Health,Medical,34.9,0.0,4.4
 4312,Photomath,Education,46.3,0.0,4.8
 4313,IMVU: 3D Avatar Creator & Chat,Social Networking,130.8,0.0,4.2
 4314,TeamSnap,Sports,163.2,0.0,4.8
+4315,Couch to 5K® - Run training,Health & Fitness,157.9,2.99,4.5
 4317,Experian Credit Report & Score,Finance,108.0,0.0,4.7
+4318,Read by QxMD,Medical,65.5,0.0,4.8
+4322,Walmart Grocery Shopping,Shopping,79.1,0.0,3.8
+4326,unfollow for Twitter,Social Networking,52.8,0.0,3.7
 4327,HumorCast - Hilarious Weather,Weather,77.8,0.0,4.8
 4329,Cars.com - New & Used Cars,Shopping,76.8,0.0,4.8
+4332,StarMaker Lite,Entertainment,185.4,0.0,4.3
 4335,Fitbod Weight Lifting Tracker,Health & Fitness,133.2,0.0,4.8
 4336,Acapella from PicPlayPost,Music,143.3,0.0,4.6
 4338,Video Tube™: Stream Play Watch,Entertainment,67.5,0.0,4.5
 4339,Sworkit: Workouts & Plans,Health & Fitness,93.3,0.0,4.7
+4342,Toonia Colorbook - Educational Coloring Game for Kids & Toddlers,Education,68.3,0.0,4.7
 4343,Seesaw Parent and Family,Education,205.8,0.0,4.8
 4344,ABA English - Learn English,Education,185.7,0.0,4.6
 4345,LEAK - Scary Stories Chat,Books,50.5,0.0,4.7
 4347,Photo Blur Wallpaper Booth App,Photo & Video,152.0,0.0,4.5
+4348,Emoji Keyboard - Gif Stickers,Reference,113.4,0.0,4.5
 4353,Salesforce,Business,77.5,0.0,4.7
 4355,Clear Day® - Weather HD Lite,Weather,317.2,0.0,4.6
+4356,Cardiogram for Apple Watch,Health & Fitness,78.0,0.0,4.2
 4357,Tasty,Food & Drink,91.0,0.0,4.9
 4358,Chime - Mobile Banking,Finance,51.1,0.0,4.7
 4359,TheFork - Restaurants bookings,Food & Drink,119.1,0.0,4.8
@@ -2018,6 +2594,7 @@
 4361,Free People,Shopping,102.8,0.0,4.9
 4364,E! News,News,57.8,0.0,4.8
 4365,Xfinity xFi,Utilities,142.6,0.0,4.4
+4367,Arabic Dictionary +,Books,125.8,0.0,4.6
 4370,DIRECTV,Entertainment,196.6,0.0,4.7
 4372,8fit Workouts & Meal Planner,Health & Fitness,151.9,0.0,4.7
 4373,My Currency Converter & Rates,Travel,63.4,0.0,4.8
@@ -2027,9 +2604,12 @@
 4380,Watch TNT,Entertainment,107.2,0.0,4.2
 4382,"Omio: Train, Bus, Flight App",Travel,82.1,0.0,4.9
 4383,SONIC Drive-In,Food & Drink,97.7,0.0,4.8
+4385,Total Keto Diet: Low Carb Diet,Food & Drink,23.7,0.0,4.7
 4387,Fit the Fat 2,Games,152.5,0.0,4.3
 4388,Zapya - File Sharing,Utilities,110.2,0.0,4.7
 4390,SimCity BuildIt,Games,155.9,0.0,4.2
+4392,IHOP,Food & Drink,119.5,0.0,4.7
+4393,Slader Math Homework Answers,Education,125.6,0.0,4.4
 4394,Dosh: Automatic Cash Back App,Shopping,96.2,0.0,4.7
 4395,Moon Phase Calendar Plus,Weather,18.2,0.0,4.8
 4396,Chegg Study - Homework Help,Education,303.9,0.0,4.8
@@ -2039,6 +2619,10 @@
 4404,Capital One Mobile,Finance,534.8,0.0,4.7
 4406,Carnival HUB,Travel,117.3,0.0,4.6
 4407,Workout Trainer: fitness coach,Health & Fitness,143.8,0.0,4.7
+4408,Radio FM & AM,Music,26.3,0.0,4.6
+4409,First Citizens Mobile Banking,Finance,42.1,0.0,4.4
+4415,Photo Collage Scrapbook Frames,Reference,97.1,0.0,4.8
+4417,Babbel – Learn Spanish,Education,154.6,0.0,4.4
 4418,ScoutLook: Best Hunting App,Weather,76.1,0.0,4.6
 4420,Anchor,News,99.1,0.0,4.8
 4422,Dictionary.,Reference,14.7,0.0,4.8
@@ -2051,6 +2635,7 @@
 4437,ABC – Live TV & Full Episodes,Entertainment,625.2,0.0,4.7
 4438,Albert: Save and Spend Smarter,Finance,87.7,0.0,4.6
 4439,Philly.com: Philadelphia Local,Magazines & Newspapers,67.2,0.0,4.6
+4440,NOGGIN Preschool,Education,129.5,0.0,3.3
 4441,GarageBand,Music,1740.8,0.0,4.1
 4442,Adobe Scan: Doc Scanner to PDF,Business,83.0,0.0,4.8
 4444,Quran Majeed – القرآن المجيد,Reference,187.3,0.0,4.8
@@ -2061,37 +2646,53 @@
 4457,Enlight Quickshot,Photo & Video,148.2,0.0,4.8
 4458,Fair: A New Way To Own A Car,Shopping,145.4,0.0,4.6
 4461,Learn American English –Mondly,Education,91.2,0.0,4.7
+4462,Travel Channel,Travel,59.5,0.0,4.5
+4464,Daily Ab Workout - Abs Fitness,Health & Fitness,19.9,0.0,4.7
 4466,"Prism Pay Bills, Bill Reminder",Finance,122.0,0.0,4.8
 4468,Panel App - Prizes & Rewards,Shopping,46.2,0.0,4.5
+4469,TED,Education,56.4,0.0,4.4
+4471,Yandex.Maps,Navigation,267.5,0.0,4.7
 4472,Family Dollar,Shopping,53.8,0.0,4.8
 4473,Top Hat Lecture,Education,109.7,0.0,4.6
 4475,Telegram Messenger,Social Networking,152.8,0.0,4.3
 4476,Make Money - Earn Easy Cash,Lifestyle,26.8,0.0,4.9
 4477,Ayah – Quran App,Reference,190.7,0.0,4.8
+4480,GoBank - Mobile Banking,Finance,89.7,0.0,4.4
+4482,"Perfect Video Editor, Collage",Photo & Video,36.8,0.0,4.6
+4489,PIP Camera Pro.,Photo & Video,87.0,0.0,4.6
+4490,PayPal Here - Point of Sale,Business,170.4,0.0,4.4
 4495,Apartments & Houses for Rent,Lifestyle,94.0,0.0,4.6
 4496,My File Organizer,Utilities,35.6,0.0,4.5
 4497,NFL Fantasy Football,Sports,118.0,0.0,4.7
 4499,Root: Affordable car insurance,Finance,147.1,0.0,4.7
+4501,"Inkitt: Books, Novels, Stories",Books,51.8,0.0,4.5
 4503,Video Player - Video Player for Cloud,Utilities,58.5,0.0,4.5
+4505,Decluttr,Lifestyle,54.3,0.0,4.3
 4506,RockMyRun - Workout Music,Health & Fitness,70.8,0.0,4.7
 4508,Documents by Readdle,Productivity,186.9,0.0,4.7
 4513,Paint By Number: Coloring Book,Entertainment,70.2,0.0,4.6
+4514,HUAWEI HiLink (Mobile WiFi),Utilities,108.3,0.0,3.9
 4515,OfficeSuite & PDF editor,Business,153.7,0.0,4.6
+4518,IMLeagues,Sports,85.2,0.0,4.6
 4519,Feed Baby - Breastfeeding App,Medical,64.2,0.0,4.6
 4521,قرآن با ترجمه فارسی و تفسیر,Books,1331.2,0.0,4.8
 4522,Music Code for Roblox,Reference,59.5,0.0,4.8
 4524,eMeals - Healthy Meal Plans,Food & Drink,125.1,0.0,4.6
+4525,HYPEBEAST,News,59.6,0.0,4.9
 4526,LA Times,News,99.3,0.0,4.6
 4527,Drizly: Alcohol Delivery,Food & Drink,133.8,0.0,4.9
 4528,myAT&T,Utilities,121.6,0.0,4.4
 4529,READIT - Chat Stories,Books,130.5,0.0,4.4
 4531,Planet Fitness,Health & Fitness,67.5,0.0,4.3
+4532,SocialView for Instagram,Social Networking,78.5,0.0,2.4
+4534,2KMTCentral,Reference,60.5,0.0,4.8
 4536,BetterMe: Weight Loss Workouts,Health & Fitness,51.0,0.0,4.4
 4537,ScanBizCards Lite,Business,167.9,0.0,4.7
 4541,BECU,Finance,195.9,0.0,4.8
 4542,Clash Royale,Games,123.2,0.0,4.7
 4547,MyDISH Account,Utilities,143.3,0.0,4.6
 4548,Dave: $75 Before You Get Paid,Finance,86.4,0.0,4.7
+4551,Stats Royale for Clash Royale,Reference,76.0,0.0,4.4
 4552,Real Racing 3,Games,1331.2,0.0,4.8
 4554,NBA LIVE Mobile Basketball,Games,163.3,0.0,4.7
 4555,Hole.io,Games,333.9,0.0,4.6
@@ -2107,8 +2708,11 @@
 4571,The SNL Official App on NBC,Entertainment,107.9,0.0,4.7
 4572,Our Groceries Shopping List,Shopping,22.3,0.0,4.8
 4577,Retrica,Photo & Video,174.0,0.0,4.7
+4579,Mi Fit,Health & Fitness,222.9,0.0,3.6
 4580,NJ.com,News,41.3,0.0,4.5
+4581,what3words,Navigation,138.6,0.0,4.8
 4585,The Detroit News,Magazines & Newspapers,232.9,0.0,4.6
+4586,Jack in the Box®,Food & Drink,106.5,0.0,4.2
 4588,AMC Theatres,Entertainment,164.8,0.0,4.8
 4589,Granny,Games,352.0,0.0,4.4
 4592,CBS Sports App Scores & News,Sports,202.9,0.0,4.7
@@ -2137,9 +2741,13 @@
 4638,Photo Collage - Collageable,Photo & Video,213.3,0.0,4.7
 4639,Kodak Moments,Photo & Video,226.8,0.0,4.7
 4640,IGN Entertainment,Entertainment,73.1,0.0,4.5
+4641,Police Scanner!,News,83.4,0.0,4.7
 4643,Airbnb,Travel,200.4,0.0,4.8
 4644,WeChat,Social Networking,245.4,0.0,4.5
+4649,The Moron Test,Entertainment,45.8,0.0,4.5
 4650,DIRECTV NOW,Entertainment,210.7,0.0,2.3
+4654,Garden Plate,Food & Drink,108.5,0.0,4.6
+4655,Ghost Observer - AR Detector,Entertainment,57.1,0.0,4.2
 4656,Credit Karma,Finance,213.3,0.0,4.8
 4657,Dashlane Password Manager,Productivity,127.8,0.0,4.7
 4659,Google Earth,Travel,219.1,0.0,4.1
@@ -2148,24 +2756,32 @@
 4663,White Noise Deep Sleep Sounds,Health & Fitness,129.7,0.0,4.8
 4664,Hulu: Watch TV Shows & Movies,Entertainment,76.6,0.0,4.7
 4665,Mobile Passport,Travel,92.5,0.0,4.7
+4668,Moe Rewards,Food & Drink,58.2,0.0,3.6
 4669,Periscope Live Video Streaming,Social Networking,110.8,0.0,4.2
+4670,Equalizer + Volume Booster player&sound effects eq,Music,61.4,0.0,3.6
 4671,Popcornflix - Movies and TV,Entertainment,67.8,0.0,4.2
 4672,InstaMag - Photo Collage Maker,Photo & Video,124.6,0.0,4.6
 4673,MyBSWHealth,Medical,151.5,0.0,4.7
+4674,Simplenote,Productivity,24.9,0.0,4.8
 4675,TodayTix – Broadway Tickets,Entertainment,136.7,0.0,4.9
 4678,Amazon Kindle,Books,131.3,0.0,4.8
 4679,Dayforce,Business,90.6,0.0,4.4
 4680,Deal or No Deal,Games,325.2,0.0,4.7
 4683,Microsoft OneNote,Productivity,207.5,0.0,4.7
 4684,You Doodle - draw on photos,Photo & Video,76.6,0.0,4.7
+4689,Make A Baby: Future Face Maker,Entertainment,61.9,0.0,3.8
+4690,Charades!™,Games,62.5,0.0,4.3
 4693,U-Haul,Travel,77.4,0.0,4.4
+4694,Cartoon yourself video effects,Photo & Video,139.4,0.0,3.9
 4698,Mappen - Make Something Happen,Navigation,95.5,0.0,4.4
 4699,SwiftKey Keyboard,Utilities,135.8,0.0,4.7
 4701,Kiddopia - ABC Toddler Games,Education,939.7,0.0,4.6
+4702,LINE Camera - Photo editor,Photo & Video,90.9,0.0,4.6
 4703,Bleacher Report: Sports News,Sports,75.6,0.0,4.8
 4705,PlayStation Vue,Entertainment,54.7,0.0,4.3
 4708,Washington Post Print Edition,News,78.6,0.0,4.7
 4710,Todoist: Organize your life,Productivity,103.4,0.0,4.8
+4714,Fertility Friend FF App,Health & Fitness,9.4,0.0,4.8
 4715,GameStop,Shopping,73.8,0.0,4.4
 4716,MARVEL Contest of Champions,Games,201.9,0.0,4.7
 4717,1-800 Contacts,Medical,204.1,0.0,4.9
@@ -2176,26 +2792,39 @@
 4729,Adobe Capture CC,Productivity,152.0,0.0,4.8
 4731,Publix Delivery,Food & Drink,141.4,0.0,4.8
 4733,Bookshelf,Education,194.2,0.0,4.6
+4734,"Nature Melody — Soothing, Calming, and Relaxing Sounds to Relieve Stress and Help Sleep Better (Free...",Medical,218.3,0.0,4.8
+4736,Chibi Me,Social Networking,258.7,0.0,4.7
 4737,Fudget: Budget Planner Tracker,Finance,36.7,0.0,4.8
 4738,Flightradar24 | Flight Tracker,Travel,178.7,0.0,4.8
+4739,Happify: for Stress & Worry,Health & Fitness,142.7,0.0,4.5
 4743,KSL News,News,39.7,0.0,4.6
 4745,Words With Friends Classic,Games,262.7,0.0,4.5
+4747,ABC Games for Kids-EduKittyABC,Education,52.4,0.0,4.1
+4749,Escort Live Radar,Navigation,78.3,0.0,3.0
 4751,SIXT rent. share. ride.,Travel,191.0,0.0,4.9
 4752,Fooda - Office Lunch Services,Food & Drink,60.7,0.0,4.7
+4753,Prescription Check,Medical,98.3,0.0,4.8
+4756,Quran Tafsir تفسير القرآن,Reference,443.4,0.0,4.8
 4757,Selfie Editor: face cam filter,Photo & Video,68.6,0.0,4.4
+4759,Yahoo Search,Reference,109.8,0.0,4.3
 4763,Anthropologie,Shopping,78.1,0.0,4.9
 4765,Barbie Magical Fashion,Entertainment,180.7,0.0,4.4
+4766,SimpliSafe Home Security App,Lifestyle,83.8,0.0,3.1
 4767,Team App,Sports,27.9,0.0,4.1
+4769,Guides by Lonely Planet,Travel,185.8,0.0,4.9
 4770,Google My Business,Business,194.1,0.0,4.7
 4771,Birth Control Pill Reminder,Medical,22.6,0.0,4.8
 4772,Sports Alerts,Sports,92.1,0.0,4.8
 4774,Ringtones for iPhone! (music),Music,184.6,0.0,4.4
 4775,Planner Pro - Daily Calendar,Productivity,42.8,0.0,4.4
+4777,Companion for Fortnite,Reference,110.1,0.0,4.7
 4780,NCLEX PN Mastery,Medical,168.5,0.0,4.8
 4781,Gummy Drop! – A Match 3 Game,Games,173.0,0.0,4.6
 4782,"SHOWTIME: TV, Movies and More",Entertainment,66.4,0.0,4.7
+4784,Translator - Translate Box,Reference,58.1,0.0,4.6
 4785,S3 Music - MP3 Player & Playlists & Albums Manager,Entertainment,38.6,0.0,3.7
 4789,Manga Storm,Books,28.3,0.0,4.8
+4790,ecobee,Lifestyle,203.0,0.0,4.3
 4791,Rain Rain Sleep Sounds,Health & Fitness,130.4,0.0,4.8
 4793,Stitch Fix: Your Fashion Style,Shopping,95.3,0.0,4.6
 4794,Left vs Right: Brain Games,Education,180.9,0.0,4.7
@@ -2205,19 +2834,28 @@
 4802,Stopwatch‰,Utilities,27.1,0.0,4.7
 4803,Audiobooks,Books,78.3,0.0,4.6
 4805,Eastbay,Shopping,52.8,0.0,4.7
+4806,Fused: Overlay Photo And Video,Photo & Video,87.1,0.0,4.5
+4808,Secret Folder App Lock,Utilities,29.8,0.0,4.4
 4809,Baby +,Medical,193.8,0.0,4.8
 4810,PayPal Business:Invoice Maker,Business,284.7,0.0,4.6
 4811,Sleep Sounds by Sleep Pillow,Health & Fitness,66.1,0.0,4.9
+4812,Weather ◮,Weather,138.3,0.0,4.4
 4815,Virgin Pulse,Health & Fitness,500.1,0.0,4.8
 4816,VGL gay dating- twinks & jocks,Social Networking,32.6,0.0,4.7
 4817,Saks Fifth Avenue,Shopping,179.7,0.0,4.9
 4819,Jetpack Joyride,Games,143.2,0.0,4.5
 4820,Fire Balls 3D,Games,227.9,0.0,4.6
+4821,طرب الفيديو,Music,25.8,0.0,3.7
+4822,Advanced Dictionary&Thesaurus,Reference,201.8,0.0,4.7
 4823,"ipsy - Beauty, makeup & tips",Shopping,34.3,0.0,4.8
 4824,Vivid Seats – Tickets,Entertainment,110.1,0.0,4.7
+4825,Endomondo,Health & Fitness,332.2,0.0,4.3
 4826,Reports+ for Instagram,Social Networking,77.8,0.0,3.9
 4827,Enlight Photofox: Photo Editor,Photo & Video,136.2,0.0,4.7
+4829,"Notebook Free - Diary, Journal App",Productivity,4.6,0.0,4.5
 4830,Amazon - Shopping made easy,Shopping,145.9,0.0,3.2
+4831,7 Minute Workout Challenge,Health & Fitness,166.8,3.99,4.6
+4833,Hudl,Sports,206.5,0.0,4.2
 4836,Tiny Scanner Pro,Business,40.4,4.99,4.7
 4838,GROWLr: Gay Bear Social Media,Social Networking,49.0,0.0,4.4
 4840,Google Home,Lifestyle,293.7,0.0,4.4
@@ -2228,6 +2866,7 @@
 4847,Adobe Photoshop Sketch,Productivity,161.1,0.0,4.8
 4848,Booking.com Travel Deals,Travel,134.7,0.0,4.8
 4850,AncestryDNA,Lifestyle,166.6,0.0,4.8
+4851,Wyndham Rewards,Travel,134.8,0.0,4.2
 4853,1 Minute Poster Maker (Pinso),Business,232.2,0.0,4.6
 4854,DatPiff - Mixtapes & Music,Music,90.2,0.0,4.7
 4855,Honeydue: Couples Finance,Finance,141.7,0.0,4.5
@@ -2242,31 +2881,44 @@
 4865,La Liga: Live Soccer Scores,Sports,129.8,0.0,4.8
 4866,Weather Radar: AccuWeather,Weather,206.0,0.0,4.4
 4867,Surfline,Weather,185.4,0.0,4.7
+4868,LeVar Burton Kids Skybrary,Education,306.0,0.0,4.6
 4869,X-VPN Unlimited VPN Proxy,Productivity,78.6,0.0,4.7
 4870,Firefox Focus: Privacy browser,Utilities,24.8,0.0,4.8
+4871,Genius: Song Lyrics & More,Music,71.0,0.0,3.8
 4872,Tiny Piano - Free Songs to Play and Learn!,Music,22.9,0.0,4.6
+4875,携程旅行-订酒店机票火车票,Travel,160.0,0.0,4.7
 4876,Receipt Hog - Get paid to shop,Shopping,73.7,0.0,4.7
 4877,Ada - Your Health Guide,Medical,19.6,0.0,4.8
 4878,Box for iPhone and iPad,Business,128.3,0.0,4.8
+4879,Google Authenticator,Utilities,23.2,0.0,2.6
 4880,Cool Fonts,Utilities,150.6,0.0,4.6
 4881,Everlance: Mileage Tracker,Finance,146.5,0.0,4.9
 4885,Joss & Main: Furniture + Decor,Shopping,314.8,0.0,4.9
+4891,Goal Live Scores,Sports,173.9,0.0,4.7
+4892,Rosegal,Shopping,81.9,0.0,4.3
 4893,Video Star,Photo & Video,195.5,0.0,3.9
 4894,Keeper Password Manager,Productivity,194.5,0.0,4.9
 4895,Ovia Pregnancy Tracker,Medical,130.0,0.0,4.9
 4896,Pro Microphone,Music,185.6,0.0,3.9
 4898,UNiDAYS: Student Deals,Shopping,85.5,0.0,4.9
+4899,Google Keep - Notes and lists,Productivity,130.0,0.0,3.3
 4900,Color Road!,Games,193.0,0.0,4.6
 4901,Ryanair,Travel,208.0,0.0,4.4
 4904,We Heart It,Social Networking,114.8,0.0,4.6
 4905,Formula 1®,Sports,304.5,0.0,4.4
+4906,Samsung Smart View,Utilities,116.0,0.0,2.0
 4907,Palringo,Social Networking,89.3,0.0,4.4
+4908,Meditation & Relaxation Music,Health & Fitness,139.9,0.0,4.7
 4911,Checkbook - Account Tracker,Finance,48.2,0.0,4.0
+4912,Progressive,Finance,190.9,0.0,3.4
+4913,BAND - App for all groups,Social Networking,156.0,0.0,4.1
 4914,NerdWallet,Finance,61.4,0.0,4.8
 4915,Drawing Desk: Draw & Paint Art,Productivity,132.8,0.0,4.3
+4916,Deseret Bookshelf LDS Books,Books,137.5,0.0,4.6
 4917,TuneIn Pro - Radio & Sports,Music,136.0,9.99,4.7
 4918,5-0 Radio Pro Police Scanner,News,37.4,3.99,4.5
 4919,100 PICS Quiz - Picture Trivia,Games,100.6,0.0,4.6
+4920,SYFY,Entertainment,95.4,0.0,3.9
 4922,Weather’,Weather,68.8,0.0,4.5
 4923,GameFly,Shopping,45.8,0.0,4.7
 4925,Faithlife Study Bible,Reference,177.6,0.0,4.8
@@ -2293,19 +2945,26 @@
 4964,Private Browsing Web Browser,Utilities,5.9,0.0,4.7
 4966,Intune Company Portal,Business,46.5,0.0,4.5
 4969,Crunchyroll,Entertainment,73.9,0.0,4.7
+4970,Runtastic Road Bike GPS,Health & Fitness,63.8,0.0,4.7
+4973,Boom: Music Player & Equalizer,Music,178.4,0.0,4.4
 4976,Bible Hub,Reference,17.8,0.0,4.8
 4979,Edmunds - Shop Cars For Sale,Lifestyle,73.6,0.0,4.6
 4981,Hungry Howies,Lifestyle,15.2,0.0,4.4
 4983,SkyVPN - Best VPN Proxy Shield,Productivity,140.7,0.0,4.7
+4984,OnStar RemoteLink,Lifestyle,110.6,0.0,2.3
+4987,Shutterstock - Stock Photos,Productivity,54.5,0.0,4.8
 4988,Truebill Budget & Bill Tracker,Finance,102.8,0.0,4.7
 4989,Kobo Books,Books,226.6,0.0,4.5
 4990,B-Dubs®,Food & Drink,30.2,0.0,4.6
 4991,Reverse Phone Lookup,Utilities,45.9,0.0,4.6
 4996,The NBC App – Stream TV Shows,Entertainment,169.7,0.0,4.3
 4998,Autodesk SketchBook,Entertainment,173.8,0.0,4.8
+4999,ParkNYC Powered by Parkmobile,Business,80.7,0.0,1.6
 5003,Live Wallpapers for Me,Entertainment,130.8,0.0,4.6
 5004,Breethe: Sleep & Meditation,Health & Fitness,132.0,0.0,4.7
 5005,Coursera: Top online courses,Education,115.8,0.0,4.8
+5006,ImageQuote - add text captions to photos pictures,Photo & Video,33.0,0.0,4.7
+5007,Racing in Car,Games,102.2,0.0,4.0
 5008,Full Fitness : Exercise Workout Trainer,Health & Fitness,104.8,3.99,4.4
 5009,YouTube Music,Music,198.9,0.0,4.6
 5010,AP News,News,133.2,0.0,4.5
@@ -2313,6 +2972,7 @@
 5016,Microsoft Translator,Productivity,168.3,0.0,4.7
 5017,DoorDash - Order Food Delivery,Food & Drink,92.6,0.0,4.8
 5018,Castle Clash: War Empire,Games,607.6,0.0,3.9
+5019,"CarGurus: Shop Cars, Get Deals",Shopping,1.9,0.0,3.8
 5020,My Sprint Mobile,Utilities,99.0,0.0,4.5
 5021,myCigna,Health & Fitness,210.0,0.0,4.7
 5022,Peak - Brain Training,Education,454.0,0.0,4.7
@@ -2322,10 +2982,14 @@
 5031,Free VPN by Free VPN .org™,Utilities,71.8,0.0,4.7
 5035,MyQ Smart Garage Control,Lifestyle,235.4,0.0,4.7
 5036,My Boost,Utilities,29.9,0.0,4.7
+5038,Coca-Cola®,Food & Drink,194.1,0.0,4.1
 5039,Pictoword: Fun New Word Games,Games,175.1,0.0,4.5
 5041,Remotie: remote for Samsung TV,Utilities,35.2,0.0,4.2
 5043,FirstBank Mobile Banking App,Finance,63.3,0.0,4.8
+5044,Remember The Milk,Productivity,50.2,0.0,4.7
+5045,WD My Cloud,Productivity,112.5,0.0,3.5
 5046,Motivation Quotes -Daily Quote,Lifestyle,216.7,0.0,4.8
+5047,D/L Plus Free - Get and Save Files From Web Browser & File Manager,Photo & Video,14.1,0.0,3.1
 5048,Block Craft 3D: Building Games,Games,121.9,0.0,4.8
 5049,Seesaw: The Learning Journal,Education,215.4,0.0,4.9
 5050,Glassdoor Job Search,Business,80.2,0.0,4.7
@@ -2337,8 +3001,10 @@
 5059,Weight Loss Walking by Verv,Health & Fitness,116.3,0.0,4.2
 5060,NKJV Bible by Olive Tree,Reference,123.5,0.0,4.8
 5061,Rent the Runway,Shopping,168.2,0.0,4.8
+5063,BCBSM,Medical,90.7,0.0,4.5
 5064,America First Credit Union,Finance,142.5,0.0,4.8
 5067,Jet: Shopping Made Easier,Shopping,248.8,0.0,4.7
+5070,Secret Menu for Starbucks!,Food & Drink,69.3,0.0,4.7
 5071,Uber,Travel,350.4,0.0,4.7
 5076,MAPS.ME – Offline Map & Nav,Travel,143.5,0.0,4.7
 5077,Scanner PDF – Scan Documents,Business,41.9,0.0,4.6
@@ -2352,35 +3018,51 @@
 5090,LEGO® Star Wars™: TCS,Games,865.6,0.0,4.2
 5091,Nike,Shopping,155.3,0.0,4.9
 5093,Bike Race: Free Style Games,Games,170.6,0.0,4.9
+5095,LivingSocial - Deals & More,Shopping,156.8,0.0,4.7
 5096,TapeACall: Call Recorder,Business,64.1,0.0,4.3
+5097,Documents Pro - Files Editor,Productivity,50.5,0.0,4.6
 5098,Cheat for Words With Friends,Entertainment,87.6,0.0,4.7
 5100,KMOV News St. Louis,News,90.7,0.0,4.7
+5101,Boston.com,News,90.7,0.0,4.5
+5102,WCVB NewsCenter 5 - Boston,News,81.4,0.0,4.0
 5103,Smart Blood Pressure- SmartBP,Medical,97.6,0.0,4.3
+5104,Merriam-Webster Dictionary Pro,Reference,223.5,4.99,4.8
 5106,Gap,Shopping,178.4,0.0,4.8
+5107,Bible for Women & Daily Study,Books,39.6,0.0,4.8
 5110,Curb - The Taxi App,Travel,132.8,0.0,4.7
 5112,Straight Talk My Account,Utilities,117.9,0.0,4.8
 5114,Wag! - Instant Dog Walkers,Lifestyle,117.5,0.0,4.8
 5115,Audiomack: Stream New Music,Music,144.1,0.0,4.8
+5117,Bakery Story,Games,175.6,0.0,4.2
 5120,Music On - Play any hot music,Utilities,26.1,0.0,4.4
 5122,Aceable – Driving School App,Education,113.5,0.0,4.9
+5123,手机淘宝- 购物App,Shopping,338.3,0.0,4.2
 5124,Star VPN - Unlimited VPN Proxy,Productivity,20.3,0.0,4.8
 5125,Best VPN Proxy OvpnSpider,Productivity,24.2,0.0,4.5
 5126,VṖN,Productivity,144.9,0.0,4.6
+5127,Vudu - Movies & TV,Entertainment,101.9,0.0,2.9
 5130,Pokémon TV,Entertainment,45.4,0.0,4.5
+5131,Sygic Travel Maps Offline,Travel,148.8,0.0,4.6
+5133,Skillshare - Online Learning,Education,76.2,0.0,4.8
 5134,PocketLife Calendar,Productivity,64.9,0.0,4.7
+5136,Guide for Fitbit Charge HR 2,Books,52.8,0.0,4.0
 5137,EZ Receipts,Productivity,43.6,0.0,4.8
 5139,ICD10 Consult,Medical,92.1,0.0,4.8
 5140,NOOK,Books,146.3,0.0,4.8
+5141,Reuters News,News,89.5,0.0,4.0
 5142,Mixtiles,Photo & Video,142.2,0.0,4.8
+5143,Ubisoft Club,Social Networking,52.9,0.0,4.6
 5145,Xfinity Connect,Productivity,108.9,0.0,3.2
 5146,RainViewer: Live Weather Radar,Weather,16.1,0.0,4.6
 5148,Fanatics: Gear for Sports Fans,Sports,27.9,0.0,4.8
+5149,My Math Flash Cards App,Education,18.8,0.0,3.7
 5154,Echofon for Twitter,Social Networking,43.2,0.0,4.5
 5155,LINE,Social Networking,364.9,0.0,3.5
 5157,Official New York Jets,Sports,267.0,0.0,4.6
 5158,"Pro Metronome - Tempo,Beat,Subdivision,Polyrhythm",Music,89.5,0.0,4.7
 5159,YouTube TV,Entertainment,195.1,0.0,4.1
 5164,أبشر,Productivity,20.5,0.0,4.9
+5165,Vimeo,Photo & Video,103.9,0.0,4.0
 5167,Your Texas Benefits,Health & Fitness,64.3,0.0,4.8
 5168,Pregnancy +,Medical,204.2,0.0,4.8
 5169,Speak & Translate: Translator,Reference,85.6,19.99,4.6
@@ -2391,20 +3073,28 @@
 5178,Nightstand Central Alarm Clock,Utilities,78.2,0.0,4.4
 5179,Vont - Text on Videos,Photo & Video,74.0,0.0,4.5
 5181,1500 Ringtones & Alerts,Entertainment,39.7,0.0,4.3
+5182,Thermometer++.,Weather,28.8,0.0,4.7
 5186,Skype for Business,Business,153.5,0.0,4.0
 5187,foodpanda - Food Delivery,Food & Drink,146.5,0.0,4.5
 5188,Seconds Interval Timer HIIT,Health & Fitness,57.7,0.0,4.7
 5189,Compass°,Utilities,27.2,0.0,4.7
+5194,Talking Pierre the Parrot,Entertainment,77.7,0.0,4.4
+5198,Kids Academy Talented & Gifted,Education,154.8,0.0,4.6
 5200,Night Sky,Reference,635.3,0.0,4.7
 5202,Money App – Cash & Rewards App,Lifestyle,28.4,0.0,4.9
+5203,Cyclemeter Cycling Running GPS,Health & Fitness,127.9,0.0,4.6
 5204,The Bump - Pregnancy Countdown,Health & Fitness,146.8,0.0,4.8
+5207,Photoblend photoshop like edit,Photo & Video,143.7,0.0,4.7
 5209,Hily - Best New Dating App,Social Networking,197.0,0.0,4.1
 5210,iFood - Delivery de Comida,Food & Drink,139.2,0.0,4.6
+5211,d365 Daily Devotionals,Reference,13.1,0.0,4.8
 5215,theCHIVE,Entertainment,83.6,0.0,4.5
 5216,Esurance Mobile,Utilities,130.4,0.0,4.8
 5222,OverDrive: eBooks & audiobooks,Books,32.7,0.0,4.6
 5223,Weather+,Weather,131.8,3.99,4.6
+5224,Parking Panda,Navigation,76.5,0.0,4.7
 5225,Metronome - BPM & Tap Tempo,Music,192.5,0.0,3.8
+5227,Gas Guru: Cheap Gas Prices,Travel,40.7,0.0,3.6
 5229,Cloud Music Offline MP3 Music,Music,62.4,0.0,4.0
 5230,Old Navy,Shopping,178.4,0.0,4.8
 5235,Moment – Balance Screen Time,Health & Fitness,86.5,0.0,4.5
@@ -2413,6 +3103,7 @@
 5239,"AllTrails: Hike, Run & Cycle",Health & Fitness,210.9,0.0,4.9
 5240,IXL - Math and English,Education,208.5,0.0,4.4
 5241,Chipotle,Food & Drink,204.8,0.0,4.1
+5242,Calorie Counter - MyNetDiary,Health & Fitness,217.0,0.0,4.7
 5243,Yahoo Weather,Weather,150.8,0.0,4.4
 5244,Biblia Reina Valera en Español,Books,48.1,0.0,4.8
 5246,Turo - Better Than Car Rental,Travel,161.9,0.0,4.8
@@ -2434,19 +3125,23 @@
 5274,VPN Proxy Master,Productivity,79.6,0.0,4.7
 5275,Nasty Gal – Clothing + Fashion,Shopping,57.3,0.0,4.8
 5276,Earny: Automatic Cash Back,Finance,125.2,0.0,4.6
+5277,Camp Pokémon,Entertainment,1228.8,0.0,3.9
 5278,HOLLA: live video chat&dating,Social Networking,174.0,0.0,4.5
 5279,Sonic Dash,Games,225.9,0.0,4.6
 5280,Daily Bible Inspirations,Reference,72.5,0.0,4.9
 5281,Strawberry Shortcake Bake Shop,Entertainment,117.3,0.0,4.3
 5282,Pacemaker - AI DJ app,Music,152.0,0.0,4.6
+5283,GoToWebinar,Business,225.7,0.0,4.6
 5285,Preschool & Kindergarten Games,Education,81.3,0.0,4.3
 5286,Best Brokers Stock Market Game,Finance,16.2,0.0,4.6
+5287,Cheap Flights – 777 Airlines,Travel,40.1,0.0,4.7
 5288,Contraction Timer - Time labor,Medical,12.4,0.0,4.5
 5291,Economist Espresso,News,74.2,0.0,4.8
 5292,PINK Nation,Lifestyle,165.7,0.0,4.8
 5293,Drums - real drum set games,Music,291.1,0.0,4.3
 5295,Crossy Road,Games,137.2,0.0,4.6
 5296,Police Scanner+,News,80.1,0.0,4.5
+5299,Forbes Magazine,Business,70.5,0.0,4.6
 5300,ATI TEAS Pocket Prep,Medical,57.5,0.0,4.7
 5302,CSR Racing,Games,505.2,0.0,4.6
 5303,Amazon Fire TV,Utilities,117.4,0.0,3.3
@@ -2456,17 +3151,23 @@
 5308,CNN: Breaking US & World News,News,196.5,0.0,4.7
 5309,Best Fiends - Puzzle Adventure,Games,380.9,0.0,4.7
 5310,Ever - Photo Backup & Storage,Productivity,250.1,0.0,4.6
+5314,"Listia: Buy, Sell, and Trade",Shopping,75.6,0.0,4.4
 5315,SpanishDict Translator,Education,312.9,0.0,4.8
 5317,iTranslate Voice,Reference,57.6,0.0,4.7
 5318,Calculator #,Utilities,107.2,0.0,4.6
 5319,Priceline Hotel & Travel Deals,Travel,56.6,0.0,4.8
 5320,Unlaced,Lifestyle,45.4,0.0,4.8
+5325,CamWow - Camera booth effects!,Entertainment,8.0,0.0,4.3
 5326,LIKE Video-Magic Music Video,Photo & Video,177.7,0.0,4.0
 5328,Cardiio: Heart Rate Monitor,Health & Fitness,43.4,0.0,4.7
 5332,Tango - Live Video Broadcasts,Social Networking,125.6,0.0,4.2
 5333,Cheapflights Flights & Hotels,Travel,99.2,0.0,4.7
+5334,Golden Quran | المصحف الذهبي,Books,178.0,0.0,4.7
+5335,ClearCareGo Caregiver,Medical,20.0,0.0,4.2
 5336,Rolly Vortex,Games,214.4,0.0,4.6
+5337,Green Dot - Mobile Banking,Finance,123.8,0.0,3.4
 5340,Field Agent,Lifestyle,81.1,0.0,4.7
+5341,Khan Academy,Education,162.7,0.0,4.0
 5343,Clover Dating App,Social Networking,124.1,0.0,4.6
 5344,Browser and Documents Manager,Utilities,48.3,0.0,4.7
 5346,Grab App,Travel,419.0,0.0,4.2
@@ -2480,23 +3181,28 @@
 5356,Moot - LFG & Gaming Discussion,Social Networking,130.6,0.0,4.8
 5358,Uber Eats: Food Delivery,Food & Drink,218.0,0.0,4.8
 5359,Google Opinion Rewards,Lifestyle,131.8,0.0,4.7
+5360,Ovia Parenting & Baby Tracker,Medical,151.5,0.0,4.7
 5361,VPN - Unlimited Best VPN Proxy,Productivity,63.6,0.0,4.6
 5363,TransferWise Money Transfer,Finance,66.5,0.0,4.8
 5364,XFINITY TV Remote,Entertainment,37.3,0.0,1.7
 5371,Kickstarter,Social Networking,48.9,0.0,4.8
 5372,Slo Mo Video - Slow Motion Vid Speed Editor for YouTube and Instagram,Photo & Video,3.3,0.0,4.2
+5373,BankMobile App,Finance,39.6,0.0,4.4
 5375,Knife Hit,Games,134.5,0.0,4.6
 5376,Live Nation – For Concert Fans,Music,113.8,0.0,4.8
 5378,Talabat طلبات - Food ordering,Food & Drink,141.7,0.0,4.6
 5379,LGeeRemote: Remote For LG TV,Utilities,15.2,0.0,4.3
 5380,"DAZN: Live Boxing, MMA & More",Sports,93.0,0.0,4.7
 5381,Bloomz: For Teachers & Schools,Education,127.1,0.0,4.6
+5382,Equalizer Fx: Bass Booster App,Music,55.7,0.0,3.2
+5384,Citi Bike,Navigation,171.2,0.0,4.6
 5385,Countable - Contact Congress,News,55.0,0.0,4.5
 5386,Amazon Prime Video,Entertainment,130.3,0.0,4.8
 5387,Google Classroom,Education,210.8,0.0,4.6
 5388,B612 - Beauty & Filter Camera,Photo & Video,148.2,0.0,4.4
 5389,FlightStats,Travel,48.8,0.0,4.8
 5392,Apple Store,Shopping,69.0,0.0,3.6
+5393,Female Fitness Women Workout,Health & Fitness,134.0,0.0,3.9
 5394,Ibotta: Cash Back Rewards App,Shopping,114.0,0.0,4.7
 5396,Poemhunter,Reference,38.8,0.0,4.7
 5401,Southwest Airlines,Travel,151.0,0.0,4.8
