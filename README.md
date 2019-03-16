@@ -11,3 +11,9 @@ Two datasets will be acquired from Kaggle (https://www.kaggle.com/) and each one
 
 ### Real world Application
 Our results give hints to app developers on how they should manage resources and optimize the app when it comes to different platforms. Also, this might be helpful to some customers wishing to find apps with great price performance ratio.
+
+## Run our codes
+1. Make sure you have seaborn installed.
+2. Go to ./Data Preprocessing and run Data_preprocessing.py to make sure you get the clean dataset.
+3. Go to ./Comparison Analysis and run Comparison.ipynb to get comparison plots.
+4. Go to ./Single Dataset Analysis and run the two ipynb to get single dataset analysis plots.
